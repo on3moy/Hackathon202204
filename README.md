@@ -1,2 +1,6 @@
 # Hackathon202204
-Hackathon Event
+Hackathon Event!
+Eric
+Moy
+Carlie
+Nguyen
