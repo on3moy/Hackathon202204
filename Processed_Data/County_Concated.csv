@@ -344,513 +344,513 @@
 342,"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",446.0,587,551.0,893,953,774,448,606.0,647,968,2019,monthly rent
 343,"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",220.0,320,2132.0,775,1137,849,617,421.0,521,461,2019,monthly rent
 344,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",428.0,996,1245.0,1208,1059,1140,608,824.0,1060,1078,2019,monthly rent
-0,"Los Angeles County (North/Unincorporated)--Castaic PUMA, California",4.0,0,3.0,2,3,3,3,3.0,2,3,2015,np
-1,"Los Angeles County (Northwest)--Santa Clarita City PUMA, California",4.0,0,2.0,2,2,3,3,4.0,2,3,2015,np
-2,"Los Angeles County (North Central)--Lancaster City PUMA, California",4.0,0,2.0,3,4,3,3,3.0,2,3,2015,np
-3,"Los Angeles County (North Central)--Palmdale City PUMA, California",4.0,0,2.0,3,3,4,4,4.0,2,3,2015,np
-4,"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch) PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,3,2015,np
-5,"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar) PUMA, California",4.0,0,3.0,3,3,4,3,4.0,2,3,2015,np
-6,"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities PUMA, California",4.0,0,2.0,4,4,4,5,5.0,2,4,2015,np
-7,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga) PUMA; California",4.0,0,1.0,3,3,3,3,3.0,2,3,2015,np
-8,"Los Angeles County (Central)--San Gabriel Valley Region (North) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2015,np
-9,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities PUMA; California",6.0,0,2.0,3,3,4,4,4.0,2,4,2015,np
-10,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities PUMA; California",3.0,0,1.0,2,2,3,3,3.0,2,2,2015,np
-11,"Los Angeles County (East Central)--Pomona City PUMA, California",3.0,0,2.0,3,4,4,4,4.0,2,3,2015,np
-12,"Los Angeles County (East Central)--Covina & Walnut Cities PUMA, California",4.0,0,2.0,3,3,3,4,3.0,2,3,2015,np
-13,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights PUMA; California",3.0,0,2.0,3,3,3,3,4.0,2,3,2015,np
-14,"Los Angeles County (East Central)--West Covina City PUMA, California",5.0,0,1.0,3,3,4,4,4.0,2,3,2015,np
-15,"Los Angeles County (East Central)--La Puente & Industry Cities PUMA, California",7.0,0,2.0,3,4,5,5,5.0,3,3,2015,np
-16,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities PUMA; California",3.0,0,3.0,2,3,3,3,4.0,2,3,2015,np
-17,"Los Angeles County (Central)--Pasadena City PUMA, California",3.0,0,2.0,3,2,3,2,3.0,2,2,2015,np
-18,"Los Angeles County (Central)--Glendale City PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,2,2015,np
-19,"Los Angeles County (Central)--Burbank City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2015,np
-20,"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village) PUMA, California",3.0,0,1.0,2,2,2,3,3.0,2,2,2015,np
-21,"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks) PUMA, California",4.0,0,1.0,3,3,2,3,3.0,2,3,2015,np
-22,"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City) PUMA, California",4.0,0,2.0,3,4,4,5,4.0,3,4,2015,np
-23,"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana) PUMA, California",3.0,0,1.0,3,3,3,3,4.0,2,3,2015,np
-24,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills) PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,3,2015,np
-25,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,1,2,2015,np
-26,"Los Angeles County (Central)--LA City (Central/Pacific Palisades) PUMA, California",3.0,0,1.0,2,2,2,2,2.0,1,2,2015,np
-27,"Los Angeles County (Southwest)--Santa Monica City PUMA, California",2.0,0,1.0,2,2,2,2,2.0,1,2,2015,np
-28,"Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles) PUMA, California",3.0,0,2.0,2,2,2,2,2.0,2,2,2015,np
-29,"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire) PUMA, California",3.0,0,2.0,2,2,2,2,3.0,2,2,2015,np
-30,"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities PUMA, California",3.0,0,1.0,2,2,2,2,3.0,1,1,2015,np
-31,"Los Angeles County (Central)--LA City (East Central/Hollywood) PUMA, California",2.0,0,1.0,2,2,2,2,3.0,1,2,2015,np
-32,"Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, California",2.0,0,1.0,2,2,3,3,3.0,2,2,2015,np
-33,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake) PUMA; California",2.0,0,2.0,3,3,3,3,3.0,2,3,2015,np
-34,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park) PUMA; California",3.0,0,2.0,3,3,3,4,4.0,2,3,2015,np
-35,"Los Angeles County (Central)--Alhambra & South Pasadena Cities PUMA, California",4.0,0,2.0,3,3,3,4,3.0,2,3,2015,np
-36,"Los Angeles County (Central)--Monterey Park & Rosemead Cities PUMA, California",5.0,0,2.0,3,3,3,4,4.0,2,3,2015,np
-37,"Los Angeles County (Central)--El Monte & South El Monte Cities PUMA, California",3.0,0,1.0,3,4,5,4,4.0,2,4,2015,np
-38,"Los Angeles County (Southeast)--Whittier City & Hacienda Heights PUMA, California",4.0,0,1.0,2,3,3,4,3.0,2,3,2015,np
-39,"Los Angeles County (Central)--Pico Rivera & Montebello Cities PUMA, California",5.0,0,2.0,3,3,4,4,4.0,2,3,2015,np
-40,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities PUMA; California",5.0,0,1.0,4,4,4,5,7.0,3,4,2015,np
-41,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park PUMA; California",10.0,0,1.0,3,4,5,7,6.0,3,4,2015,np
-42,"Los Angeles County (Central)--East Los Angeles PUMA, California",3.0,0,3.0,3,4,4,4,4.0,3,4,2015,np
-43,"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights) PUMA, California",2.0,0,1.0,3,2,3,2,2.0,2,3,2015,np
-44,"Los Angeles County (Central)--LA City (Southeast/East Vernon) PUMA, California",,0,1.0,4,5,6,7,,3,4,2015,np
-45,"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park) PUMA, California",4.0,0,2.0,3,3,3,6,5.0,2,4,2015,np
-46,"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2015,np
-47,"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities PUMA, California",3.0,0,2.0,2,2,2,2,2.0,2,2,2015,np
-48,"Los Angeles County (Central)--Inglewood City PUMA, California",4.0,0,2.0,3,3,3,4,7.0,2,3,2015,np
-49,"Los Angeles County (South Central)--LA City (South Central/Westmont) PUMA, California",8.0,0,2.0,3,3,4,4,5.0,2,3,2015,np
-50,"Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, California",5.0,0,4.0,4,5,6,7,6.0,3,4,2015,np
-51,"Los Angeles County (South)--South Gate & Lynwood Cities PUMA, California",7.0,0,3.0,3,4,5,5,5.0,3,4,2015,np
-52,"Los Angeles County (South)--Downey City PUMA, California",4.0,0,1.0,3,3,4,3,4.0,2,3,2015,np
-53,"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities PUMA, California",4.0,0,2.0,3,4,4,4,5.0,2,3,2015,np
-54,"Los Angeles County (Southeast)--Norwalk City PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2015,np
-55,"Los Angeles County (Southeast)--Bellflower & Paramount Cities PUMA, California",6.0,0,1.0,3,3,4,4,4.0,2,3,2015,np
-56,"Los Angeles County (South Central)--Compton City & West Rancho Dominguez PUMA, California",4.0,0,2.0,4,4,4,4,4.0,2,4,2015,np
-57,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens PUMA; California",4.0,0,3.0,3,3,3,3,3.0,2,3,2015,np
-58,"Los Angeles County (South Central)--Hawthorne City PUMA, California",3.0,0,2.0,2,3,3,4,4.0,2,3,2015,np
-59,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities PUMA; California",3.0,0,2.0,2,2,2,2,3.0,1,2,2015,np
-60,"Los Angeles County (South Central)--Torrance City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2015,np
-61,"Los Angeles County (South Central)--Carson City PUMA, California",4.0,0,2.0,2,3,3,4,5.0,2,3,2015,np
-62,"Los Angeles County (South Central)--Long Beach City (North) PUMA, California",3.0,0,1.0,2,3,3,4,3.0,2,3,2015,np
-63,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities PUMA; California",4.0,0,2.0,2,3,3,3,4.0,2,3,2015,np
-64,"Los Angeles County (Southeast)--Long Beach City (East) PUMA, California",3.0,0,2.0,2,2,2,3,3.0,2,2,2015,np
-65,"Los Angeles County (South)--Long Beach City (Southwest & Port) PUMA, California",3.0,0,2.0,2,3,3,2,4.0,2,4,2015,np
-66,"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",3.0,0,1.0,3,3,3,4,3.0,3,2,2015,np
-67,"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",3.0,0,1.0,2,2,2,3,3.0,1,2,2015,np
-68,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",3.0,0,1.0,3,3,2,2,3.0,2,2,2015,np
-69,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities PUMA; California",3.0,0,1.0,2,2,3,3,3.0,1,2,2015,np
-70,"Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2015,np
-71,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities PUMA; California",3.0,0,2.0,2,2,2,3,3.0,2,2,2015,np
-72,"Orange County (Central)--Irvine City (Central) PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,2,2015,np
-73,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,3,2015,np
-74,"Orange County (North)--Yorba Linda, La Habra & Brea Cities PUMA; California",3.0,0,2.0,3,3,3,3,3.0,2,3,2015,np
-75,"Orange County (North Central)--Fullerton & Placentia Cities PUMA, California",3.0,0,3.0,2,3,3,3,3.0,2,3,2015,np
-76,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,3,2015,np
-77,"Orange County (North Central)--Anaheim City (West) PUMA, California",4.0,0,3.0,3,4,4,4,4.0,2,3,2015,np
-78,"Orange County (North Central)--Anaheim City (East) PUMA, California",3.0,0,1.0,3,3,4,3,4.0,2,3,2015,np
-79,"Orange County (Central)--Orange & Villa Park Cities PUMA, California",4.0,0,3.0,3,3,3,4,3.0,2,2,2015,np
-80,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities PUMA; California",4.0,0,2.0,3,4,3,3,4.0,2,3,2015,np
-81,"Orange County (Northwest)--Garden Grove City (East) PUMA, California",5.0,0,3.0,3,3,4,3,4.0,3,3,2015,np
-82,"Orange County (Northwest)--Huntington Beach City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2015,np
-83,"Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch PUMA, California",3.0,0,1.0,2,2,3,3,4.0,2,2,2015,np
-84,"Orange County (Central)--Santa Ana City (West) PUMA, California",5.0,0,2.0,4,4,5,5,6.0,3,4,2015,np
-85,"Orange County (Central)--Santa Ana City (East) PUMA, California",5.0,0,2.0,4,4,4,5,6.0,3,4,2015,np
-86,"Orange County (Central)--Costa Mesa & Fountain Valley Cities PUMA, California",3.0,0,2.0,3,3,3,3,3.0,2,2,2015,np
-87,"Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities PUMA; California",3.0,0,1.0,3,3,3,3,2.0,2,3,2015,np
-88,"Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities PUMA; California",2.0,0,1.0,2,2,3,3,2.0,2,2,2015,np
-89,"Riverside County (Southwest)--Temecula City PUMA, California",4.0,0,3.0,2,3,4,3,4.0,2,3,2015,np
-90,"Riverside County (Southwest)--Murrieta & Wildomar Cities PUMA, California",3.0,0,4.0,3,3,3,4,4.0,2,2,2015,np
-91,"Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities PUMA; California",5.0,0,2.0,3,3,4,3,3.0,3,3,2015,np
-92,"Riverside County (Southwest)--Hemet City & East Hemet PUMA, California",4.0,0,2.0,3,3,4,3,4.0,2,3,2015,np
-93,"Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities PUMA; California",3.0,0,1.0,2,3,3,3,4.0,2,3,2015,np
-94,"Riverside County (Northwest)--Moreno Valley City PUMA, California",4.0,0,2.0,3,4,4,3,4.0,3,3,2015,np
-95,"Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley PUMA; California",4.0,0,2.0,4,4,4,5,4.0,3,3,2015,np
-96,"Riverside County (Northwest)--Riverside City (East) PUMA, California",3.0,0,1.0,3,3,4,3,3.0,2,3,2015,np
-97,"Riverside County (Northwest)--Riverside City (West) PUMA, California",4.0,0,2.0,3,3,4,4,3.0,3,3,2015,np
-98,"Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens PUMA; California",3.0,0,1.0,2,4,3,4,3.0,2,3,2015,np
-99,"Riverside County (West Central)--Corona (Northwest) & Norco Cities PUMA, California",4.0,0,1.0,3,3,3,3,3.0,2,2,2015,np
-100,"Riverside County (Northwest)--Jurupa Valley & Eastvale Cities PUMA, California",4.0,0,1.0,3,4,4,4,5.0,2,3,2015,np
-101,"Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities PUMA; California",2.0,0,2.0,2,3,2,3,3.0,2,3,2015,np
-102,"Los Angeles County (North/Unincorporated)--Castaic PUMA, California",4.0,0,4.0,3,3,3,4,4.0,2,2,2016,np
-103,"Los Angeles County (Northwest)--Santa Clarita City PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,3,2016,np
-104,"Los Angeles County (North Central)--Lancaster City PUMA, California",3.0,0,3.0,3,3,3,3,3.0,2,3,2016,np
-105,"Los Angeles County (North Central)--Palmdale City PUMA, California",3.0,0,2.0,3,4,4,4,3.0,3,4,2016,np
-106,"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,3,2016,np
-107,"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar) PUMA, California",3.0,0,2.0,3,4,3,4,4.0,2,3,2016,np
-108,"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities PUMA, California",6.0,0,1.0,3,4,5,4,4.0,2,4,2016,np
-109,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga) PUMA; California",4.0,0,2.0,3,3,3,3,4.0,2,3,2016,np
-110,"Los Angeles County (Central)--San Gabriel Valley Region (North) PUMA, California",3.0,0,,2,2,3,3,3.0,2,2,2016,np
-111,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities PUMA; California",6.0,0,2.0,3,3,4,4,4.0,2,3,2016,np
-112,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities PUMA; California",3.0,0,1.0,2,2,3,3,3.0,2,3,2016,np
-113,"Los Angeles County (East Central)--Pomona City PUMA, California",5.0,0,3.0,3,4,4,4,5.0,2,4,2016,np
-114,"Los Angeles County (East Central)--Covina & Walnut Cities PUMA, California",3.0,0,1.0,3,3,4,4,4.0,2,3,2016,np
-115,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights PUMA; California",4.0,0,2.0,3,3,3,4,4.0,2,3,2016,np
-116,"Los Angeles County (East Central)--West Covina City PUMA, California",5.0,0,1.0,3,3,4,4,4.0,2,3,2016,np
-117,"Los Angeles County (East Central)--La Puente & Industry Cities PUMA, California",6.0,0,,3,4,5,5,4.0,3,4,2016,np
-118,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities PUMA; California",4.0,0,2.0,2,3,3,3,3.0,2,3,2016,np
-119,"Los Angeles County (Central)--Pasadena City PUMA, California",3.0,0,1.0,2,2,2,2,2.0,2,3,2016,np
-120,"Los Angeles County (Central)--Glendale City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2016,np
-121,"Los Angeles County (Central)--Burbank City PUMA, California",3.0,0,2.0,2,3,2,3,3.0,2,2,2016,np
-122,"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village) PUMA, California",3.0,0,2.0,2,3,2,2,4.0,2,2,2016,np
-123,"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,3,2016,np
-124,"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City) PUMA, California",5.0,0,2.0,3,3,4,5,4.0,3,3,2016,np
-125,"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana) PUMA, California",3.0,0,2.0,2,3,3,3,4.0,2,3,2016,np
-126,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills) PUMA; California",3.0,0,1.0,3,3,3,3,3.0,2,3,2016,np
-127,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,1,2,2016,np
-128,"Los Angeles County (Central)--LA City (Central/Pacific Palisades) PUMA, California",3.0,0,2.0,2,2,2,2,2.0,1,2,2016,np
-129,"Los Angeles County (Southwest)--Santa Monica City PUMA, California",2.0,0,2.0,2,1,2,2,2.0,1,2,2016,np
-130,"Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles) PUMA, California",3.0,0,2.0,2,2,2,2,3.0,2,2,2016,np
-131,"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire) PUMA, California",3.0,0,2.0,2,2,2,2,3.0,1,2,2016,np
-132,"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities PUMA, California",2.0,0,1.0,1,2,2,2,2.0,1,2,2016,np
-133,"Los Angeles County (Central)--LA City (East Central/Hollywood) PUMA, California",2.0,0,2.0,2,2,2,2,3.0,2,2,2016,np
-134,"Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, California",2.0,0,2.0,2,3,2,2,3.0,2,3,2016,np
-135,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake) PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,3,2016,np
-136,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park) PUMA; California",4.0,0,1.0,3,3,3,3,3.0,2,3,2016,np
-137,"Los Angeles County (Central)--Alhambra & South Pasadena Cities PUMA, California",3.0,0,2.0,3,3,3,3,4.0,2,3,2016,np
-138,"Los Angeles County (Central)--Monterey Park & Rosemead Cities PUMA, California",4.0,0,3.0,3,3,3,3,4.0,2,3,2016,np
-139,"Los Angeles County (Central)--El Monte & South El Monte Cities PUMA, California",5.0,0,2.0,3,5,5,5,3.0,3,4,2016,np
-140,"Los Angeles County (Southeast)--Whittier City & Hacienda Heights PUMA, California",4.0,0,2.0,2,3,3,4,3.0,2,2,2016,np
-141,"Los Angeles County (Central)--Pico Rivera & Montebello Cities PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2016,np
-142,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities PUMA; California",5.0,0,1.0,3,4,5,5,6.0,3,4,2016,np
-143,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park PUMA; California",2.0,0,2.0,3,4,5,6,7.0,3,4,2016,np
-144,"Los Angeles County (Central)--East Los Angeles PUMA, California",5.0,0,3.0,3,4,5,5,3.0,2,4,2016,np
-145,"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights) PUMA, California",3.0,0,1.0,3,3,3,2,5.0,2,3,2016,np
-146,"Los Angeles County (Central)--LA City (Southeast/East Vernon) PUMA, California",5.0,0,1.0,4,5,5,6,5.0,3,4,2016,np
-147,"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park) PUMA, California",5.0,0,2.0,3,3,4,5,3.0,2,4,2016,np
-148,"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills) PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,3,2016,np
-149,"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities PUMA, California",3.0,0,1.0,2,2,2,2,3.0,1,2,2016,np
-150,"Los Angeles County (Central)--Inglewood City PUMA, California",2.0,0,2.0,2,3,3,4,4.0,2,3,2016,np
-151,"Los Angeles County (South Central)--LA City (South Central/Westmont) PUMA, California",3.0,0,2.0,3,3,3,6,3.0,2,3,2016,np
-152,"Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, California",5.0,0,2.0,4,4,5,5,7.0,3,4,2016,np
-153,"Los Angeles County (South)--South Gate & Lynwood Cities PUMA, California",6.0,0,3.0,3,4,5,5,4.0,3,4,2016,np
-154,"Los Angeles County (South)--Downey City PUMA, California",4.0,0,1.0,3,3,3,4,4.0,2,3,2016,np
-155,"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities PUMA, California",4.0,0,3.0,3,3,4,4,4.0,2,3,2016,np
-156,"Los Angeles County (Southeast)--Norwalk City PUMA, California",6.0,0,2.0,3,4,4,4,5.0,2,3,2016,np
-157,"Los Angeles County (Southeast)--Bellflower & Paramount Cities PUMA, California",5.0,0,4.0,3,4,4,4,4.0,2,4,2016,np
-158,"Los Angeles County (South Central)--Compton City & West Rancho Dominguez PUMA, California",7.0,0,2.0,3,4,5,4,4.0,3,4,2016,np
-159,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens PUMA; California",3.0,0,2.0,3,3,4,3,4.0,2,3,2016,np
-160,"Los Angeles County (South Central)--Hawthorne City PUMA, California",3.0,0,1.0,3,3,4,3,3.0,2,3,2016,np
-161,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities PUMA; California",3.0,0,1.0,2,2,2,2,2.0,2,2,2016,np
-162,"Los Angeles County (South Central)--Torrance City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,1,2,2016,np
-163,"Los Angeles County (South Central)--Carson City PUMA, California",4.0,0,1.0,3,3,4,3,4.0,2,3,2016,np
-164,"Los Angeles County (South Central)--Long Beach City (North) PUMA, California",3.0,0,1.0,3,3,4,4,4.0,2,3,2016,np
-165,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities PUMA; California",4.0,0,2.0,3,3,3,3,4.0,2,3,2016,np
-166,"Los Angeles County (Southeast)--Long Beach City (East) PUMA, California",3.0,0,2.0,2,2,2,3,3.0,1,2,2016,np
-167,"Los Angeles County (South)--Long Beach City (Southwest & Port) PUMA, California",4.0,0,1.0,3,3,3,3,2.0,2,3,2016,np
-168,"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2016,np
-169,"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",3.0,0,3.0,2,2,3,3,3.0,1,2,2016,np
-170,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",2.0,0,2.0,3,3,3,2,2.0,2,2,2016,np
-171,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities PUMA; California",3.0,0,2.0,2,2,3,3,3.0,2,2,2016,np
-172,"Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2016,np
-173,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities PUMA; California",3.0,0,2.0,2,2,2,3,3.0,1,2,2016,np
-174,"Orange County (Central)--Irvine City (Central) PUMA, California",3.0,0,3.0,2,2,3,3,3.0,2,2,2016,np
-175,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado PUMA; California",3.0,0,2.0,2,2,3,3,3.0,2,2,2016,np
-176,"Orange County (North)--Yorba Linda, La Habra & Brea Cities PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2016,np
-177,"Orange County (North Central)--Fullerton & Placentia Cities PUMA, California",3.0,0,2.0,3,3,3,3,3.0,2,3,2016,np
-178,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities PUMA; California",4.0,0,1.0,3,3,3,3,4.0,2,3,2016,np
-179,"Orange County (North Central)--Anaheim City (West) PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2016,np
-180,"Orange County (North Central)--Anaheim City (East) PUMA, California",3.0,0,1.0,3,3,3,3,4.0,2,3,2016,np
-181,"Orange County (Central)--Orange & Villa Park Cities PUMA, California",4.0,0,1.0,2,3,3,3,4.0,2,2,2016,np
-182,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities PUMA; California",4.0,0,2.0,3,3,3,4,4.0,2,3,2016,np
-183,"Orange County (Northwest)--Garden Grove City (East) PUMA, California",4.0,0,1.0,3,4,4,4,5.0,2,3,2016,np
-184,"Orange County (Northwest)--Huntington Beach City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2016,np
-185,"Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch PUMA, California",4.0,0,2.0,2,2,2,3,3.0,2,2,2016,np
-186,"Orange County (Central)--Santa Ana City (West) PUMA, California",7.0,0,3.0,4,4,4,5,6.0,3,4,2016,np
-187,"Orange County (Central)--Santa Ana City (East) PUMA, California",6.0,0,3.0,4,4,4,5,4.0,2,4,2016,np
-188,"Orange County (Central)--Costa Mesa & Fountain Valley Cities PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2016,np
-189,"Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities PUMA; California",3.0,0,1.0,3,3,3,5,3.0,2,3,2016,np
-190,"Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities PUMA; California",2.0,0,1.0,2,2,2,2,2.0,1,2,2016,np
-191,"Riverside County (Southwest)--Temecula City PUMA, California",4.0,0,1.0,3,3,3,4,4.0,2,3,2016,np
-192,"Riverside County (Southwest)--Murrieta & Wildomar Cities PUMA, California",4.0,0,3.0,3,3,3,3,4.0,2,3,2016,np
-193,"Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities PUMA; California",3.0,0,2.0,2,3,3,3,4.0,2,3,2016,np
-194,"Riverside County (Southwest)--Hemet City & East Hemet PUMA, California",5.0,0,4.0,3,3,4,3,4.0,2,3,2016,np
-195,"Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities PUMA; California",4.0,0,2.0,3,3,3,4,3.0,2,3,2016,np
-196,"Riverside County (Northwest)--Moreno Valley City PUMA, California",5.0,0,1.0,4,4,4,4,4.0,3,4,2016,np
-197,"Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley PUMA; California",4.0,0,3.0,3,4,4,4,5.0,2,4,2016,np
-198,"Riverside County (Northwest)--Riverside City (East) PUMA, California",3.0,0,2.0,3,3,4,3,3.0,2,3,2016,np
-199,"Riverside County (Northwest)--Riverside City (West) PUMA, California",3.0,0,1.0,3,3,3,4,3.0,2,3,2016,np
-200,"Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens PUMA; California",4.0,0,1.0,3,4,4,4,4.0,2,2,2016,np
-201,"Riverside County (West Central)--Corona (Northwest) & Norco Cities PUMA, California",4.0,0,2.0,2,3,3,4,3.0,2,3,2016,np
-202,"Riverside County (Northwest)--Jurupa Valley & Eastvale Cities PUMA, California",4.0,0,2.0,3,3,4,4,4.0,2,4,2016,np
-203,"Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities PUMA; California",3.0,0,1.0,2,3,2,3,3.0,1,2,2016,np
-204,"Los Angeles County (North/Unincorporated)--Castaic PUMA, California",4.0,0,3.0,3,3,3,3,3.0,2,3,2017,np
-205,"Los Angeles County (Northwest)--Santa Clarita City PUMA, California",4.0,0,1.0,2,3,3,3,3.0,2,3,2017,np
-206,"Los Angeles County (North Central)--Lancaster City PUMA, California",3.0,0,2.0,3,3,4,3,3.0,2,3,2017,np
-207,"Los Angeles County (North Central)--Palmdale City PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2017,np
-208,"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,1,2,2017,np
-209,"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar) PUMA, California",4.0,0,3.0,3,3,3,4,3.0,2,3,2017,np
-210,"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities PUMA, California",5.0,0,2.0,3,4,5,5,5.0,2,4,2017,np
-211,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga) PUMA; California",3.0,0,1.0,2,3,3,3,4.0,2,3,2017,np
-212,"Los Angeles County (Central)--San Gabriel Valley Region (North) PUMA, California",3.0,0,,2,2,2,3,3.0,2,2,2017,np
-213,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities PUMA; California",4.0,0,3.0,3,4,4,3,5.0,2,3,2017,np
-214,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities PUMA; California",3.0,0,3.0,2,3,3,3,3.0,1,2,2017,np
-215,"Los Angeles County (East Central)--Pomona City PUMA, California",5.0,0,2.0,3,3,4,5,4.0,3,3,2017,np
-216,"Los Angeles County (East Central)--Covina & Walnut Cities PUMA, California",4.0,0,2.0,3,3,3,3,3.0,2,3,2017,np
-217,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights PUMA; California",4.0,0,2.0,3,3,3,3,4.0,2,3,2017,np
-218,"Los Angeles County (East Central)--West Covina City PUMA, California",5.0,0,1.0,3,4,4,4,4.0,2,3,2017,np
-219,"Los Angeles County (East Central)--La Puente & Industry Cities PUMA, California",5.0,0,3.0,3,4,5,5,5.0,3,4,2017,np
-220,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities PUMA; California",4.0,0,2.0,2,3,3,3,4.0,2,3,2017,np
-221,"Los Angeles County (Central)--Pasadena City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2017,np
-222,"Los Angeles County (Central)--Glendale City PUMA, California",4.0,0,1.0,3,3,3,3,3.0,2,3,2017,np
-223,"Los Angeles County (Central)--Burbank City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2017,np
-224,"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village) PUMA, California",4.0,0,1.0,2,2,3,3,3.0,2,3,2017,np
-225,"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2017,np
-226,"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City) PUMA, California",4.0,0,2.0,3,4,4,5,4.0,2,3,2017,np
-227,"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana) PUMA, California",4.0,0,1.0,2,3,3,3,3.0,2,3,2017,np
-228,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills) PUMA; California",3.0,0,1.0,2,2,3,3,3.0,2,2,2017,np
-229,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities PUMA; California",3.0,0,2.0,2,2,2,3,3.0,1,2,2017,np
-230,"Los Angeles County (Central)--LA City (Central/Pacific Palisades) PUMA, California",3.0,0,1.0,2,2,2,2,2.0,1,2,2017,np
-231,"Los Angeles County (Southwest)--Santa Monica City PUMA, California",2.0,0,1.0,2,2,2,2,2.0,2,2,2017,np
-232,"Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles) PUMA, California",3.0,0,1.0,2,2,2,2,3.0,2,2,2017,np
-233,"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire) PUMA, California",3.0,0,2.0,2,2,2,2,3.0,1,2,2017,np
-234,"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities PUMA, California",2.0,0,1.0,2,2,2,2,2.0,1,2,2017,np
-235,"Los Angeles County (Central)--LA City (East Central/Hollywood) PUMA, California",2.0,0,1.0,2,2,3,2,2.0,1,2,2017,np
-236,"Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,3,2017,np
-237,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake) PUMA; California",3.0,0,2.0,3,3,3,3,3.0,2,2,2017,np
-238,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park) PUMA; California",3.0,0,2.0,3,3,3,4,4.0,2,3,2017,np
-239,"Los Angeles County (Central)--Alhambra & South Pasadena Cities PUMA, California",3.0,0,1.0,3,3,2,3,3.0,2,3,2017,np
-240,"Los Angeles County (Central)--Monterey Park & Rosemead Cities PUMA, California",4.0,0,2.0,3,3,4,4,4.0,2,3,2017,np
-241,"Los Angeles County (Central)--El Monte & South El Monte Cities PUMA, California",5.0,0,1.0,3,4,5,5,4.0,3,4,2017,np
-242,"Los Angeles County (Southeast)--Whittier City & Hacienda Heights PUMA, California",3.0,0,3.0,3,3,3,3,4.0,2,3,2017,np
-243,"Los Angeles County (Central)--Pico Rivera & Montebello Cities PUMA, California",4.0,0,2.0,2,3,4,4,4.0,2,3,2017,np
-244,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities PUMA; California",3.0,0,1.0,3,4,4,6,5.0,3,4,2017,np
-245,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park PUMA; California",5.0,0,2.0,4,5,5,6,7.0,3,4,2017,np
-246,"Los Angeles County (Central)--East Los Angeles PUMA, California",5.0,0,2.0,3,4,4,6,4.0,2,4,2017,np
-247,"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights) PUMA, California",2.0,0,1.0,2,3,3,2,2.0,2,3,2017,np
-248,"Los Angeles County (Central)--LA City (Southeast/East Vernon) PUMA, California",6.0,0,2.0,4,5,5,6,6.0,3,4,2017,np
-249,"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park) PUMA, California",3.0,0,2.0,3,4,4,4,4.0,2,3,2017,np
-250,"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills) PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,3,2017,np
-251,"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities PUMA, California",2.0,0,1.0,2,2,2,2,2.0,1,2,2017,np
-252,"Los Angeles County (Central)--Inglewood City PUMA, California",4.0,0,4.0,2,3,3,3,4.0,2,3,2017,np
-253,"Los Angeles County (South Central)--LA City (South Central/Westmont) PUMA, California",2.0,0,1.0,3,4,4,5,5.0,2,3,2017,np
-254,"Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, California",1.0,0,2.0,3,4,5,5,7.0,3,4,2017,np
-255,"Los Angeles County (South)--South Gate & Lynwood Cities PUMA, California",7.0,0,2.0,3,4,5,5,5.0,3,4,2017,np
-256,"Los Angeles County (South)--Downey City PUMA, California",3.0,0,3.0,2,3,3,3,4.0,2,3,2017,np
-257,"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities PUMA, California",3.0,0,2.0,3,3,4,4,4.0,2,3,2017,np
-258,"Los Angeles County (Southeast)--Norwalk City PUMA, California",3.0,0,2.0,3,3,4,4,4.0,2,3,2017,np
-259,"Los Angeles County (Southeast)--Bellflower & Paramount Cities PUMA, California",5.0,0,3.0,3,3,4,4,4.0,2,3,2017,np
-260,"Los Angeles County (South Central)--Compton City & West Rancho Dominguez PUMA, California",6.0,0,3.0,3,4,5,5,4.0,3,3,2017,np
-261,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens PUMA; California",3.0,0,1.0,3,3,3,4,4.0,2,3,2017,np
-262,"Los Angeles County (South Central)--Hawthorne City PUMA, California",4.0,0,1.0,3,3,3,4,4.0,2,3,2017,np
-263,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities PUMA; California",3.0,0,3.0,2,2,2,2,3.0,1,2,2017,np
-264,"Los Angeles County (South Central)--Torrance City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,1,2,2017,np
-265,"Los Angeles County (South Central)--Carson City PUMA, California",4.0,0,1.0,2,3,3,3,4.0,2,3,2017,np
-266,"Los Angeles County (South Central)--Long Beach City (North) PUMA, California",3.0,0,1.0,2,3,3,4,3.0,2,3,2017,np
-267,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities PUMA; California",4.0,0,2.0,2,3,3,4,3.0,2,3,2017,np
-268,"Los Angeles County (Southeast)--Long Beach City (East) PUMA, California",3.0,0,2.0,2,2,2,3,3.0,2,2,2017,np
-269,"Los Angeles County (South)--Long Beach City (Southwest & Port) PUMA, California",3.0,0,1.0,3,3,3,4,5.0,2,3,2017,np
-270,"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",4.0,0,1.0,3,3,3,3,4.0,2,3,2017,np
-271,"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",3.0,0,1.0,2,2,2,2,3.0,1,2,2017,np
-272,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",2.0,0,2.0,2,2,3,2,2.0,2,2,2017,np
-273,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,2,2,2017,np
-274,"Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities PUMA, California",3.0,0,,2,2,3,3,3.0,2,2,2017,np
-275,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,2,2,2017,np
-276,"Orange County (Central)--Irvine City (Central) PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2017,np
-277,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2017,np
-278,"Orange County (North)--Yorba Linda, La Habra & Brea Cities PUMA; California",4.0,0,2.0,2,2,3,3,3.0,3,2,2017,np
-279,"Orange County (North Central)--Fullerton & Placentia Cities PUMA, California",3.0,0,3.0,3,3,3,3,3.0,2,3,2017,np
-280,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,3,2017,np
-281,"Orange County (North Central)--Anaheim City (West) PUMA, California",5.0,0,1.0,3,4,4,5,4.0,2,3,2017,np
-282,"Orange County (North Central)--Anaheim City (East) PUMA, California",3.0,0,2.0,3,3,3,4,4.0,2,3,2017,np
-283,"Orange County (Central)--Orange & Villa Park Cities PUMA, California",3.0,0,3.0,2,3,3,3,4.0,2,3,2017,np
-284,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities PUMA; California",3.0,0,2.0,3,3,3,4,3.0,2,3,2017,np
-285,"Orange County (Northwest)--Garden Grove City (East) PUMA, California",5.0,0,1.0,3,4,4,4,3.0,3,3,2017,np
-286,"Orange County (Northwest)--Huntington Beach City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2017,np
-287,"Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch PUMA, California",3.0,0,2.0,2,2,3,3,3.0,1,2,2017,np
-288,"Orange County (Central)--Santa Ana City (West) PUMA, California",4.0,0,1.0,3,4,5,6,5.0,2,4,2017,np
-289,"Orange County (Central)--Santa Ana City (East) PUMA, California",4.0,0,1.0,4,4,4,4,5.0,2,4,2017,np
-290,"Orange County (Central)--Costa Mesa & Fountain Valley Cities PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2017,np
-291,"Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities PUMA; California",3.0,0,1.0,2,3,3,3,4.0,2,2,2017,np
-292,"Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities PUMA; California",2.0,0,2.0,2,2,2,3,3.0,2,2,2017,np
-293,"Riverside County (Southwest)--Temecula City PUMA, California",3.0,0,2.0,2,3,3,4,3.0,2,3,2017,np
-294,"Riverside County (Southwest)--Murrieta & Wildomar Cities PUMA, California",4.0,0,1.0,3,4,4,3,4.0,2,3,2017,np
-295,"Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities PUMA; California",4.0,0,1.0,2,3,3,4,4.0,2,3,2017,np
-296,"Riverside County (Southwest)--Hemet City & East Hemet PUMA, California",4.0,0,2.0,2,3,4,4,3.0,2,3,2017,np
-297,"Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities PUMA; California",5.0,0,2.0,3,3,3,4,3.0,2,3,2017,np
-298,"Riverside County (Northwest)--Moreno Valley City PUMA, California",4.0,0,2.0,3,4,4,4,5.0,3,4,2017,np
-299,"Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley PUMA; California",4.0,0,4.0,3,4,4,5,4.0,3,4,2017,np
-300,"Riverside County (Northwest)--Riverside City (East) PUMA, California",4.0,0,2.0,2,3,3,3,3.0,2,3,2017,np
-301,"Riverside County (Northwest)--Riverside City (West) PUMA, California",4.0,0,2.0,3,3,3,3,4.0,2,3,2017,np
-302,"Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens PUMA; California",4.0,0,3.0,3,4,3,3,4.0,2,3,2017,np
-303,"Riverside County (West Central)--Corona (Northwest) & Norco Cities PUMA, California",4.0,0,1.0,2,3,4,3,3.0,2,3,2017,np
-304,"Riverside County (Northwest)--Jurupa Valley & Eastvale Cities PUMA, California",4.0,0,2.0,3,4,4,4,4.0,2,4,2017,np
-305,"Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities PUMA; California",2.0,0,2.0,2,3,2,2,2.0,2,2,2017,np
-306,"Los Angeles County (North/Unincorporated)--Castaic PUMA, California",3.0,0,3.0,2,3,3,3,4.0,2,3,2018,np
-307,"Los Angeles County (Northwest)--Santa Clarita City PUMA, California",4.0,0,1.0,2,3,3,3,3.0,2,2,2018,np
-308,"Los Angeles County (North Central)--Lancaster City PUMA, California",3.0,0,3.0,3,3,4,4,3.0,2,3,2018,np
-309,"Los Angeles County (North Central)--Palmdale City PUMA, California",4.0,0,3.0,3,3,4,4,3.0,2,3,2018,np
-310,"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch) PUMA, California",4.0,0,1.0,2,3,3,3,3.0,2,2,2018,np
-311,"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar) PUMA, California",3.0,0,2.0,2,3,3,3,4.0,2,3,2018,np
-312,"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities PUMA, California",6.0,0,1.0,3,4,4,5,6.0,2,3,2018,np
-313,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga) PUMA; California",4.0,0,1.0,2,3,3,3,4.0,2,3,2018,np
-314,"Los Angeles County (Central)--San Gabriel Valley Region (North) PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2018,np
-315,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities PUMA; California",4.0,0,2.0,3,4,4,4,5.0,2,3,2018,np
-316,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities PUMA; California",3.0,0,1.0,2,2,3,3,3.0,2,2,2018,np
-317,"Los Angeles County (East Central)--Pomona City PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2018,np
-318,"Los Angeles County (East Central)--Covina & Walnut Cities PUMA, California",4.0,0,3.0,3,3,3,4,3.0,3,3,2018,np
-319,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights PUMA; California",4.0,0,2.0,3,3,3,3,3.0,2,3,2018,np
-320,"Los Angeles County (East Central)--West Covina City PUMA, California",4.0,0,2.0,3,3,4,4,4.0,2,3,2018,np
-321,"Los Angeles County (East Central)--La Puente & Industry Cities PUMA, California",6.0,0,1.0,3,4,4,5,6.0,2,3,2018,np
-322,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities PUMA; California",3.0,0,2.0,3,3,3,3,3.0,2,2,2018,np
-323,"Los Angeles County (Central)--Pasadena City PUMA, California",3.0,0,2.0,2,3,2,2,3.0,2,2,2018,np
-324,"Los Angeles County (Central)--Glendale City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,3,2018,np
-325,"Los Angeles County (Central)--Burbank City PUMA, California",3.0,0,1.0,2,2,3,2,3.0,1,2,2018,np
-326,"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village) PUMA, California",4.0,0,1.0,2,2,3,3,3.0,2,2,2018,np
-327,"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks) PUMA, California",3.0,0,3.0,3,3,3,3,3.0,2,2,2018,np
-328,"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City) PUMA, California",4.0,0,3.0,3,3,4,4,5.0,3,3,2018,np
-329,"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana) PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,3,2018,np
-330,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills) PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2018,np
-331,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities PUMA; California",3.0,0,2.0,2,2,2,2,3.0,2,3,2018,np
-332,"Los Angeles County (Central)--LA City (Central/Pacific Palisades) PUMA, California",3.0,0,1.0,1,2,2,2,2.0,1,2,2018,np
-333,"Los Angeles County (Southwest)--Santa Monica City PUMA, California",3.0,0,1.0,2,2,2,2,2.0,1,2,2018,np
-334,"Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles) PUMA, California",3.0,0,2.0,2,2,2,2,2.0,2,2,2018,np
-335,"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire) PUMA, California",3.0,0,1.0,2,2,2,2,3.0,1,2,2018,np
-336,"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities PUMA, California",2.0,0,2.0,1,2,2,2,2.0,1,1,2018,np
-337,"Los Angeles County (Central)--LA City (East Central/Hollywood) PUMA, California",2.0,0,1.0,2,2,3,2,2.0,1,2,2018,np
-338,"Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, California",3.0,0,1.0,2,3,3,4,2.0,2,3,2018,np
-339,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake) PUMA; California",3.0,0,1.0,2,3,3,2,3.0,2,2,2018,np
-340,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park) PUMA; California",3.0,0,2.0,3,3,3,3,3.0,2,3,2018,np
-341,"Los Angeles County (Central)--Alhambra & South Pasadena Cities PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,3,2018,np
-342,"Los Angeles County (Central)--Monterey Park & Rosemead Cities PUMA, California",4.0,0,2.0,3,3,3,4,3.0,2,3,2018,np
-343,"Los Angeles County (Central)--El Monte & South El Monte Cities PUMA, California",5.0,0,1.0,3,4,4,5,3.0,2,4,2018,np
-344,"Los Angeles County (Southeast)--Whittier City & Hacienda Heights PUMA, California",3.0,0,2.0,2,3,3,3,4.0,2,3,2018,np
-345,"Los Angeles County (Central)--Pico Rivera & Montebello Cities PUMA, California",5.0,0,1.0,2,4,4,4,5.0,2,3,2018,np
-346,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities PUMA; California",5.0,0,2.0,3,4,4,5,6.0,3,4,2018,np
-347,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park PUMA; California",6.0,0,3.0,3,4,5,6,7.0,2,4,2018,np
-348,"Los Angeles County (Central)--East Los Angeles PUMA, California",5.0,0,2.0,3,4,4,5,7.0,2,3,2018,np
-349,"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights) PUMA, California",2.0,0,1.0,2,3,3,3,2.0,1,3,2018,np
-350,"Los Angeles County (Central)--LA City (Southeast/East Vernon) PUMA, California",7.0,0,1.0,4,5,5,5,5.0,3,4,2018,np
-351,"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park) PUMA, California",4.0,0,2.0,3,4,5,5,4.0,2,3,2018,np
-352,"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills) PUMA, California",3.0,0,1.0,2,3,3,4,3.0,2,2,2018,np
-353,"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities PUMA, California",3.0,0,2.0,2,2,2,2,2.0,1,2,2018,np
-354,"Los Angeles County (Central)--Inglewood City PUMA, California",4.0,0,1.0,2,2,3,4,4.0,2,3,2018,np
-355,"Los Angeles County (South Central)--LA City (South Central/Westmont) PUMA, California",5.0,0,2.0,3,4,4,4,6.0,2,3,2018,np
-356,"Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, California",5.0,0,1.0,4,5,5,6,7.0,3,4,2018,np
-357,"Los Angeles County (South)--South Gate & Lynwood Cities PUMA, California",4.0,0,2.0,3,4,4,6,6.0,2,4,2018,np
-358,"Los Angeles County (South)--Downey City PUMA, California",3.0,0,1.0,3,3,3,4,3.0,2,3,2018,np
-359,"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities PUMA, California",5.0,0,1.0,2,4,4,4,4.0,2,3,2018,np
-360,"Los Angeles County (Southeast)--Norwalk City PUMA, California",5.0,0,1.0,3,4,4,4,4.0,2,3,2018,np
-361,"Los Angeles County (Southeast)--Bellflower & Paramount Cities PUMA, California",3.0,0,1.0,3,3,4,4,4.0,2,3,2018,np
-362,"Los Angeles County (South Central)--Compton City & West Rancho Dominguez PUMA, California",4.0,0,2.0,3,4,4,5,4.0,2,3,2018,np
-363,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens PUMA; California",4.0,1,1.0,3,4,3,3,4.0,2,3,2018,np
-364,"Los Angeles County (South Central)--Hawthorne City PUMA, California",4.0,0,1.0,2,3,4,4,3.0,2,3,2018,np
-365,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities PUMA; California",3.0,0,1.0,2,2,2,2,3.0,1,2,2018,np
-366,"Los Angeles County (South Central)--Torrance City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2018,np
-367,"Los Angeles County (South Central)--Carson City PUMA, California",4.0,0,1.0,3,3,4,4,4.0,2,3,2018,np
-368,"Los Angeles County (South Central)--Long Beach City (North) PUMA, California",3.0,0,2.0,2,3,3,3,4.0,2,3,2018,np
-369,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities PUMA; California",4.0,0,2.0,2,3,3,4,3.0,2,3,2018,np
-370,"Los Angeles County (Southeast)--Long Beach City (East) PUMA, California",3.0,0,2.0,2,2,2,3,3.0,1,2,2018,np
-371,"Los Angeles County (South)--Long Beach City (Southwest & Port) PUMA, California",2.0,0,2.0,2,3,3,3,4.0,2,3,2018,np
-372,"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2018,np
-373,"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",3.0,0,1.0,2,2,2,3,3.0,2,2,2018,np
-374,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",2.0,0,1.0,2,2,2,2,3.0,2,2,2018,np
-375,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities PUMA; California",3.0,0,1.0,2,2,2,3,2.0,2,2,2018,np
-376,"Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities PUMA, California",3.0,0,1.0,2,2,2,3,3.0,1,2,2018,np
-377,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities PUMA; California",3.0,0,2.0,2,2,2,2,3.0,1,2,2018,np
-378,"Orange County (Central)--Irvine City (Central) PUMA, California",3.0,0,2.0,2,3,2,3,3.0,2,2,2018,np
-379,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2018,np
-380,"Orange County (North)--Yorba Linda, La Habra & Brea Cities PUMA; California",3.0,0,2.0,2,3,3,4,3.0,2,3,2018,np
-381,"Orange County (North Central)--Fullerton & Placentia Cities PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,3,2018,np
-382,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,3,2018,np
-383,"Orange County (North Central)--Anaheim City (West) PUMA, California",5.0,0,2.0,3,3,3,3,4.0,2,3,2018,np
-384,"Orange County (North Central)--Anaheim City (East) PUMA, California",4.0,0,1.0,3,3,3,3,3.0,2,3,2018,np
-385,"Orange County (Central)--Orange & Villa Park Cities PUMA, California",3.0,0,4.0,3,3,3,3,3.0,2,2,2018,np
-386,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities PUMA; California",4.0,0,3.0,3,3,3,3,4.0,2,3,2018,np
-387,"Orange County (Northwest)--Garden Grove City (East) PUMA, California",6.0,0,3.0,3,4,4,4,5.0,2,3,2018,np
-388,"Orange County (Northwest)--Huntington Beach City PUMA, California",3.0,0,1.0,2,2,2,3,3.0,2,2,2018,np
-389,"Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch PUMA, California",3.0,0,1.0,2,3,2,3,3.0,2,3,2018,np
-390,"Orange County (Central)--Santa Ana City (West) PUMA, California",6.0,0,2.0,3,4,4,4,5.0,2,4,2018,np
-391,"Orange County (Central)--Santa Ana City (East) PUMA, California",4.0,1,3.0,3,4,4,5,4.0,2,3,2018,np
-392,"Orange County (Central)--Costa Mesa & Fountain Valley Cities PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2018,np
-393,"Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,1,2,2018,np
-394,"Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities PUMA; California",2.0,0,1.0,2,2,2,2,3.0,2,2,2018,np
-395,"Riverside County (Southwest)--Temecula City PUMA, California",3.0,0,3.0,3,3,3,4,3.0,2,2,2018,np
-396,"Riverside County (Southwest)--Murrieta & Wildomar Cities PUMA, California",4.0,0,1.0,2,4,4,4,4.0,2,3,2018,np
-397,"Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities PUMA; California",4.0,0,2.0,2,3,3,4,3.0,2,3,2018,np
-398,"Riverside County (Southwest)--Hemet City & East Hemet PUMA, California",3.0,0,2.0,2,3,3,4,5.0,2,3,2018,np
-399,"Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities PUMA; California",4.0,0,2.0,2,3,4,4,3.0,2,2,2018,np
-400,"Riverside County (Northwest)--Moreno Valley City PUMA, California",3.0,0,1.0,3,4,4,4,6.0,3,3,2018,np
-401,"Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley PUMA; California",5.0,0,2.0,4,4,4,4,4.0,2,3,2018,np
-402,"Riverside County (Northwest)--Riverside City (East) PUMA, California",3.0,0,2.0,3,2,3,4,3.0,2,3,2018,np
-403,"Riverside County (Northwest)--Riverside City (West) PUMA, California",5.0,0,3.0,3,3,3,4,3.0,2,3,2018,np
-404,"Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens PUMA; California",3.0,0,2.0,3,3,3,4,4.0,2,2,2018,np
-405,"Riverside County (West Central)--Corona (Northwest) & Norco Cities PUMA, California",4.0,0,1.0,3,3,4,4,4.0,2,3,2018,np
-406,"Riverside County (Northwest)--Jurupa Valley & Eastvale Cities PUMA, California",4.0,0,1.0,2,4,4,4,5.0,3,4,2018,np
-407,"Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities PUMA; California",2.0,0,2.0,2,2,2,3,2.0,2,2,2018,np
-408,"Los Angeles County (North/Unincorporated)--Castaic PUMA, California",4.0,0,3.0,3,4,3,3,4.0,2,3,2019,np
-409,"Los Angeles County (Northwest)--Santa Clarita City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,3,2019,np
-410,"Los Angeles County (North Central)--Lancaster City PUMA, California",3.0,0,3.0,3,3,3,3,3.0,2,3,2019,np
-411,"Los Angeles County (North Central)--Palmdale City PUMA, California",4.0,0,3.0,3,4,4,4,3.0,2,3,2019,np
-412,"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch) PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
-413,"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar) PUMA, California",4.0,0,1.0,3,3,3,4,4.0,2,3,2019,np
-414,"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities PUMA, California",4.0,0,1.0,3,4,4,5,5.0,2,3,2019,np
-415,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga) PUMA; California",3.0,0,2.0,3,3,3,4,4.0,2,2,2019,np
-416,"Los Angeles County (Central)--San Gabriel Valley Region (North) PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2019,np
-417,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities PUMA; California",4.0,0,1.0,3,3,4,4,4.0,2,3,2019,np
-418,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,2,2019,np
-419,"Los Angeles County (East Central)--Pomona City PUMA, California",3.0,0,2.0,3,4,3,4,5.0,2,4,2019,np
-420,"Los Angeles County (East Central)--Covina & Walnut Cities PUMA, California",4.0,0,2.0,2,3,3,3,4.0,2,3,2019,np
-421,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,3,2019,np
-422,"Los Angeles County (East Central)--West Covina City PUMA, California",4.0,0,2.0,2,3,4,4,4.0,2,3,2019,np
-423,"Los Angeles County (East Central)--La Puente & Industry Cities PUMA, California",7.0,0,,3,4,4,4,5.0,2,4,2019,np
-424,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
-425,"Los Angeles County (Central)--Pasadena City PUMA, California",3.0,0,2.0,2,2,2,3,3.0,2,2,2019,np
-426,"Los Angeles County (Central)--Glendale City PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2019,np
-427,"Los Angeles County (Central)--Burbank City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,1,2,2019,np
-428,"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village) PUMA, California",4.0,0,1.0,2,2,3,3,3.0,2,2,2019,np
-429,"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,3,2019,np
-430,"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City) PUMA, California",4.0,0,1.0,3,3,3,4,5.0,2,3,2019,np
-431,"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2019,np
-432,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills) PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
-433,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,2,2,2019,np
-434,"Los Angeles County (Central)--LA City (Central/Pacific Palisades) PUMA, California",3.0,0,1.0,2,2,2,2,2.0,1,2,2019,np
-435,"Los Angeles County (Southwest)--Santa Monica City PUMA, California",2.0,0,1.0,2,2,2,2,2.0,1,2,2019,np
-436,"Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles) PUMA, California",3.0,0,1.0,2,2,2,2,2.0,2,2,2019,np
-437,"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire) PUMA, California",3.0,0,2.0,2,2,2,2,3.0,2,2,2019,np
-438,"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities PUMA, California",2.0,0,1.0,1,2,2,2,2.0,1,2,2019,np
-439,"Los Angeles County (Central)--LA City (East Central/Hollywood) PUMA, California",3.0,0,1.0,2,2,2,3,3.0,1,2,2019,np
-440,"Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, California",3.0,0,2.0,2,3,3,3,2.0,2,2,2019,np
-441,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake) PUMA; California",3.0,0,2.0,2,2,3,3,3.0,2,2,2019,np
-442,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park) PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,2,2019,np
-443,"Los Angeles County (Central)--Alhambra & South Pasadena Cities PUMA, California",3.0,0,1.0,3,2,3,3,3.0,2,3,2019,np
-444,"Los Angeles County (Central)--Monterey Park & Rosemead Cities PUMA, California",4.0,0,2.0,3,4,3,4,4.0,2,3,2019,np
-445,"Los Angeles County (Central)--El Monte & South El Monte Cities PUMA, California",5.0,0,3.0,3,4,4,5,5.0,2,3,2019,np
-446,"Los Angeles County (Southeast)--Whittier City & Hacienda Heights PUMA, California",4.0,0,2.0,3,3,3,4,3.0,1,3,2019,np
-447,"Los Angeles County (Central)--Pico Rivera & Montebello Cities PUMA, California",5.0,0,2.0,3,3,4,4,4.0,2,3,2019,np
-448,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities PUMA; California",7.0,0,2.0,3,4,4,5,6.0,2,4,2019,np
-449,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park PUMA; California",5.0,0,1.0,3,4,5,6,6.0,2,4,2019,np
-450,"Los Angeles County (Central)--East Los Angeles PUMA, California",5.0,0,2.0,3,4,4,5,5.0,2,4,2019,np
-451,"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights) PUMA, California",2.0,0,2.0,3,3,3,2,2.0,2,3,2019,np
-452,"Los Angeles County (Central)--LA City (Southeast/East Vernon) PUMA, California",5.0,0,3.0,4,5,5,5,8.0,3,4,2019,np
-453,"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park) PUMA, California",5.0,0,2.0,3,3,4,4,4.0,2,4,2019,np
-454,"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,1,2,2019,np
-455,"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities PUMA, California",3.0,0,2.0,2,2,2,2,2.0,1,2,2019,np
-456,"Los Angeles County (Central)--Inglewood City PUMA, California",4.0,0,2.0,2,3,3,4,4.0,2,3,2019,np
-457,"Los Angeles County (South Central)--LA City (South Central/Westmont) PUMA, California",4.0,0,1.0,3,3,4,4,6.0,2,3,2019,np
-458,"Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, California",4.0,0,2.0,4,4,5,5,7.0,3,4,2019,np
-459,"Los Angeles County (South)--South Gate & Lynwood Cities PUMA, California",5.0,0,1.0,3,4,5,6,5.0,2,4,2019,np
-460,"Los Angeles County (South)--Downey City PUMA, California",4.0,0,,2,3,4,4,5.0,2,3,2019,np
-461,"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities PUMA, California",4.0,0,1.0,3,3,4,3,4.0,2,3,2019,np
-462,"Los Angeles County (Southeast)--Norwalk City PUMA, California",5.0,0,1.0,2,4,4,4,5.0,2,3,2019,np
-463,"Los Angeles County (Southeast)--Bellflower & Paramount Cities PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2019,np
-464,"Los Angeles County (South Central)--Compton City & West Rancho Dominguez PUMA, California",6.0,0,2.0,3,4,5,5,6.0,2,3,2019,np
-465,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens PUMA; California",5.0,0,2.0,2,3,3,3,3.0,2,3,2019,np
-466,"Los Angeles County (South Central)--Hawthorne City PUMA, California",5.0,0,1.0,3,3,3,3,4.0,2,3,2019,np
-467,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities PUMA; California",3.0,0,1.0,1,2,2,2,3.0,1,2,2019,np
-468,"Los Angeles County (South Central)--Torrance City PUMA, California",3.0,0,2.0,2,2,2,3,3.0,2,2,2019,np
-469,"Los Angeles County (South Central)--Carson City PUMA, California",4.0,0,1.0,2,2,3,4,4.0,2,3,2019,np
-470,"Los Angeles County (South Central)--Long Beach City (North) PUMA, California",3.0,0,2.0,2,3,4,4,3.0,2,3,2019,np
-471,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities PUMA; California",3.0,0,3.0,3,3,3,4,4.0,2,2,2019,np
-472,"Los Angeles County (Southeast)--Long Beach City (East) PUMA, California",3.0,0,2.0,2,2,2,3,3.0,2,2,2019,np
-473,"Los Angeles County (South)--Long Beach City (Southwest & Port) PUMA, California",3.0,0,2.0,2,3,3,3,4.0,2,3,2019,np
-474,"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2019,np
-475,"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",3.0,0,1.0,2,2,2,3,3.0,2,2,2019,np
-476,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",3.0,0,2.0,2,3,2,3,3.0,2,3,2019,np
-477,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities PUMA; California",3.0,0,1.0,2,3,2,3,3.0,1,2,2019,np
-478,"Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities PUMA, California",3.0,0,2.0,2,2,3,3,3.0,1,2,2019,np
-479,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities PUMA; California",3.0,0,1.0,2,2,2,2,2.0,1,2,2019,np
-480,"Orange County (Central)--Irvine City (Central) PUMA, California",3.0,0,2.0,3,2,2,3,3.0,2,2,2019,np
-481,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado PUMA; California",3.0,0,1.0,2,3,3,3,3.0,1,3,2019,np
-482,"Orange County (North)--Yorba Linda, La Habra & Brea Cities PUMA; California",4.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
-483,"Orange County (North Central)--Fullerton & Placentia Cities PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2019,np
-484,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities PUMA; California",4.0,0,1.0,2,3,3,3,4.0,2,2,2019,np
-485,"Orange County (North Central)--Anaheim City (West) PUMA, California",5.0,0,2.0,2,3,3,4,4.0,2,3,2019,np
-486,"Orange County (North Central)--Anaheim City (East) PUMA, California",4.0,0,2.0,3,3,3,3,4.0,2,3,2019,np
-487,"Orange County (Central)--Orange & Villa Park Cities PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2019,np
-488,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities PUMA; California",4.0,0,2.0,3,3,3,4,4.0,2,3,2019,np
-489,"Orange County (Northwest)--Garden Grove City (East) PUMA, California",5.0,0,2.0,3,3,4,4,4.0,2,3,2019,np
-490,"Orange County (Northwest)--Huntington Beach City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2019,np
-491,"Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch PUMA, California",4.0,0,3.0,1,2,3,3,3.0,1,2,2019,np
-492,"Orange County (Central)--Santa Ana City (West) PUMA, California",5.0,0,2.0,3,4,4,5,5.0,2,3,2019,np
-493,"Orange County (Central)--Santa Ana City (East) PUMA, California",5.0,0,3.0,3,4,4,5,5.0,3,4,2019,np
-494,"Orange County (Central)--Costa Mesa & Fountain Valley Cities PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
-495,"Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities PUMA; California",3.0,0,2.0,2,3,3,4,3.0,2,2,2019,np
-496,"Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities PUMA; California",2.0,0,2.0,2,2,3,2,2.0,1,2,2019,np
-497,"Riverside County (Southwest)--Temecula City PUMA, California",4.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
-498,"Riverside County (Southwest)--Murrieta & Wildomar Cities PUMA, California",4.0,0,1.0,2,3,3,4,4.0,2,3,2019,np
-499,"Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities PUMA; California",4.0,0,2.0,2,3,3,4,4.0,2,3,2019,np
-500,"Riverside County (Southwest)--Hemet City & East Hemet PUMA, California",5.0,0,2.0,3,3,4,3,4.0,2,3,2019,np
-501,"Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities PUMA; California",4.0,0,4.0,2,3,3,4,3.0,2,3,2019,np
-502,"Riverside County (Northwest)--Moreno Valley City PUMA, California",5.0,0,2.0,3,3,4,5,4.0,2,3,2019,np
-503,"Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley PUMA; California",4.0,0,2.0,3,4,4,4,5.0,2,3,2019,np
-504,"Riverside County (Northwest)--Riverside City (East) PUMA, California",3.0,0,1.0,3,3,3,4,3.0,1,3,2019,np
-505,"Riverside County (Northwest)--Riverside City (West) PUMA, California",3.0,0,1.0,3,3,4,4,3.0,2,3,2019,np
-506,"Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens PUMA; California",4.0,0,1.0,2,3,3,4,4.0,3,3,2019,np
-507,"Riverside County (West Central)--Corona (Northwest) & Norco Cities PUMA, California",4.0,0,1.0,3,3,3,4,4.0,2,3,2019,np
-508,"Riverside County (Northwest)--Jurupa Valley & Eastvale Cities PUMA, California",5.0,0,3.0,4,4,4,4,4.0,2,4,2019,np
-509,"Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities PUMA; California",2.0,0,1.0,2,2,2,2,2.0,1,2,2019,np
+345,"Los Angeles County (North/Unincorporated)--Castaic PUMA, California",4.0,0,3.0,2,3,3,3,3.0,2,3,2015,np
+346,"Los Angeles County (Northwest)--Santa Clarita City PUMA, California",4.0,0,2.0,2,2,3,3,4.0,2,3,2015,np
+347,"Los Angeles County (North Central)--Lancaster City PUMA, California",4.0,0,2.0,3,4,3,3,3.0,2,3,2015,np
+348,"Los Angeles County (North Central)--Palmdale City PUMA, California",4.0,0,2.0,3,3,4,4,4.0,2,3,2015,np
+349,"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch) PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,3,2015,np
+350,"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar) PUMA, California",4.0,0,3.0,3,3,4,3,4.0,2,3,2015,np
+351,"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities PUMA, California",4.0,0,2.0,4,4,4,5,5.0,2,4,2015,np
+352,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga) PUMA; California",4.0,0,1.0,3,3,3,3,3.0,2,3,2015,np
+353,"Los Angeles County (Central)--San Gabriel Valley Region (North) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2015,np
+354,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities PUMA; California",6.0,0,2.0,3,3,4,4,4.0,2,4,2015,np
+355,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities PUMA; California",3.0,0,1.0,2,2,3,3,3.0,2,2,2015,np
+356,"Los Angeles County (East Central)--Pomona City PUMA, California",3.0,0,2.0,3,4,4,4,4.0,2,3,2015,np
+357,"Los Angeles County (East Central)--Covina & Walnut Cities PUMA, California",4.0,0,2.0,3,3,3,4,3.0,2,3,2015,np
+358,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights PUMA; California",3.0,0,2.0,3,3,3,3,4.0,2,3,2015,np
+359,"Los Angeles County (East Central)--West Covina City PUMA, California",5.0,0,1.0,3,3,4,4,4.0,2,3,2015,np
+360,"Los Angeles County (East Central)--La Puente & Industry Cities PUMA, California",7.0,0,2.0,3,4,5,5,5.0,3,3,2015,np
+361,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities PUMA; California",3.0,0,3.0,2,3,3,3,4.0,2,3,2015,np
+362,"Los Angeles County (Central)--Pasadena City PUMA, California",3.0,0,2.0,3,2,3,2,3.0,2,2,2015,np
+363,"Los Angeles County (Central)--Glendale City PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,2,2015,np
+364,"Los Angeles County (Central)--Burbank City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2015,np
+365,"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village) PUMA, California",3.0,0,1.0,2,2,2,3,3.0,2,2,2015,np
+366,"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks) PUMA, California",4.0,0,1.0,3,3,2,3,3.0,2,3,2015,np
+367,"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City) PUMA, California",4.0,0,2.0,3,4,4,5,4.0,3,4,2015,np
+368,"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana) PUMA, California",3.0,0,1.0,3,3,3,3,4.0,2,3,2015,np
+369,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills) PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,3,2015,np
+370,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,1,2,2015,np
+371,"Los Angeles County (Central)--LA City (Central/Pacific Palisades) PUMA, California",3.0,0,1.0,2,2,2,2,2.0,1,2,2015,np
+372,"Los Angeles County (Southwest)--Santa Monica City PUMA, California",2.0,0,1.0,2,2,2,2,2.0,1,2,2015,np
+373,"Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles) PUMA, California",3.0,0,2.0,2,2,2,2,2.0,2,2,2015,np
+374,"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire) PUMA, California",3.0,0,2.0,2,2,2,2,3.0,2,2,2015,np
+375,"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities PUMA, California",3.0,0,1.0,2,2,2,2,3.0,1,1,2015,np
+376,"Los Angeles County (Central)--LA City (East Central/Hollywood) PUMA, California",2.0,0,1.0,2,2,2,2,3.0,1,2,2015,np
+377,"Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, California",2.0,0,1.0,2,2,3,3,3.0,2,2,2015,np
+378,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake) PUMA; California",2.0,0,2.0,3,3,3,3,3.0,2,3,2015,np
+379,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park) PUMA; California",3.0,0,2.0,3,3,3,4,4.0,2,3,2015,np
+380,"Los Angeles County (Central)--Alhambra & South Pasadena Cities PUMA, California",4.0,0,2.0,3,3,3,4,3.0,2,3,2015,np
+381,"Los Angeles County (Central)--Monterey Park & Rosemead Cities PUMA, California",5.0,0,2.0,3,3,3,4,4.0,2,3,2015,np
+382,"Los Angeles County (Central)--El Monte & South El Monte Cities PUMA, California",3.0,0,1.0,3,4,5,4,4.0,2,4,2015,np
+383,"Los Angeles County (Southeast)--Whittier City & Hacienda Heights PUMA, California",4.0,0,1.0,2,3,3,4,3.0,2,3,2015,np
+384,"Los Angeles County (Central)--Pico Rivera & Montebello Cities PUMA, California",5.0,0,2.0,3,3,4,4,4.0,2,3,2015,np
+385,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities PUMA; California",5.0,0,1.0,4,4,4,5,7.0,3,4,2015,np
+386,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park PUMA; California",10.0,0,1.0,3,4,5,7,6.0,3,4,2015,np
+387,"Los Angeles County (Central)--East Los Angeles PUMA, California",3.0,0,3.0,3,4,4,4,4.0,3,4,2015,np
+388,"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights) PUMA, California",2.0,0,1.0,3,2,3,2,2.0,2,3,2015,np
+389,"Los Angeles County (Central)--LA City (Southeast/East Vernon) PUMA, California",,0,1.0,4,5,6,7,,3,4,2015,np
+390,"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park) PUMA, California",4.0,0,2.0,3,3,3,6,5.0,2,4,2015,np
+391,"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2015,np
+392,"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities PUMA, California",3.0,0,2.0,2,2,2,2,2.0,2,2,2015,np
+393,"Los Angeles County (Central)--Inglewood City PUMA, California",4.0,0,2.0,3,3,3,4,7.0,2,3,2015,np
+394,"Los Angeles County (South Central)--LA City (South Central/Westmont) PUMA, California",8.0,0,2.0,3,3,4,4,5.0,2,3,2015,np
+395,"Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, California",5.0,0,4.0,4,5,6,7,6.0,3,4,2015,np
+396,"Los Angeles County (South)--South Gate & Lynwood Cities PUMA, California",7.0,0,3.0,3,4,5,5,5.0,3,4,2015,np
+397,"Los Angeles County (South)--Downey City PUMA, California",4.0,0,1.0,3,3,4,3,4.0,2,3,2015,np
+398,"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities PUMA, California",4.0,0,2.0,3,4,4,4,5.0,2,3,2015,np
+399,"Los Angeles County (Southeast)--Norwalk City PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2015,np
+400,"Los Angeles County (Southeast)--Bellflower & Paramount Cities PUMA, California",6.0,0,1.0,3,3,4,4,4.0,2,3,2015,np
+401,"Los Angeles County (South Central)--Compton City & West Rancho Dominguez PUMA, California",4.0,0,2.0,4,4,4,4,4.0,2,4,2015,np
+402,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens PUMA; California",4.0,0,3.0,3,3,3,3,3.0,2,3,2015,np
+403,"Los Angeles County (South Central)--Hawthorne City PUMA, California",3.0,0,2.0,2,3,3,4,4.0,2,3,2015,np
+404,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities PUMA; California",3.0,0,2.0,2,2,2,2,3.0,1,2,2015,np
+405,"Los Angeles County (South Central)--Torrance City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2015,np
+406,"Los Angeles County (South Central)--Carson City PUMA, California",4.0,0,2.0,2,3,3,4,5.0,2,3,2015,np
+407,"Los Angeles County (South Central)--Long Beach City (North) PUMA, California",3.0,0,1.0,2,3,3,4,3.0,2,3,2015,np
+408,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities PUMA; California",4.0,0,2.0,2,3,3,3,4.0,2,3,2015,np
+409,"Los Angeles County (Southeast)--Long Beach City (East) PUMA, California",3.0,0,2.0,2,2,2,3,3.0,2,2,2015,np
+410,"Los Angeles County (South)--Long Beach City (Southwest & Port) PUMA, California",3.0,0,2.0,2,3,3,2,4.0,2,4,2015,np
+411,"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",3.0,0,1.0,3,3,3,4,3.0,3,2,2015,np
+412,"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",3.0,0,1.0,2,2,2,3,3.0,1,2,2015,np
+413,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",3.0,0,1.0,3,3,2,2,3.0,2,2,2015,np
+414,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities PUMA; California",3.0,0,1.0,2,2,3,3,3.0,1,2,2015,np
+415,"Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2015,np
+416,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities PUMA; California",3.0,0,2.0,2,2,2,3,3.0,2,2,2015,np
+417,"Orange County (Central)--Irvine City (Central) PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,2,2015,np
+418,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,3,2015,np
+419,"Orange County (North)--Yorba Linda, La Habra & Brea Cities PUMA; California",3.0,0,2.0,3,3,3,3,3.0,2,3,2015,np
+420,"Orange County (North Central)--Fullerton & Placentia Cities PUMA, California",3.0,0,3.0,2,3,3,3,3.0,2,3,2015,np
+421,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,3,2015,np
+422,"Orange County (North Central)--Anaheim City (West) PUMA, California",4.0,0,3.0,3,4,4,4,4.0,2,3,2015,np
+423,"Orange County (North Central)--Anaheim City (East) PUMA, California",3.0,0,1.0,3,3,4,3,4.0,2,3,2015,np
+424,"Orange County (Central)--Orange & Villa Park Cities PUMA, California",4.0,0,3.0,3,3,3,4,3.0,2,2,2015,np
+425,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities PUMA; California",4.0,0,2.0,3,4,3,3,4.0,2,3,2015,np
+426,"Orange County (Northwest)--Garden Grove City (East) PUMA, California",5.0,0,3.0,3,3,4,3,4.0,3,3,2015,np
+427,"Orange County (Northwest)--Huntington Beach City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2015,np
+428,"Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch PUMA, California",3.0,0,1.0,2,2,3,3,4.0,2,2,2015,np
+429,"Orange County (Central)--Santa Ana City (West) PUMA, California",5.0,0,2.0,4,4,5,5,6.0,3,4,2015,np
+430,"Orange County (Central)--Santa Ana City (East) PUMA, California",5.0,0,2.0,4,4,4,5,6.0,3,4,2015,np
+431,"Orange County (Central)--Costa Mesa & Fountain Valley Cities PUMA, California",3.0,0,2.0,3,3,3,3,3.0,2,2,2015,np
+432,"Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities PUMA; California",3.0,0,1.0,3,3,3,3,2.0,2,3,2015,np
+433,"Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities PUMA; California",2.0,0,1.0,2,2,3,3,2.0,2,2,2015,np
+434,"Riverside County (Southwest)--Temecula City PUMA, California",4.0,0,3.0,2,3,4,3,4.0,2,3,2015,np
+435,"Riverside County (Southwest)--Murrieta & Wildomar Cities PUMA, California",3.0,0,4.0,3,3,3,4,4.0,2,2,2015,np
+436,"Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities PUMA; California",5.0,0,2.0,3,3,4,3,3.0,3,3,2015,np
+437,"Riverside County (Southwest)--Hemet City & East Hemet PUMA, California",4.0,0,2.0,3,3,4,3,4.0,2,3,2015,np
+438,"Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities PUMA; California",3.0,0,1.0,2,3,3,3,4.0,2,3,2015,np
+439,"Riverside County (Northwest)--Moreno Valley City PUMA, California",4.0,0,2.0,3,4,4,3,4.0,3,3,2015,np
+440,"Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley PUMA; California",4.0,0,2.0,4,4,4,5,4.0,3,3,2015,np
+441,"Riverside County (Northwest)--Riverside City (East) PUMA, California",3.0,0,1.0,3,3,4,3,3.0,2,3,2015,np
+442,"Riverside County (Northwest)--Riverside City (West) PUMA, California",4.0,0,2.0,3,3,4,4,3.0,3,3,2015,np
+443,"Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens PUMA; California",3.0,0,1.0,2,4,3,4,3.0,2,3,2015,np
+444,"Riverside County (West Central)--Corona (Northwest) & Norco Cities PUMA, California",4.0,0,1.0,3,3,3,3,3.0,2,2,2015,np
+445,"Riverside County (Northwest)--Jurupa Valley & Eastvale Cities PUMA, California",4.0,0,1.0,3,4,4,4,5.0,2,3,2015,np
+446,"Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities PUMA; California",2.0,0,2.0,2,3,2,3,3.0,2,3,2015,np
+447,"Los Angeles County (North/Unincorporated)--Castaic PUMA, California",4.0,0,4.0,3,3,3,4,4.0,2,2,2016,np
+448,"Los Angeles County (Northwest)--Santa Clarita City PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,3,2016,np
+449,"Los Angeles County (North Central)--Lancaster City PUMA, California",3.0,0,3.0,3,3,3,3,3.0,2,3,2016,np
+450,"Los Angeles County (North Central)--Palmdale City PUMA, California",3.0,0,2.0,3,4,4,4,3.0,3,4,2016,np
+451,"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,3,2016,np
+452,"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar) PUMA, California",3.0,0,2.0,3,4,3,4,4.0,2,3,2016,np
+453,"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities PUMA, California",6.0,0,1.0,3,4,5,4,4.0,2,4,2016,np
+454,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga) PUMA; California",4.0,0,2.0,3,3,3,3,4.0,2,3,2016,np
+455,"Los Angeles County (Central)--San Gabriel Valley Region (North) PUMA, California",3.0,0,,2,2,3,3,3.0,2,2,2016,np
+456,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities PUMA; California",6.0,0,2.0,3,3,4,4,4.0,2,3,2016,np
+457,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities PUMA; California",3.0,0,1.0,2,2,3,3,3.0,2,3,2016,np
+458,"Los Angeles County (East Central)--Pomona City PUMA, California",5.0,0,3.0,3,4,4,4,5.0,2,4,2016,np
+459,"Los Angeles County (East Central)--Covina & Walnut Cities PUMA, California",3.0,0,1.0,3,3,4,4,4.0,2,3,2016,np
+460,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights PUMA; California",4.0,0,2.0,3,3,3,4,4.0,2,3,2016,np
+461,"Los Angeles County (East Central)--West Covina City PUMA, California",5.0,0,1.0,3,3,4,4,4.0,2,3,2016,np
+462,"Los Angeles County (East Central)--La Puente & Industry Cities PUMA, California",6.0,0,,3,4,5,5,4.0,3,4,2016,np
+463,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities PUMA; California",4.0,0,2.0,2,3,3,3,3.0,2,3,2016,np
+464,"Los Angeles County (Central)--Pasadena City PUMA, California",3.0,0,1.0,2,2,2,2,2.0,2,3,2016,np
+465,"Los Angeles County (Central)--Glendale City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2016,np
+466,"Los Angeles County (Central)--Burbank City PUMA, California",3.0,0,2.0,2,3,2,3,3.0,2,2,2016,np
+467,"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village) PUMA, California",3.0,0,2.0,2,3,2,2,4.0,2,2,2016,np
+468,"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,3,2016,np
+469,"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City) PUMA, California",5.0,0,2.0,3,3,4,5,4.0,3,3,2016,np
+470,"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana) PUMA, California",3.0,0,2.0,2,3,3,3,4.0,2,3,2016,np
+471,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills) PUMA; California",3.0,0,1.0,3,3,3,3,3.0,2,3,2016,np
+472,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,1,2,2016,np
+473,"Los Angeles County (Central)--LA City (Central/Pacific Palisades) PUMA, California",3.0,0,2.0,2,2,2,2,2.0,1,2,2016,np
+474,"Los Angeles County (Southwest)--Santa Monica City PUMA, California",2.0,0,2.0,2,1,2,2,2.0,1,2,2016,np
+475,"Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles) PUMA, California",3.0,0,2.0,2,2,2,2,3.0,2,2,2016,np
+476,"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire) PUMA, California",3.0,0,2.0,2,2,2,2,3.0,1,2,2016,np
+477,"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities PUMA, California",2.0,0,1.0,1,2,2,2,2.0,1,2,2016,np
+478,"Los Angeles County (Central)--LA City (East Central/Hollywood) PUMA, California",2.0,0,2.0,2,2,2,2,3.0,2,2,2016,np
+479,"Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, California",2.0,0,2.0,2,3,2,2,3.0,2,3,2016,np
+480,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake) PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,3,2016,np
+481,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park) PUMA; California",4.0,0,1.0,3,3,3,3,3.0,2,3,2016,np
+482,"Los Angeles County (Central)--Alhambra & South Pasadena Cities PUMA, California",3.0,0,2.0,3,3,3,3,4.0,2,3,2016,np
+483,"Los Angeles County (Central)--Monterey Park & Rosemead Cities PUMA, California",4.0,0,3.0,3,3,3,3,4.0,2,3,2016,np
+484,"Los Angeles County (Central)--El Monte & South El Monte Cities PUMA, California",5.0,0,2.0,3,5,5,5,3.0,3,4,2016,np
+485,"Los Angeles County (Southeast)--Whittier City & Hacienda Heights PUMA, California",4.0,0,2.0,2,3,3,4,3.0,2,2,2016,np
+486,"Los Angeles County (Central)--Pico Rivera & Montebello Cities PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2016,np
+487,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities PUMA; California",5.0,0,1.0,3,4,5,5,6.0,3,4,2016,np
+488,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park PUMA; California",2.0,0,2.0,3,4,5,6,7.0,3,4,2016,np
+489,"Los Angeles County (Central)--East Los Angeles PUMA, California",5.0,0,3.0,3,4,5,5,3.0,2,4,2016,np
+490,"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights) PUMA, California",3.0,0,1.0,3,3,3,2,5.0,2,3,2016,np
+491,"Los Angeles County (Central)--LA City (Southeast/East Vernon) PUMA, California",5.0,0,1.0,4,5,5,6,5.0,3,4,2016,np
+492,"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park) PUMA, California",5.0,0,2.0,3,3,4,5,3.0,2,4,2016,np
+493,"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills) PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,3,2016,np
+494,"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities PUMA, California",3.0,0,1.0,2,2,2,2,3.0,1,2,2016,np
+495,"Los Angeles County (Central)--Inglewood City PUMA, California",2.0,0,2.0,2,3,3,4,4.0,2,3,2016,np
+496,"Los Angeles County (South Central)--LA City (South Central/Westmont) PUMA, California",3.0,0,2.0,3,3,3,6,3.0,2,3,2016,np
+497,"Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, California",5.0,0,2.0,4,4,5,5,7.0,3,4,2016,np
+498,"Los Angeles County (South)--South Gate & Lynwood Cities PUMA, California",6.0,0,3.0,3,4,5,5,4.0,3,4,2016,np
+499,"Los Angeles County (South)--Downey City PUMA, California",4.0,0,1.0,3,3,3,4,4.0,2,3,2016,np
+500,"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities PUMA, California",4.0,0,3.0,3,3,4,4,4.0,2,3,2016,np
+501,"Los Angeles County (Southeast)--Norwalk City PUMA, California",6.0,0,2.0,3,4,4,4,5.0,2,3,2016,np
+502,"Los Angeles County (Southeast)--Bellflower & Paramount Cities PUMA, California",5.0,0,4.0,3,4,4,4,4.0,2,4,2016,np
+503,"Los Angeles County (South Central)--Compton City & West Rancho Dominguez PUMA, California",7.0,0,2.0,3,4,5,4,4.0,3,4,2016,np
+504,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens PUMA; California",3.0,0,2.0,3,3,4,3,4.0,2,3,2016,np
+505,"Los Angeles County (South Central)--Hawthorne City PUMA, California",3.0,0,1.0,3,3,4,3,3.0,2,3,2016,np
+506,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities PUMA; California",3.0,0,1.0,2,2,2,2,2.0,2,2,2016,np
+507,"Los Angeles County (South Central)--Torrance City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,1,2,2016,np
+508,"Los Angeles County (South Central)--Carson City PUMA, California",4.0,0,1.0,3,3,4,3,4.0,2,3,2016,np
+509,"Los Angeles County (South Central)--Long Beach City (North) PUMA, California",3.0,0,1.0,3,3,4,4,4.0,2,3,2016,np
+510,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities PUMA; California",4.0,0,2.0,3,3,3,3,4.0,2,3,2016,np
+511,"Los Angeles County (Southeast)--Long Beach City (East) PUMA, California",3.0,0,2.0,2,2,2,3,3.0,1,2,2016,np
+512,"Los Angeles County (South)--Long Beach City (Southwest & Port) PUMA, California",4.0,0,1.0,3,3,3,3,2.0,2,3,2016,np
+513,"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2016,np
+514,"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",3.0,0,3.0,2,2,3,3,3.0,1,2,2016,np
+515,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",2.0,0,2.0,3,3,3,2,2.0,2,2,2016,np
+516,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities PUMA; California",3.0,0,2.0,2,2,3,3,3.0,2,2,2016,np
+517,"Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2016,np
+518,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities PUMA; California",3.0,0,2.0,2,2,2,3,3.0,1,2,2016,np
+519,"Orange County (Central)--Irvine City (Central) PUMA, California",3.0,0,3.0,2,2,3,3,3.0,2,2,2016,np
+520,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado PUMA; California",3.0,0,2.0,2,2,3,3,3.0,2,2,2016,np
+521,"Orange County (North)--Yorba Linda, La Habra & Brea Cities PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2016,np
+522,"Orange County (North Central)--Fullerton & Placentia Cities PUMA, California",3.0,0,2.0,3,3,3,3,3.0,2,3,2016,np
+523,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities PUMA; California",4.0,0,1.0,3,3,3,3,4.0,2,3,2016,np
+524,"Orange County (North Central)--Anaheim City (West) PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2016,np
+525,"Orange County (North Central)--Anaheim City (East) PUMA, California",3.0,0,1.0,3,3,3,3,4.0,2,3,2016,np
+526,"Orange County (Central)--Orange & Villa Park Cities PUMA, California",4.0,0,1.0,2,3,3,3,4.0,2,2,2016,np
+527,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities PUMA; California",4.0,0,2.0,3,3,3,4,4.0,2,3,2016,np
+528,"Orange County (Northwest)--Garden Grove City (East) PUMA, California",4.0,0,1.0,3,4,4,4,5.0,2,3,2016,np
+529,"Orange County (Northwest)--Huntington Beach City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2016,np
+530,"Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch PUMA, California",4.0,0,2.0,2,2,2,3,3.0,2,2,2016,np
+531,"Orange County (Central)--Santa Ana City (West) PUMA, California",7.0,0,3.0,4,4,4,5,6.0,3,4,2016,np
+532,"Orange County (Central)--Santa Ana City (East) PUMA, California",6.0,0,3.0,4,4,4,5,4.0,2,4,2016,np
+533,"Orange County (Central)--Costa Mesa & Fountain Valley Cities PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2016,np
+534,"Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities PUMA; California",3.0,0,1.0,3,3,3,5,3.0,2,3,2016,np
+535,"Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities PUMA; California",2.0,0,1.0,2,2,2,2,2.0,1,2,2016,np
+536,"Riverside County (Southwest)--Temecula City PUMA, California",4.0,0,1.0,3,3,3,4,4.0,2,3,2016,np
+537,"Riverside County (Southwest)--Murrieta & Wildomar Cities PUMA, California",4.0,0,3.0,3,3,3,3,4.0,2,3,2016,np
+538,"Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities PUMA; California",3.0,0,2.0,2,3,3,3,4.0,2,3,2016,np
+539,"Riverside County (Southwest)--Hemet City & East Hemet PUMA, California",5.0,0,4.0,3,3,4,3,4.0,2,3,2016,np
+540,"Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities PUMA; California",4.0,0,2.0,3,3,3,4,3.0,2,3,2016,np
+541,"Riverside County (Northwest)--Moreno Valley City PUMA, California",5.0,0,1.0,4,4,4,4,4.0,3,4,2016,np
+542,"Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley PUMA; California",4.0,0,3.0,3,4,4,4,5.0,2,4,2016,np
+543,"Riverside County (Northwest)--Riverside City (East) PUMA, California",3.0,0,2.0,3,3,4,3,3.0,2,3,2016,np
+544,"Riverside County (Northwest)--Riverside City (West) PUMA, California",3.0,0,1.0,3,3,3,4,3.0,2,3,2016,np
+545,"Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens PUMA; California",4.0,0,1.0,3,4,4,4,4.0,2,2,2016,np
+546,"Riverside County (West Central)--Corona (Northwest) & Norco Cities PUMA, California",4.0,0,2.0,2,3,3,4,3.0,2,3,2016,np
+547,"Riverside County (Northwest)--Jurupa Valley & Eastvale Cities PUMA, California",4.0,0,2.0,3,3,4,4,4.0,2,4,2016,np
+548,"Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities PUMA; California",3.0,0,1.0,2,3,2,3,3.0,1,2,2016,np
+549,"Los Angeles County (North/Unincorporated)--Castaic PUMA, California",4.0,0,3.0,3,3,3,3,3.0,2,3,2017,np
+550,"Los Angeles County (Northwest)--Santa Clarita City PUMA, California",4.0,0,1.0,2,3,3,3,3.0,2,3,2017,np
+551,"Los Angeles County (North Central)--Lancaster City PUMA, California",3.0,0,2.0,3,3,4,3,3.0,2,3,2017,np
+552,"Los Angeles County (North Central)--Palmdale City PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2017,np
+553,"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,1,2,2017,np
+554,"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar) PUMA, California",4.0,0,3.0,3,3,3,4,3.0,2,3,2017,np
+555,"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities PUMA, California",5.0,0,2.0,3,4,5,5,5.0,2,4,2017,np
+556,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga) PUMA; California",3.0,0,1.0,2,3,3,3,4.0,2,3,2017,np
+557,"Los Angeles County (Central)--San Gabriel Valley Region (North) PUMA, California",3.0,0,,2,2,2,3,3.0,2,2,2017,np
+558,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities PUMA; California",4.0,0,3.0,3,4,4,3,5.0,2,3,2017,np
+559,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities PUMA; California",3.0,0,3.0,2,3,3,3,3.0,1,2,2017,np
+560,"Los Angeles County (East Central)--Pomona City PUMA, California",5.0,0,2.0,3,3,4,5,4.0,3,3,2017,np
+561,"Los Angeles County (East Central)--Covina & Walnut Cities PUMA, California",4.0,0,2.0,3,3,3,3,3.0,2,3,2017,np
+562,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights PUMA; California",4.0,0,2.0,3,3,3,3,4.0,2,3,2017,np
+563,"Los Angeles County (East Central)--West Covina City PUMA, California",5.0,0,1.0,3,4,4,4,4.0,2,3,2017,np
+564,"Los Angeles County (East Central)--La Puente & Industry Cities PUMA, California",5.0,0,3.0,3,4,5,5,5.0,3,4,2017,np
+565,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities PUMA; California",4.0,0,2.0,2,3,3,3,4.0,2,3,2017,np
+566,"Los Angeles County (Central)--Pasadena City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2017,np
+567,"Los Angeles County (Central)--Glendale City PUMA, California",4.0,0,1.0,3,3,3,3,3.0,2,3,2017,np
+568,"Los Angeles County (Central)--Burbank City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2017,np
+569,"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village) PUMA, California",4.0,0,1.0,2,2,3,3,3.0,2,3,2017,np
+570,"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2017,np
+571,"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City) PUMA, California",4.0,0,2.0,3,4,4,5,4.0,2,3,2017,np
+572,"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana) PUMA, California",4.0,0,1.0,2,3,3,3,3.0,2,3,2017,np
+573,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills) PUMA; California",3.0,0,1.0,2,2,3,3,3.0,2,2,2017,np
+574,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities PUMA; California",3.0,0,2.0,2,2,2,3,3.0,1,2,2017,np
+575,"Los Angeles County (Central)--LA City (Central/Pacific Palisades) PUMA, California",3.0,0,1.0,2,2,2,2,2.0,1,2,2017,np
+576,"Los Angeles County (Southwest)--Santa Monica City PUMA, California",2.0,0,1.0,2,2,2,2,2.0,2,2,2017,np
+577,"Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles) PUMA, California",3.0,0,1.0,2,2,2,2,3.0,2,2,2017,np
+578,"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire) PUMA, California",3.0,0,2.0,2,2,2,2,3.0,1,2,2017,np
+579,"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities PUMA, California",2.0,0,1.0,2,2,2,2,2.0,1,2,2017,np
+580,"Los Angeles County (Central)--LA City (East Central/Hollywood) PUMA, California",2.0,0,1.0,2,2,3,2,2.0,1,2,2017,np
+581,"Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,3,2017,np
+582,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake) PUMA; California",3.0,0,2.0,3,3,3,3,3.0,2,2,2017,np
+583,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park) PUMA; California",3.0,0,2.0,3,3,3,4,4.0,2,3,2017,np
+584,"Los Angeles County (Central)--Alhambra & South Pasadena Cities PUMA, California",3.0,0,1.0,3,3,2,3,3.0,2,3,2017,np
+585,"Los Angeles County (Central)--Monterey Park & Rosemead Cities PUMA, California",4.0,0,2.0,3,3,4,4,4.0,2,3,2017,np
+586,"Los Angeles County (Central)--El Monte & South El Monte Cities PUMA, California",5.0,0,1.0,3,4,5,5,4.0,3,4,2017,np
+587,"Los Angeles County (Southeast)--Whittier City & Hacienda Heights PUMA, California",3.0,0,3.0,3,3,3,3,4.0,2,3,2017,np
+588,"Los Angeles County (Central)--Pico Rivera & Montebello Cities PUMA, California",4.0,0,2.0,2,3,4,4,4.0,2,3,2017,np
+589,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities PUMA; California",3.0,0,1.0,3,4,4,6,5.0,3,4,2017,np
+590,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park PUMA; California",5.0,0,2.0,4,5,5,6,7.0,3,4,2017,np
+591,"Los Angeles County (Central)--East Los Angeles PUMA, California",5.0,0,2.0,3,4,4,6,4.0,2,4,2017,np
+592,"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights) PUMA, California",2.0,0,1.0,2,3,3,2,2.0,2,3,2017,np
+593,"Los Angeles County (Central)--LA City (Southeast/East Vernon) PUMA, California",6.0,0,2.0,4,5,5,6,6.0,3,4,2017,np
+594,"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park) PUMA, California",3.0,0,2.0,3,4,4,4,4.0,2,3,2017,np
+595,"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills) PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,3,2017,np
+596,"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities PUMA, California",2.0,0,1.0,2,2,2,2,2.0,1,2,2017,np
+597,"Los Angeles County (Central)--Inglewood City PUMA, California",4.0,0,4.0,2,3,3,3,4.0,2,3,2017,np
+598,"Los Angeles County (South Central)--LA City (South Central/Westmont) PUMA, California",2.0,0,1.0,3,4,4,5,5.0,2,3,2017,np
+599,"Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, California",1.0,0,2.0,3,4,5,5,7.0,3,4,2017,np
+600,"Los Angeles County (South)--South Gate & Lynwood Cities PUMA, California",7.0,0,2.0,3,4,5,5,5.0,3,4,2017,np
+601,"Los Angeles County (South)--Downey City PUMA, California",3.0,0,3.0,2,3,3,3,4.0,2,3,2017,np
+602,"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities PUMA, California",3.0,0,2.0,3,3,4,4,4.0,2,3,2017,np
+603,"Los Angeles County (Southeast)--Norwalk City PUMA, California",3.0,0,2.0,3,3,4,4,4.0,2,3,2017,np
+604,"Los Angeles County (Southeast)--Bellflower & Paramount Cities PUMA, California",5.0,0,3.0,3,3,4,4,4.0,2,3,2017,np
+605,"Los Angeles County (South Central)--Compton City & West Rancho Dominguez PUMA, California",6.0,0,3.0,3,4,5,5,4.0,3,3,2017,np
+606,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens PUMA; California",3.0,0,1.0,3,3,3,4,4.0,2,3,2017,np
+607,"Los Angeles County (South Central)--Hawthorne City PUMA, California",4.0,0,1.0,3,3,3,4,4.0,2,3,2017,np
+608,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities PUMA; California",3.0,0,3.0,2,2,2,2,3.0,1,2,2017,np
+609,"Los Angeles County (South Central)--Torrance City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,1,2,2017,np
+610,"Los Angeles County (South Central)--Carson City PUMA, California",4.0,0,1.0,2,3,3,3,4.0,2,3,2017,np
+611,"Los Angeles County (South Central)--Long Beach City (North) PUMA, California",3.0,0,1.0,2,3,3,4,3.0,2,3,2017,np
+612,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities PUMA; California",4.0,0,2.0,2,3,3,4,3.0,2,3,2017,np
+613,"Los Angeles County (Southeast)--Long Beach City (East) PUMA, California",3.0,0,2.0,2,2,2,3,3.0,2,2,2017,np
+614,"Los Angeles County (South)--Long Beach City (Southwest & Port) PUMA, California",3.0,0,1.0,3,3,3,4,5.0,2,3,2017,np
+615,"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",4.0,0,1.0,3,3,3,3,4.0,2,3,2017,np
+616,"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",3.0,0,1.0,2,2,2,2,3.0,1,2,2017,np
+617,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",2.0,0,2.0,2,2,3,2,2.0,2,2,2017,np
+618,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,2,2,2017,np
+619,"Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities PUMA, California",3.0,0,,2,2,3,3,3.0,2,2,2017,np
+620,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,2,2,2017,np
+621,"Orange County (Central)--Irvine City (Central) PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2017,np
+622,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2017,np
+623,"Orange County (North)--Yorba Linda, La Habra & Brea Cities PUMA; California",4.0,0,2.0,2,2,3,3,3.0,3,2,2017,np
+624,"Orange County (North Central)--Fullerton & Placentia Cities PUMA, California",3.0,0,3.0,3,3,3,3,3.0,2,3,2017,np
+625,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,3,2017,np
+626,"Orange County (North Central)--Anaheim City (West) PUMA, California",5.0,0,1.0,3,4,4,5,4.0,2,3,2017,np
+627,"Orange County (North Central)--Anaheim City (East) PUMA, California",3.0,0,2.0,3,3,3,4,4.0,2,3,2017,np
+628,"Orange County (Central)--Orange & Villa Park Cities PUMA, California",3.0,0,3.0,2,3,3,3,4.0,2,3,2017,np
+629,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities PUMA; California",3.0,0,2.0,3,3,3,4,3.0,2,3,2017,np
+630,"Orange County (Northwest)--Garden Grove City (East) PUMA, California",5.0,0,1.0,3,4,4,4,3.0,3,3,2017,np
+631,"Orange County (Northwest)--Huntington Beach City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2017,np
+632,"Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch PUMA, California",3.0,0,2.0,2,2,3,3,3.0,1,2,2017,np
+633,"Orange County (Central)--Santa Ana City (West) PUMA, California",4.0,0,1.0,3,4,5,6,5.0,2,4,2017,np
+634,"Orange County (Central)--Santa Ana City (East) PUMA, California",4.0,0,1.0,4,4,4,4,5.0,2,4,2017,np
+635,"Orange County (Central)--Costa Mesa & Fountain Valley Cities PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2017,np
+636,"Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities PUMA; California",3.0,0,1.0,2,3,3,3,4.0,2,2,2017,np
+637,"Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities PUMA; California",2.0,0,2.0,2,2,2,3,3.0,2,2,2017,np
+638,"Riverside County (Southwest)--Temecula City PUMA, California",3.0,0,2.0,2,3,3,4,3.0,2,3,2017,np
+639,"Riverside County (Southwest)--Murrieta & Wildomar Cities PUMA, California",4.0,0,1.0,3,4,4,3,4.0,2,3,2017,np
+640,"Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities PUMA; California",4.0,0,1.0,2,3,3,4,4.0,2,3,2017,np
+641,"Riverside County (Southwest)--Hemet City & East Hemet PUMA, California",4.0,0,2.0,2,3,4,4,3.0,2,3,2017,np
+642,"Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities PUMA; California",5.0,0,2.0,3,3,3,4,3.0,2,3,2017,np
+643,"Riverside County (Northwest)--Moreno Valley City PUMA, California",4.0,0,2.0,3,4,4,4,5.0,3,4,2017,np
+644,"Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley PUMA; California",4.0,0,4.0,3,4,4,5,4.0,3,4,2017,np
+645,"Riverside County (Northwest)--Riverside City (East) PUMA, California",4.0,0,2.0,2,3,3,3,3.0,2,3,2017,np
+646,"Riverside County (Northwest)--Riverside City (West) PUMA, California",4.0,0,2.0,3,3,3,3,4.0,2,3,2017,np
+647,"Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens PUMA; California",4.0,0,3.0,3,4,3,3,4.0,2,3,2017,np
+648,"Riverside County (West Central)--Corona (Northwest) & Norco Cities PUMA, California",4.0,0,1.0,2,3,4,3,3.0,2,3,2017,np
+649,"Riverside County (Northwest)--Jurupa Valley & Eastvale Cities PUMA, California",4.0,0,2.0,3,4,4,4,4.0,2,4,2017,np
+650,"Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities PUMA; California",2.0,0,2.0,2,3,2,2,2.0,2,2,2017,np
+651,"Los Angeles County (North/Unincorporated)--Castaic PUMA, California",3.0,0,3.0,2,3,3,3,4.0,2,3,2018,np
+652,"Los Angeles County (Northwest)--Santa Clarita City PUMA, California",4.0,0,1.0,2,3,3,3,3.0,2,2,2018,np
+653,"Los Angeles County (North Central)--Lancaster City PUMA, California",3.0,0,3.0,3,3,4,4,3.0,2,3,2018,np
+654,"Los Angeles County (North Central)--Palmdale City PUMA, California",4.0,0,3.0,3,3,4,4,3.0,2,3,2018,np
+655,"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch) PUMA, California",4.0,0,1.0,2,3,3,3,3.0,2,2,2018,np
+656,"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar) PUMA, California",3.0,0,2.0,2,3,3,3,4.0,2,3,2018,np
+657,"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities PUMA, California",6.0,0,1.0,3,4,4,5,6.0,2,3,2018,np
+658,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga) PUMA; California",4.0,0,1.0,2,3,3,3,4.0,2,3,2018,np
+659,"Los Angeles County (Central)--San Gabriel Valley Region (North) PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2018,np
+660,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities PUMA; California",4.0,0,2.0,3,4,4,4,5.0,2,3,2018,np
+661,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities PUMA; California",3.0,0,1.0,2,2,3,3,3.0,2,2,2018,np
+662,"Los Angeles County (East Central)--Pomona City PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2018,np
+663,"Los Angeles County (East Central)--Covina & Walnut Cities PUMA, California",4.0,0,3.0,3,3,3,4,3.0,3,3,2018,np
+664,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights PUMA; California",4.0,0,2.0,3,3,3,3,3.0,2,3,2018,np
+665,"Los Angeles County (East Central)--West Covina City PUMA, California",4.0,0,2.0,3,3,4,4,4.0,2,3,2018,np
+666,"Los Angeles County (East Central)--La Puente & Industry Cities PUMA, California",6.0,0,1.0,3,4,4,5,6.0,2,3,2018,np
+667,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities PUMA; California",3.0,0,2.0,3,3,3,3,3.0,2,2,2018,np
+668,"Los Angeles County (Central)--Pasadena City PUMA, California",3.0,0,2.0,2,3,2,2,3.0,2,2,2018,np
+669,"Los Angeles County (Central)--Glendale City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,3,2018,np
+670,"Los Angeles County (Central)--Burbank City PUMA, California",3.0,0,1.0,2,2,3,2,3.0,1,2,2018,np
+671,"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village) PUMA, California",4.0,0,1.0,2,2,3,3,3.0,2,2,2018,np
+672,"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks) PUMA, California",3.0,0,3.0,3,3,3,3,3.0,2,2,2018,np
+673,"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City) PUMA, California",4.0,0,3.0,3,3,4,4,5.0,3,3,2018,np
+674,"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana) PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,3,2018,np
+675,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills) PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2018,np
+676,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities PUMA; California",3.0,0,2.0,2,2,2,2,3.0,2,3,2018,np
+677,"Los Angeles County (Central)--LA City (Central/Pacific Palisades) PUMA, California",3.0,0,1.0,1,2,2,2,2.0,1,2,2018,np
+678,"Los Angeles County (Southwest)--Santa Monica City PUMA, California",3.0,0,1.0,2,2,2,2,2.0,1,2,2018,np
+679,"Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles) PUMA, California",3.0,0,2.0,2,2,2,2,2.0,2,2,2018,np
+680,"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire) PUMA, California",3.0,0,1.0,2,2,2,2,3.0,1,2,2018,np
+681,"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities PUMA, California",2.0,0,2.0,1,2,2,2,2.0,1,1,2018,np
+682,"Los Angeles County (Central)--LA City (East Central/Hollywood) PUMA, California",2.0,0,1.0,2,2,3,2,2.0,1,2,2018,np
+683,"Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, California",3.0,0,1.0,2,3,3,4,2.0,2,3,2018,np
+684,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake) PUMA; California",3.0,0,1.0,2,3,3,2,3.0,2,2,2018,np
+685,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park) PUMA; California",3.0,0,2.0,3,3,3,3,3.0,2,3,2018,np
+686,"Los Angeles County (Central)--Alhambra & South Pasadena Cities PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,3,2018,np
+687,"Los Angeles County (Central)--Monterey Park & Rosemead Cities PUMA, California",4.0,0,2.0,3,3,3,4,3.0,2,3,2018,np
+688,"Los Angeles County (Central)--El Monte & South El Monte Cities PUMA, California",5.0,0,1.0,3,4,4,5,3.0,2,4,2018,np
+689,"Los Angeles County (Southeast)--Whittier City & Hacienda Heights PUMA, California",3.0,0,2.0,2,3,3,3,4.0,2,3,2018,np
+690,"Los Angeles County (Central)--Pico Rivera & Montebello Cities PUMA, California",5.0,0,1.0,2,4,4,4,5.0,2,3,2018,np
+691,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities PUMA; California",5.0,0,2.0,3,4,4,5,6.0,3,4,2018,np
+692,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park PUMA; California",6.0,0,3.0,3,4,5,6,7.0,2,4,2018,np
+693,"Los Angeles County (Central)--East Los Angeles PUMA, California",5.0,0,2.0,3,4,4,5,7.0,2,3,2018,np
+694,"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights) PUMA, California",2.0,0,1.0,2,3,3,3,2.0,1,3,2018,np
+695,"Los Angeles County (Central)--LA City (Southeast/East Vernon) PUMA, California",7.0,0,1.0,4,5,5,5,5.0,3,4,2018,np
+696,"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park) PUMA, California",4.0,0,2.0,3,4,5,5,4.0,2,3,2018,np
+697,"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills) PUMA, California",3.0,0,1.0,2,3,3,4,3.0,2,2,2018,np
+698,"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities PUMA, California",3.0,0,2.0,2,2,2,2,2.0,1,2,2018,np
+699,"Los Angeles County (Central)--Inglewood City PUMA, California",4.0,0,1.0,2,2,3,4,4.0,2,3,2018,np
+700,"Los Angeles County (South Central)--LA City (South Central/Westmont) PUMA, California",5.0,0,2.0,3,4,4,4,6.0,2,3,2018,np
+701,"Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, California",5.0,0,1.0,4,5,5,6,7.0,3,4,2018,np
+702,"Los Angeles County (South)--South Gate & Lynwood Cities PUMA, California",4.0,0,2.0,3,4,4,6,6.0,2,4,2018,np
+703,"Los Angeles County (South)--Downey City PUMA, California",3.0,0,1.0,3,3,3,4,3.0,2,3,2018,np
+704,"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities PUMA, California",5.0,0,1.0,2,4,4,4,4.0,2,3,2018,np
+705,"Los Angeles County (Southeast)--Norwalk City PUMA, California",5.0,0,1.0,3,4,4,4,4.0,2,3,2018,np
+706,"Los Angeles County (Southeast)--Bellflower & Paramount Cities PUMA, California",3.0,0,1.0,3,3,4,4,4.0,2,3,2018,np
+707,"Los Angeles County (South Central)--Compton City & West Rancho Dominguez PUMA, California",4.0,0,2.0,3,4,4,5,4.0,2,3,2018,np
+708,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens PUMA; California",4.0,1,1.0,3,4,3,3,4.0,2,3,2018,np
+709,"Los Angeles County (South Central)--Hawthorne City PUMA, California",4.0,0,1.0,2,3,4,4,3.0,2,3,2018,np
+710,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities PUMA; California",3.0,0,1.0,2,2,2,2,3.0,1,2,2018,np
+711,"Los Angeles County (South Central)--Torrance City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2018,np
+712,"Los Angeles County (South Central)--Carson City PUMA, California",4.0,0,1.0,3,3,4,4,4.0,2,3,2018,np
+713,"Los Angeles County (South Central)--Long Beach City (North) PUMA, California",3.0,0,2.0,2,3,3,3,4.0,2,3,2018,np
+714,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities PUMA; California",4.0,0,2.0,2,3,3,4,3.0,2,3,2018,np
+715,"Los Angeles County (Southeast)--Long Beach City (East) PUMA, California",3.0,0,2.0,2,2,2,3,3.0,1,2,2018,np
+716,"Los Angeles County (South)--Long Beach City (Southwest & Port) PUMA, California",2.0,0,2.0,2,3,3,3,4.0,2,3,2018,np
+717,"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2018,np
+718,"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",3.0,0,1.0,2,2,2,3,3.0,2,2,2018,np
+719,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",2.0,0,1.0,2,2,2,2,3.0,2,2,2018,np
+720,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities PUMA; California",3.0,0,1.0,2,2,2,3,2.0,2,2,2018,np
+721,"Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities PUMA, California",3.0,0,1.0,2,2,2,3,3.0,1,2,2018,np
+722,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities PUMA; California",3.0,0,2.0,2,2,2,2,3.0,1,2,2018,np
+723,"Orange County (Central)--Irvine City (Central) PUMA, California",3.0,0,2.0,2,3,2,3,3.0,2,2,2018,np
+724,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2018,np
+725,"Orange County (North)--Yorba Linda, La Habra & Brea Cities PUMA; California",3.0,0,2.0,2,3,3,4,3.0,2,3,2018,np
+726,"Orange County (North Central)--Fullerton & Placentia Cities PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,3,2018,np
+727,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,3,2018,np
+728,"Orange County (North Central)--Anaheim City (West) PUMA, California",5.0,0,2.0,3,3,3,3,4.0,2,3,2018,np
+729,"Orange County (North Central)--Anaheim City (East) PUMA, California",4.0,0,1.0,3,3,3,3,3.0,2,3,2018,np
+730,"Orange County (Central)--Orange & Villa Park Cities PUMA, California",3.0,0,4.0,3,3,3,3,3.0,2,2,2018,np
+731,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities PUMA; California",4.0,0,3.0,3,3,3,3,4.0,2,3,2018,np
+732,"Orange County (Northwest)--Garden Grove City (East) PUMA, California",6.0,0,3.0,3,4,4,4,5.0,2,3,2018,np
+733,"Orange County (Northwest)--Huntington Beach City PUMA, California",3.0,0,1.0,2,2,2,3,3.0,2,2,2018,np
+734,"Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch PUMA, California",3.0,0,1.0,2,3,2,3,3.0,2,3,2018,np
+735,"Orange County (Central)--Santa Ana City (West) PUMA, California",6.0,0,2.0,3,4,4,4,5.0,2,4,2018,np
+736,"Orange County (Central)--Santa Ana City (East) PUMA, California",4.0,1,3.0,3,4,4,5,4.0,2,3,2018,np
+737,"Orange County (Central)--Costa Mesa & Fountain Valley Cities PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,2,2018,np
+738,"Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,1,2,2018,np
+739,"Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities PUMA; California",2.0,0,1.0,2,2,2,2,3.0,2,2,2018,np
+740,"Riverside County (Southwest)--Temecula City PUMA, California",3.0,0,3.0,3,3,3,4,3.0,2,2,2018,np
+741,"Riverside County (Southwest)--Murrieta & Wildomar Cities PUMA, California",4.0,0,1.0,2,4,4,4,4.0,2,3,2018,np
+742,"Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities PUMA; California",4.0,0,2.0,2,3,3,4,3.0,2,3,2018,np
+743,"Riverside County (Southwest)--Hemet City & East Hemet PUMA, California",3.0,0,2.0,2,3,3,4,5.0,2,3,2018,np
+744,"Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities PUMA; California",4.0,0,2.0,2,3,4,4,3.0,2,2,2018,np
+745,"Riverside County (Northwest)--Moreno Valley City PUMA, California",3.0,0,1.0,3,4,4,4,6.0,3,3,2018,np
+746,"Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley PUMA; California",5.0,0,2.0,4,4,4,4,4.0,2,3,2018,np
+747,"Riverside County (Northwest)--Riverside City (East) PUMA, California",3.0,0,2.0,3,2,3,4,3.0,2,3,2018,np
+748,"Riverside County (Northwest)--Riverside City (West) PUMA, California",5.0,0,3.0,3,3,3,4,3.0,2,3,2018,np
+749,"Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens PUMA; California",3.0,0,2.0,3,3,3,4,4.0,2,2,2018,np
+750,"Riverside County (West Central)--Corona (Northwest) & Norco Cities PUMA, California",4.0,0,1.0,3,3,4,4,4.0,2,3,2018,np
+751,"Riverside County (Northwest)--Jurupa Valley & Eastvale Cities PUMA, California",4.0,0,1.0,2,4,4,4,5.0,3,4,2018,np
+752,"Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities PUMA; California",2.0,0,2.0,2,2,2,3,2.0,2,2,2018,np
+753,"Los Angeles County (North/Unincorporated)--Castaic PUMA, California",4.0,0,3.0,3,4,3,3,4.0,2,3,2019,np
+754,"Los Angeles County (Northwest)--Santa Clarita City PUMA, California",3.0,0,2.0,2,2,3,3,3.0,2,3,2019,np
+755,"Los Angeles County (North Central)--Lancaster City PUMA, California",3.0,0,3.0,3,3,3,3,3.0,2,3,2019,np
+756,"Los Angeles County (North Central)--Palmdale City PUMA, California",4.0,0,3.0,3,4,4,4,3.0,2,3,2019,np
+757,"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch) PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
+758,"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar) PUMA, California",4.0,0,1.0,3,3,3,4,4.0,2,3,2019,np
+759,"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities PUMA, California",4.0,0,1.0,3,4,4,5,5.0,2,3,2019,np
+760,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga) PUMA; California",3.0,0,2.0,3,3,3,4,4.0,2,2,2019,np
+761,"Los Angeles County (Central)--San Gabriel Valley Region (North) PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2019,np
+762,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities PUMA; California",4.0,0,1.0,3,3,4,4,4.0,2,3,2019,np
+763,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,2,2019,np
+764,"Los Angeles County (East Central)--Pomona City PUMA, California",3.0,0,2.0,3,4,3,4,5.0,2,4,2019,np
+765,"Los Angeles County (East Central)--Covina & Walnut Cities PUMA, California",4.0,0,2.0,2,3,3,3,4.0,2,3,2019,np
+766,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,3,2019,np
+767,"Los Angeles County (East Central)--West Covina City PUMA, California",4.0,0,2.0,2,3,4,4,4.0,2,3,2019,np
+768,"Los Angeles County (East Central)--La Puente & Industry Cities PUMA, California",7.0,0,,3,4,4,4,5.0,2,4,2019,np
+769,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
+770,"Los Angeles County (Central)--Pasadena City PUMA, California",3.0,0,2.0,2,2,2,3,3.0,2,2,2019,np
+771,"Los Angeles County (Central)--Glendale City PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2019,np
+772,"Los Angeles County (Central)--Burbank City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,1,2,2019,np
+773,"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village) PUMA, California",4.0,0,1.0,2,2,3,3,3.0,2,2,2019,np
+774,"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,3,2019,np
+775,"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City) PUMA, California",4.0,0,1.0,3,3,3,4,5.0,2,3,2019,np
+776,"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,2,2,2019,np
+777,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills) PUMA; California",3.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
+778,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities PUMA; California",3.0,0,1.0,2,2,2,3,3.0,2,2,2019,np
+779,"Los Angeles County (Central)--LA City (Central/Pacific Palisades) PUMA, California",3.0,0,1.0,2,2,2,2,2.0,1,2,2019,np
+780,"Los Angeles County (Southwest)--Santa Monica City PUMA, California",2.0,0,1.0,2,2,2,2,2.0,1,2,2019,np
+781,"Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles) PUMA, California",3.0,0,1.0,2,2,2,2,2.0,2,2,2019,np
+782,"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire) PUMA, California",3.0,0,2.0,2,2,2,2,3.0,2,2,2019,np
+783,"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities PUMA, California",2.0,0,1.0,1,2,2,2,2.0,1,2,2019,np
+784,"Los Angeles County (Central)--LA City (East Central/Hollywood) PUMA, California",3.0,0,1.0,2,2,2,3,3.0,1,2,2019,np
+785,"Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, California",3.0,0,2.0,2,3,3,3,2.0,2,2,2019,np
+786,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake) PUMA; California",3.0,0,2.0,2,2,3,3,3.0,2,2,2019,np
+787,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park) PUMA; California",3.0,0,1.0,2,3,3,3,3.0,2,2,2019,np
+788,"Los Angeles County (Central)--Alhambra & South Pasadena Cities PUMA, California",3.0,0,1.0,3,2,3,3,3.0,2,3,2019,np
+789,"Los Angeles County (Central)--Monterey Park & Rosemead Cities PUMA, California",4.0,0,2.0,3,4,3,4,4.0,2,3,2019,np
+790,"Los Angeles County (Central)--El Monte & South El Monte Cities PUMA, California",5.0,0,3.0,3,4,4,5,5.0,2,3,2019,np
+791,"Los Angeles County (Southeast)--Whittier City & Hacienda Heights PUMA, California",4.0,0,2.0,3,3,3,4,3.0,1,3,2019,np
+792,"Los Angeles County (Central)--Pico Rivera & Montebello Cities PUMA, California",5.0,0,2.0,3,3,4,4,4.0,2,3,2019,np
+793,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities PUMA; California",7.0,0,2.0,3,4,4,5,6.0,2,4,2019,np
+794,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park PUMA; California",5.0,0,1.0,3,4,5,6,6.0,2,4,2019,np
+795,"Los Angeles County (Central)--East Los Angeles PUMA, California",5.0,0,2.0,3,4,4,5,5.0,2,4,2019,np
+796,"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights) PUMA, California",2.0,0,2.0,3,3,3,2,2.0,2,3,2019,np
+797,"Los Angeles County (Central)--LA City (Southeast/East Vernon) PUMA, California",5.0,0,3.0,4,5,5,5,8.0,3,4,2019,np
+798,"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park) PUMA, California",5.0,0,2.0,3,3,4,4,4.0,2,4,2019,np
+799,"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills) PUMA, California",3.0,0,1.0,2,3,3,3,3.0,1,2,2019,np
+800,"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities PUMA, California",3.0,0,2.0,2,2,2,2,2.0,1,2,2019,np
+801,"Los Angeles County (Central)--Inglewood City PUMA, California",4.0,0,2.0,2,3,3,4,4.0,2,3,2019,np
+802,"Los Angeles County (South Central)--LA City (South Central/Westmont) PUMA, California",4.0,0,1.0,3,3,4,4,6.0,2,3,2019,np
+803,"Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, California",4.0,0,2.0,4,4,5,5,7.0,3,4,2019,np
+804,"Los Angeles County (South)--South Gate & Lynwood Cities PUMA, California",5.0,0,1.0,3,4,5,6,5.0,2,4,2019,np
+805,"Los Angeles County (South)--Downey City PUMA, California",4.0,0,,2,3,4,4,5.0,2,3,2019,np
+806,"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities PUMA, California",4.0,0,1.0,3,3,4,3,4.0,2,3,2019,np
+807,"Los Angeles County (Southeast)--Norwalk City PUMA, California",5.0,0,1.0,2,4,4,4,5.0,2,3,2019,np
+808,"Los Angeles County (Southeast)--Bellflower & Paramount Cities PUMA, California",4.0,0,1.0,3,4,4,4,4.0,2,3,2019,np
+809,"Los Angeles County (South Central)--Compton City & West Rancho Dominguez PUMA, California",6.0,0,2.0,3,4,5,5,6.0,2,3,2019,np
+810,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens PUMA; California",5.0,0,2.0,2,3,3,3,3.0,2,3,2019,np
+811,"Los Angeles County (South Central)--Hawthorne City PUMA, California",5.0,0,1.0,3,3,3,3,4.0,2,3,2019,np
+812,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities PUMA; California",3.0,0,1.0,1,2,2,2,3.0,1,2,2019,np
+813,"Los Angeles County (South Central)--Torrance City PUMA, California",3.0,0,2.0,2,2,2,3,3.0,2,2,2019,np
+814,"Los Angeles County (South Central)--Carson City PUMA, California",4.0,0,1.0,2,2,3,4,4.0,2,3,2019,np
+815,"Los Angeles County (South Central)--Long Beach City (North) PUMA, California",3.0,0,2.0,2,3,4,4,3.0,2,3,2019,np
+816,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities PUMA; California",3.0,0,3.0,3,3,3,4,4.0,2,2,2019,np
+817,"Los Angeles County (Southeast)--Long Beach City (East) PUMA, California",3.0,0,2.0,2,2,2,3,3.0,2,2,2019,np
+818,"Los Angeles County (South)--Long Beach City (Southwest & Port) PUMA, California",3.0,0,2.0,2,3,3,3,4.0,2,3,2019,np
+819,"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2019,np
+820,"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",3.0,0,1.0,2,2,2,3,3.0,2,2,2019,np
+821,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",3.0,0,2.0,2,3,2,3,3.0,2,3,2019,np
+822,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities PUMA; California",3.0,0,1.0,2,3,2,3,3.0,1,2,2019,np
+823,"Orange County (South Central)--Mission Viejo & Rancho Santa Margarita (West) Cities PUMA, California",3.0,0,2.0,2,2,3,3,3.0,1,2,2019,np
+824,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Hills Cities PUMA; California",3.0,0,1.0,2,2,2,2,2.0,1,2,2019,np
+825,"Orange County (Central)--Irvine City (Central) PUMA, California",3.0,0,2.0,3,2,2,3,3.0,2,2,2019,np
+826,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado PUMA; California",3.0,0,1.0,2,3,3,3,3.0,1,3,2019,np
+827,"Orange County (North)--Yorba Linda, La Habra & Brea Cities PUMA; California",4.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
+828,"Orange County (North Central)--Fullerton & Placentia Cities PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2019,np
+829,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities PUMA; California",4.0,0,1.0,2,3,3,3,4.0,2,2,2019,np
+830,"Orange County (North Central)--Anaheim City (West) PUMA, California",5.0,0,2.0,2,3,3,4,4.0,2,3,2019,np
+831,"Orange County (North Central)--Anaheim City (East) PUMA, California",4.0,0,2.0,3,3,3,3,4.0,2,3,2019,np
+832,"Orange County (Central)--Orange & Villa Park Cities PUMA, California",3.0,0,1.0,3,3,3,3,3.0,2,3,2019,np
+833,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities PUMA; California",4.0,0,2.0,3,3,3,4,4.0,2,3,2019,np
+834,"Orange County (Northwest)--Garden Grove City (East) PUMA, California",5.0,0,2.0,3,3,4,4,4.0,2,3,2019,np
+835,"Orange County (Northwest)--Huntington Beach City PUMA, California",3.0,0,1.0,2,2,3,3,3.0,2,2,2019,np
+836,"Orange County (Southeast)--Rancho Santa Margarita City (East) & Ladera Ranch PUMA, California",4.0,0,3.0,1,2,3,3,3.0,1,2,2019,np
+837,"Orange County (Central)--Santa Ana City (West) PUMA, California",5.0,0,2.0,3,4,4,5,5.0,2,3,2019,np
+838,"Orange County (Central)--Santa Ana City (East) PUMA, California",5.0,0,3.0,3,4,4,5,5.0,3,4,2019,np
+839,"Orange County (Central)--Costa Mesa & Fountain Valley Cities PUMA, California",3.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
+840,"Riverside County (East)--Indio, Coachella, Blythe & La Quinta (East) Cities PUMA; California",3.0,0,2.0,2,3,3,4,3.0,2,2,2019,np
+841,"Riverside County (Central)--Cathedral City, Palm Springs & Rancho Mirage Cities PUMA; California",2.0,0,2.0,2,2,3,2,2.0,1,2,2019,np
+842,"Riverside County (Southwest)--Temecula City PUMA, California",4.0,0,2.0,2,3,3,3,3.0,2,2,2019,np
+843,"Riverside County (Southwest)--Murrieta & Wildomar Cities PUMA, California",4.0,0,1.0,2,3,3,4,4.0,2,3,2019,np
+844,"Riverside County (Southwest)--Menifee, Lake Elsinore & Canyon Lake Cities PUMA; California",4.0,0,2.0,2,3,3,4,4.0,2,3,2019,np
+845,"Riverside County (Southwest)--Hemet City & East Hemet PUMA, California",5.0,0,2.0,3,3,4,3,4.0,2,3,2019,np
+846,"Riverside County (North Central)--San Jacinto, Beaumont, Banning & Calimesa Cities PUMA; California",4.0,0,4.0,2,3,3,4,3.0,2,3,2019,np
+847,"Riverside County (Northwest)--Moreno Valley City PUMA, California",5.0,0,2.0,3,3,4,5,4.0,2,3,2019,np
+848,"Riverside County (West Central)--Perris City, Temescal Valley & Mead Valley PUMA; California",4.0,0,2.0,3,4,4,4,5.0,2,3,2019,np
+849,"Riverside County (Northwest)--Riverside City (East) PUMA, California",3.0,0,1.0,3,3,3,4,3.0,1,3,2019,np
+850,"Riverside County (Northwest)--Riverside City (West) PUMA, California",3.0,0,1.0,3,3,4,4,3.0,2,3,2019,np
+851,"Riverside County (West Central)--Corona City (South), Woodcrest & Home Gardens PUMA; California",4.0,0,1.0,2,3,3,4,4.0,3,3,2019,np
+852,"Riverside County (West Central)--Corona (Northwest) & Norco Cities PUMA, California",4.0,0,1.0,3,3,3,4,4.0,2,3,2019,np
+853,"Riverside County (Northwest)--Jurupa Valley & Eastvale Cities PUMA, California",5.0,0,3.0,4,4,4,4,4.0,2,4,2019,np
+854,"Riverside County--Palm Desert, La Quinta (West) & Desert Hot Springs Cities PUMA; California",2.0,0,1.0,2,2,2,2,2.0,1,2,2019,np
