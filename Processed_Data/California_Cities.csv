@@ -1,0 +1,1471 @@
+﻿city,city_ascii,state_id,lat,lng
+Los Angeles,Los Angeles,CA,34.1139,-118.4068
+San Francisco,San Francisco,CA,37.7562,-122.443
+San Diego,San Diego,CA,32.8312,-117.1225
+Riverside,Riverside,CA,33.9381,-117.3948
+Sacramento,Sacramento,CA,38.5667,-121.4683
+San Jose,San Jose,CA,37.3019,-121.8486
+Fresno,Fresno,CA,36.7831,-119.7941
+Concord,Concord,CA,37.9722,-122.0016
+Mission Viejo,Mission Viejo,CA,33.6095,-117.655
+Bakersfield,Bakersfield,CA,35.3529,-119.0359
+Murrieta,Murrieta,CA,33.572,-117.1909
+Long Beach,Long Beach,CA,33.7981,-118.1675
+Oakland,Oakland,CA,37.7903,-122.2165
+Indio,Indio,CA,33.7346,-116.2346
+Stockton,Stockton,CA,37.9765,-121.3109
+Oxnard,Oxnard,CA,34.1963,-119.1815
+Modesto,Modesto,CA,37.6374,-121.0028
+Anaheim,Anaheim,CA,33.839,-117.8572
+Victorville,Victorville,CA,34.5277,-117.3536
+Lancaster,Lancaster,CA,34.6935,-118.1753
+Santa Ana,Santa Ana,CA,33.7366,-117.8819
+Santa Rosa,Santa Rosa,CA,38.4458,-122.7067
+Santa Clarita,Santa Clarita,CA,34.4175,-118.4964
+Antioch,Antioch,CA,37.9789,-121.7958
+Irvine,Irvine,CA,33.6772,-117.7738
+Chula Vista,Chula Vista,CA,32.6281,-117.0145
+Fremont,Fremont,CA,37.5265,-121.9852
+Visalia,Visalia,CA,36.3276,-119.3269
+San Bernardino,San Bernardino,CA,34.1417,-117.2946
+Thousand Oaks,Thousand Oaks,CA,34.1914,-118.8755
+Fontana,Fontana,CA,34.0968,-117.4599
+Moreno Valley,Moreno Valley,CA,33.9244,-117.2045
+Santa Barbara,Santa Barbara,CA,34.4285,-119.7202
+Glendale,Glendale,CA,34.1818,-118.2468
+Huntington Beach,Huntington Beach,CA,33.696,-118.0025
+Salinas,Salinas,CA,36.6884,-121.6317
+Ontario,Ontario,CA,34.0393,-117.6064
+Rancho Cucamonga,Rancho Cucamonga,CA,34.1248,-117.5666
+Hemet,Hemet,CA,33.7341,-116.9969
+Santa Cruz,Santa Cruz,CA,36.9789,-122.0346
+Oceanside,Oceanside,CA,33.2247,-117.3083
+Elk Grove,Elk Grove,CA,38.416,-121.3842
+Vallejo,Vallejo,CA,38.1133,-122.2358
+Garden Grove,Garden Grove,CA,33.7787,-117.9601
+Corona,Corona,CA,33.8616,-117.5649
+Hayward,Hayward,CA,37.6328,-122.0772
+Palmdale,Palmdale,CA,34.5944,-118.1057
+Sunnyvale,Sunnyvale,CA,37.3836,-122.0256
+Pomona,Pomona,CA,34.0585,-117.7626
+Escondido,Escondido,CA,33.1347,-117.0722
+Fairfield,Fairfield,CA,38.2592,-122.0324
+Merced,Merced,CA,37.3057,-120.4778
+Torrance,Torrance,CA,33.8346,-118.3417
+Roseville,Roseville,CA,38.7703,-121.3196
+Pasadena,Pasadena,CA,34.1597,-118.139
+Santa Maria,Santa Maria,CA,34.9334,-120.4432
+Orange,Orange,CA,33.8038,-117.8218
+Fullerton,Fullerton,CA,33.8841,-117.9279
+Santa Clara,Santa Clara,CA,37.3645,-121.968
+Simi Valley,Simi Valley,CA,34.2663,-118.749
+Berkeley,Berkeley,CA,37.8723,-122.276
+Redding,Redding,CA,40.5698,-122.365
+East Los Angeles,East Los Angeles,CA,34.0326,-118.1691
+Yuba City,Yuba City,CA,39.1357,-121.6381
+Gilroy,Gilroy,CA,37.0047,-121.5855
+Chico,Chico,CA,39.7575,-121.8152
+Seaside,Seaside,CA,36.6224,-121.8191
+El Monte,El Monte,CA,34.0739,-118.0291
+Carlsbad,Carlsbad,CA,33.1247,-117.2837
+Temecula,Temecula,CA,33.4928,-117.1315
+Clovis,Clovis,CA,36.8278,-119.6831
+Costa Mesa,Costa Mesa,CA,33.6667,-117.9135
+El Centro,El Centro,CA,32.7867,-115.5586
+Downey,Downey,CA,33.9379,-118.1312
+Richmond,Richmond,CA,37.9477,-122.339
+Jurupa Valley,Jurupa Valley,CA,34.001,-117.4705
+San Buenaventura,San Buenaventura,CA,34.2741,-119.2314
+Inglewood,Inglewood,CA,33.9566,-118.3444
+Turlock,Turlock,CA,37.5053,-120.8588
+Daly City,Daly City,CA,37.6862,-122.4685
+West Covina,West Covina,CA,34.0555,-117.9112
+San Mateo,San Mateo,CA,37.5521,-122.3122
+Norwalk,Norwalk,CA,33.9069,-118.0829
+Rialto,Rialto,CA,34.1174,-117.3894
+Manteca,Manteca,CA,37.7927,-121.2264
+Arden-Arcade,Arden-Arcade,CA,38.6034,-121.381
+El Cajon,El Cajon,CA,32.8017,-116.9605
+Burbank,Burbank,CA,34.1879,-118.3235
+Vista,Vista,CA,33.1896,-117.2386
+Vacaville,Vacaville,CA,38.359,-121.968
+Tracy,Tracy,CA,37.7269,-121.4522
+San Marcos,San Marcos,CA,33.135,-117.1744
+Hesperia,Hesperia,CA,34.3975,-117.3147
+Compton,Compton,CA,33.893,-118.2275
+Menifee,Menifee,CA,33.6909,-117.1849
+Chino,Chino,CA,33.9836,-117.6654
+Hanford,Hanford,CA,36.3274,-119.6549
+South Gate,South Gate,CA,33.9448,-118.1926
+Carson,Carson,CA,33.8374,-118.2559
+Livermore,Livermore,CA,37.6862,-121.7608
+Westminster,Westminster,CA,33.7523,-117.9938
+Santa Monica,Santa Monica,CA,34.0232,-118.4813
+San Leandro,San Leandro,CA,37.7071,-122.1601
+Citrus Heights,Citrus Heights,CA,38.6948,-121.288
+Hawthorne,Hawthorne,CA,33.9146,-118.3476
+Redwood City,Redwood City,CA,37.5026,-122.2252
+Lake Forest,Lake Forest,CA,33.6606,-117.6712
+Napa,Napa,CA,38.2976,-122.3011
+Whittier,Whittier,CA,33.9678,-118.0188
+Newport Beach,Newport Beach,CA,33.6151,-117.8669
+Milpitas,Milpitas,CA,37.4339,-121.8921
+Madera,Madera,CA,36.9631,-120.0782
+Chino Hills,Chino Hills,CA,33.9508,-117.7253
+Alhambra,Alhambra,CA,34.084,-118.1355
+Mountain View,Mountain View,CA,37.4,-122.0796
+Buena Park,Buena Park,CA,33.8572,-118.0046
+Pleasanton,Pleasanton,CA,37.6663,-121.8805
+Folsom,Folsom,CA,38.6668,-121.1422
+Tustin,Tustin,CA,33.7309,-117.8106
+Lakewood,Lakewood,CA,33.8471,-118.1221
+Perris,Perris,CA,33.7899,-117.2233
+Alameda,Alameda,CA,37.767,-122.2672
+Watsonville,Watsonville,CA,36.9206,-121.7706
+Porterville,Porterville,CA,36.0644,-119.0338
+Upland,Upland,CA,34.1178,-117.6603
+Davis,Davis,CA,38.5552,-121.7365
+Camarillo,Camarillo,CA,34.223,-119.0322
+Bellflower,Bellflower,CA,33.888,-118.1271
+San Ramon,San Ramon,CA,37.7625,-121.9365
+Baldwin Park,Baldwin Park,CA,34.0829,-117.9721
+Rancho Cordova,Rancho Cordova,CA,38.574,-121.2523
+Lodi,Lodi,CA,38.1218,-121.2932
+Union City,Union City,CA,37.603,-122.0187
+Apple Valley,Apple Valley,CA,34.5328,-117.2104
+Pittsburg,Pittsburg,CA,38.0182,-121.8964
+Redlands,Redlands,CA,34.0511,-117.1712
+El Paso de Robles,El Paso de Robles,CA,35.6394,-120.656
+Walnut Creek,Walnut Creek,CA,37.9024,-122.0398
+Lynwood,Lynwood,CA,33.924,-118.2017
+Lake Elsinore,Lake Elsinore,CA,33.6847,-117.3344
+Rocklin,Rocklin,CA,38.8075,-121.2488
+South San Francisco,South San Francisco,CA,37.6536,-122.4197
+Yorba Linda,Yorba Linda,CA,33.889,-117.7714
+Petaluma,Petaluma,CA,38.2423,-122.6267
+Redondo Beach,Redondo Beach,CA,33.8574,-118.3766
+Laguna Niguel,Laguna Niguel,CA,33.5275,-117.705
+Florence-Graham,Florence-Graham,CA,33.9682,-118.2447
+Tulare,Tulare,CA,36.1996,-119.34
+Palo Alto,Palo Alto,CA,37.3913,-122.1468
+Dublin,Dublin,CA,37.7161,-121.8963
+San Clemente,San Clemente,CA,33.4498,-117.6103
+Brentwood,Brentwood,CA,37.9355,-121.7191
+Carmichael,Carmichael,CA,38.6337,-121.323
+Eastvale,Eastvale,CA,33.9617,-117.5802
+Castro Valley,Castro Valley,CA,37.7091,-122.0631
+Encinitas,Encinitas,CA,33.049,-117.2613
+San Luis Obispo,San Luis Obispo,CA,35.2669,-120.6691
+Pico Rivera,Pico Rivera,CA,33.9902,-118.0888
+Montebello,Montebello,CA,34.0155,-118.1108
+National City,National City,CA,32.6654,-117.0983
+Woodland,Woodland,CA,38.6712,-121.75
+La Habra,La Habra,CA,33.9278,-117.9513
+South Whittier,South Whittier,CA,33.9336,-118.0311
+Monterey Park,Monterey Park,CA,34.0497,-118.1326
+Gardena,Gardena,CA,33.8944,-118.3073
+Cupertino,Cupertino,CA,37.3168,-122.0465
+La Mesa,La Mesa,CA,32.7703,-117.0204
+San Rafael,San Rafael,CA,37.9905,-122.5222
+Santee,Santee,CA,32.8554,-116.9851
+Arcadia,Arcadia,CA,34.1342,-118.0373
+Huntington Park,Huntington Park,CA,33.98,-118.2167
+Diamond Bar,Diamond Bar,CA,33.9991,-117.8161
+Novato,Novato,CA,38.092,-122.5576
+Highland,Highland,CA,34.1113,-117.1654
+Fountain Valley,Fountain Valley,CA,33.7105,-117.9514
+Hacienda Heights,Hacienda Heights,CA,33.997,-117.9728
+Cathedral City,Cathedral City,CA,33.8363,-116.4642
+Delano,Delano,CA,35.767,-119.2637
+Colton,Colton,CA,34.0538,-117.3254
+Arroyo Grande,Arroyo Grande,CA,35.1241,-120.5845
+Rosemead,Rosemead,CA,34.0689,-118.0823
+Paramount,Paramount,CA,33.8976,-118.1652
+Yucaipa,Yucaipa,CA,34.0336,-117.0429
+West Sacramento,West Sacramento,CA,38.5557,-121.5504
+Palm Desert,Palm Desert,CA,33.7378,-116.3695
+Lompoc,Lompoc,CA,34.6618,-120.4714
+Glendora,Glendora,CA,34.1449,-117.8468
+Placentia,Placentia,CA,33.8807,-117.8553
+Beaumont,Beaumont,CA,33.9076,-116.9766
+Aliso Viejo,Aliso Viejo,CA,33.5792,-117.7289
+Rowland Heights,Rowland Heights,CA,33.9716,-117.8911
+Azusa,Azusa,CA,34.1386,-117.9124
+Cerritos,Cerritos,CA,33.8677,-118.0686
+Oroville,Oroville,CA,39.4999,-121.5634
+Poway,Poway,CA,32.9871,-117.0201
+San Jacinto,San Jacinto,CA,33.797,-116.9916
+Newark,Newark,CA,37.5204,-122.0312
+Reedley,Reedley,CA,36.5987,-119.4473
+Cypress,Cypress,CA,33.8171,-118.0386
+Hollister,Hollister,CA,36.8563,-121.3981
+Ceres,Ceres,CA,37.5953,-120.9625
+Palm Springs,Palm Springs,CA,33.8017,-116.5382
+Antelope,Antelope,CA,38.7153,-121.361
+Lincoln,Lincoln,CA,38.8759,-121.2916
+La Mirada,La Mirada,CA,33.9025,-118.0093
+Rancho Santa Margarita,Rancho Santa Margarita,CA,33.6318,-117.5989
+North Highlands,North Highlands,CA,38.6713,-121.3721
+Florin,Florin,CA,38.4832,-121.4042
+Covina,Covina,CA,34.0903,-117.8817
+El Dorado Hills,El Dorado Hills,CA,38.675,-121.049
+Morgan Hill,Morgan Hill,CA,37.1326,-121.6417
+Coachella,Coachella,CA,33.6905,-116.143
+Altadena,Altadena,CA,34.1928,-118.1345
+Selma,Selma,CA,36.5715,-119.6143
+Danville,Danville,CA,37.8121,-121.9698
+Eureka,Eureka,CA,40.7942,-124.1568
+Desert Hot Springs,Desert Hot Springs,CA,33.9551,-116.543
+Rohnert Park,Rohnert Park,CA,38.348,-122.6964
+Brea,Brea,CA,33.9254,-117.8656
+San Bruno,San Bruno,CA,37.6254,-122.4313
+Oakley,Oakley,CA,37.9929,-121.6951
+Bell Gardens,Bell Gardens,CA,33.9663,-118.155
+Campbell,Campbell,CA,37.2802,-121.9538
+La Quinta,La Quinta,CA,33.6536,-116.2785
+Rancho Palos Verdes,Rancho Palos Verdes,CA,33.7554,-118.3637
+Los Banos,Los Banos,CA,37.063,-120.8406
+Montclair,Montclair,CA,34.0714,-117.698
+San Gabriel,San Gabriel,CA,34.0948,-118.099
+Calexico,Calexico,CA,32.6849,-115.4944
+La Puente,La Puente,CA,34.0323,-117.9533
+Culver City,Culver City,CA,34.0058,-118.3968
+Pacifica,Pacifica,CA,37.6112,-122.4781
+Martinez,Martinez,CA,37.9985,-122.116
+La Presa,La Presa,CA,32.711,-117.0027
+Stanton,Stanton,CA,33.8002,-117.9935
+Wildomar,Wildomar,CA,33.6173,-117.2582
+West Hollywood,West Hollywood,CA,34.0882,-118.3718
+Moorpark,Moorpark,CA,34.2855,-118.877
+Monrovia,Monrovia,CA,34.165,-117.9921
+Claremont,Claremont,CA,34.1259,-117.7153
+French Valley,French Valley,CA,33.5998,-117.1069
+San Juan Capistrano,San Juan Capistrano,CA,33.5009,-117.6544
+Foothill Farms,Foothill Farms,CA,38.6867,-121.3475
+Temple City,Temple City,CA,34.1021,-118.0579
+Bell,Bell,CA,33.9801,-118.1798
+Auburn,Auburn,CA,38.895,-121.0778
+Westmont,Westmont,CA,33.9417,-118.3018
+Manhattan Beach,Manhattan Beach,CA,33.8895,-118.3972
+Pleasant Hill,Pleasant Hill,CA,37.954,-122.0759
+Orangevale,Orangevale,CA,38.6881,-121.2209
+Oildale,Oildale,CA,35.4249,-119.0279
+Menlo Park,Menlo Park,CA,37.4686,-122.1672
+Arcata,Arcata,CA,40.8615,-124.0757
+Grass Valley,Grass Valley,CA,39.2237,-121.0521
+Adelanto,Adelanto,CA,34.5815,-117.4397
+Foster City,Foster City,CA,37.5553,-122.2659
+Sonoma,Sonoma,CA,38.2902,-122.4598
+Beverly Hills,Beverly Hills,CA,34.0786,-118.4021
+San Dimas,San Dimas,CA,34.1082,-117.809
+Dana Point,Dana Point,CA,33.4733,-117.6968
+Ridgecrest,Ridgecrest,CA,35.6308,-117.6621
+Lawndale,Lawndale,CA,33.8884,-118.3531
+La Verne,La Verne,CA,34.1208,-117.7702
+Placerville,Placerville,CA,38.7308,-120.7978
+Fallbrook,Fallbrook,CA,33.3693,-117.2259
+Spring Valley,Spring Valley,CA,32.7316,-116.9766
+Banning,Banning,CA,33.946,-116.8992
+Laguna Hills,Laguna Hills,CA,33.592,-117.6992
+Orcutt,Orcutt,CA,34.8668,-120.4269
+Fair Oaks,Fair Oaks,CA,38.6504,-121.2497
+San Pablo,San Pablo,CA,37.9628,-122.3425
+Goleta,Goleta,CA,34.436,-119.8596
+Burlingame,Burlingame,CA,37.586,-122.3669
+Barstow,Barstow,CA,34.8661,-117.0472
+Santa Paula,Santa Paula,CA,34.3521,-119.0698
+Los Gatos,Los Gatos,CA,37.2303,-121.956
+South Lake Tahoe,South Lake Tahoe,CA,38.9393,-119.9828
+San Carlos,San Carlos,CA,37.4982,-122.268
+Saratoga,Saratoga,CA,37.2684,-122.0263
+Los Altos,Los Altos,CA,37.3685,-122.0966
+Atascadero,Atascadero,CA,35.4827,-120.6858
+Walnut,Walnut,CA,34.0334,-117.8593
+Suisun City,Suisun City,CA,38.2473,-122.009
+Ukiah,Ukiah,CA,39.1463,-123.2105
+Atwater,Atwater,CA,37.3543,-120.5981
+East Palo Alto,East Palo Alto,CA,37.4671,-122.1352
+Wasco,Wasco,CA,35.5938,-119.3671
+Vineyard,Vineyard,CA,38.4744,-121.319
+Benicia,Benicia,CA,38.0725,-122.1525
+Monterey,Monterey,CA,36.5922,-121.8807
+Sonora,Sonora,CA,37.9819,-120.3828
+Galt,Galt,CA,38.2693,-121.3
+Sanger,Sanger,CA,36.699,-119.5575
+Isla Vista,Isla Vista,CA,34.4144,-119.8581
+Temescal Valley,Temescal Valley,CA,33.7581,-117.4677
+Imperial Beach,Imperial Beach,CA,32.5689,-117.1184
+Ladera Ranch,Ladera Ranch,CA,33.5491,-117.6416
+Windsor,Windsor,CA,38.5417,-122.8086
+Maywood,Maywood,CA,33.9885,-118.1877
+Belmont,Belmont,CA,37.5154,-122.2955
+Lemon Grove,Lemon Grove,CA,32.7331,-117.0344
+Lemoore,Lemoore,CA,36.2949,-119.7983
+West Whittier-Los Nietos,West Whittier-Los Nietos,CA,33.9759,-118.0689
+Lafayette,Lafayette,CA,37.8919,-122.1189
+Norco,Norco,CA,33.9252,-117.5499
+Brawley,Brawley,CA,32.9783,-115.5287
+Hercules,Hercules,CA,38.0064,-122.2564
+Soledad,Soledad,CA,36.4432,-121.3426
+Twentynine Palms,Twentynine Palms,CA,34.1478,-116.0659
+Bay Point,Bay Point,CA,38.0329,-121.9614
+San Lorenzo,San Lorenzo,CA,37.6737,-122.1349
+El Cerrito,El Cerrito,CA,37.9197,-122.3025
+South Pasadena,South Pasadena,CA,34.1103,-118.1573
+Yucca Valley,Yucca Valley,CA,34.1234,-116.4216
+Riverbank,Riverbank,CA,37.7268,-120.9402
+North Tustin,North Tustin,CA,33.7644,-117.7945
+Lathrop,Lathrop,CA,37.809,-121.3131
+Loma Linda,Loma Linda,CA,34.0451,-117.2498
+Dinuba,Dinuba,CA,36.5453,-119.3987
+Ashland,Ashland,CA,37.6942,-122.1159
+San Fernando,San Fernando,CA,34.2886,-118.4363
+Seal Beach,Seal Beach,CA,33.7542,-118.0714
+Calabasas,Calabasas,CA,34.1375,-118.6689
+Coronado,Coronado,CA,32.664,-117.16
+Valinda,Valinda,CA,34.0401,-117.93
+Half Moon Bay,Half Moon Bay,CA,37.4688,-122.4383
+Rosemont,Rosemont,CA,38.5477,-121.3553
+Oakdale,Oakdale,CA,37.7616,-120.847
+Cudahy,Cudahy,CA,33.9631,-118.183
+Winter Gardens,Winter Gardens,CA,32.8376,-116.9268
+West Puente Valley,West Puente Valley,CA,34.0512,-117.9681
+Granite Bay,Granite Bay,CA,38.7601,-121.1714
+Patterson,Patterson,CA,37.4758,-121.1535
+West Rancho Dominguez,West Rancho Dominguez,CA,33.9057,-118.2682
+Laguna Beach,Laguna Beach,CA,33.5448,-117.7612
+Willowbrook,Willowbrook,CA,33.9199,-118.2362
+Marina,Marina,CA,36.6812,-121.7895
+Corcoran,Corcoran,CA,36.0839,-119.561
+Millbrae,Millbrae,CA,37.5994,-122.4023
+Arvin,Arvin,CA,35.1944,-118.8306
+West Carson,West Carson,CA,33.8229,-118.2931
+Port Hueneme,Port Hueneme,CA,34.1617,-119.2036
+Lakeside,Lakeside,CA,32.856,-116.904
+Bloomington,Bloomington,CA,34.0601,-117.4013
+Lennox,Lennox,CA,33.938,-118.3586
+Rancho San Diego,Rancho San Diego,CA,32.7624,-116.9197
+Shafter,Shafter,CA,35.4794,-119.2013
+Ramona,Ramona,CA,33.0474,-116.8767
+Duarte,Duarte,CA,34.161,-117.9504
+Rosamond,Rosamond,CA,34.8658,-118.2154
+Dixon,Dixon,CA,38.4468,-121.8249
+South El Monte,South El Monte,CA,34.0493,-118.0484
+American Canyon,American Canyon,CA,38.1796,-122.2583
+Prunedale,Prunedale,CA,36.8064,-121.6555
+Lomita,Lomita,CA,33.7933,-118.3175
+Linda,Linda,CA,39.1241,-121.5421
+Agoura Hills,Agoura Hills,CA,34.151,-118.7608
+East Hemet,East Hemet,CA,33.7301,-116.941
+Mead Valley,Mead Valley,CA,33.8333,-117.2852
+La CaÃ±ada Flintridge,La Canada Flintridge,CA,34.2097,-118.2002
+South San Jose Hills,South San Jose Hills,CA,34.0123,-117.9041
+Orinda,Orinda,CA,37.8808,-122.1791
+Casa de Oro-Mount Helix,Casa de Oro-Mount Helix,CA,32.764,-116.9687
+Albany,Albany,CA,37.8898,-122.3018
+La Crescenta-Montrose,La Crescenta-Montrose,CA,34.2322,-118.2353
+Blythe,Blythe,CA,33.622,-114.6188
+Castaic,Castaic,CA,34.4818,-118.6317
+Hermosa Beach,Hermosa Beach,CA,33.8654,-118.3966
+Pinole,Pinole,CA,37.9931,-122.2834
+Stevenson Ranch,Stevenson Ranch,CA,34.3894,-118.5885
+Cameron Park,Cameron Park,CA,38.6737,-120.9872
+Red Bluff,Red Bluff,CA,40.1735,-122.2413
+Rancho Mirage,Rancho Mirage,CA,33.7634,-116.4271
+Chowchilla,Chowchilla,CA,37.1095,-120.2349
+Imperial,Imperial,CA,32.839,-115.5719
+Mountain House,Mountain House,CA,37.774,-121.5452
+Woodcrest,Woodcrest,CA,33.8789,-117.3686
+Moraga,Moraga,CA,37.8439,-122.1225
+Valle Vista,Valle Vista,CA,33.7436,-116.8872
+Greenfield,Greenfield,CA,36.3232,-121.2451
+Santa Fe Springs,Santa Fe Springs,CA,33.933,-118.0625
+Nipomo,Nipomo,CA,35.0323,-120.4991
+Lakeport,Lakeport,CA,39.0392,-122.9218
+McKinleyville,McKinleyville,CA,40.9488,-124.0857
+Coalinga,Coalinga,CA,36.143,-120.3262
+Crescent City,Crescent City,CA,41.7727,-124.1902
+Live Oak,Live Oak,CA,36.986,-121.9804
+Rosedale,Rosedale,CA,35.3887,-119.2058
+Truckee,Truckee,CA,39.3455,-120.1848
+Lindsay,Lindsay,CA,36.2082,-119.0897
+El Segundo,El Segundo,CA,33.9169,-118.4021
+Bostonia,Bostonia,CA,32.8189,-116.9479
+Artesia,Artesia,CA,33.8676,-118.0806
+Solvang,Solvang,CA,34.5936,-120.1401
+Los Osos,Los Osos,CA,35.3068,-120.8249
+Ripon,Ripon,CA,37.7417,-121.131
+Rio Linda,Rio Linda,CA,38.6876,-121.4418
+Stanford,Stanford,CA,37.4252,-122.1674
+East San Gabriel,East San Gabriel,CA,34.1198,-118.0807
+Vincent,Vincent,CA,34.0982,-117.9238
+Discovery Bay,Discovery Bay,CA,37.9071,-121.6076
+Cherryland,Cherryland,CA,37.6792,-122.1038
+Phelan,Phelan,CA,34.4398,-117.5248
+Clearlake,Clearlake,CA,38.959,-122.633
+Fillmore,Fillmore,CA,34.3989,-118.9181
+Walnut Park,Walnut Park,CA,33.9683,-118.222
+King City,King City,CA,36.2166,-121.133
+Laguna Woods,Laguna Woods,CA,33.6098,-117.7299
+Parkway,Parkway,CA,38.4993,-121.452
+East Rancho Dominguez,East Rancho Dominguez,CA,33.895,-118.1956
+McFarland,McFarland,CA,35.6781,-119.2414
+Parlier,Parlier,CA,36.6087,-119.5434
+La Palma,La Palma,CA,33.8504,-118.0406
+Avocado Heights,Avocado Heights,CA,34.0381,-118.0026
+Pacific Grove,Pacific Grove,CA,36.6192,-121.9255
+Kerman,Kerman,CA,36.7249,-120.0625
+Coto de Caza,Coto de Caza,CA,33.5961,-117.5862
+Susanville,Susanville,CA,40.4205,-120.6129
+Tehachapi,Tehachapi,CA,35.1274,-118.4749
+Alamo,Alamo,CA,37.8546,-122.013
+Taft,Taft,CA,35.1267,-119.4242
+Livingston,Livingston,CA,37.3875,-120.7248
+Alpine,Alpine,CA,32.8439,-116.7585
+Lamont,Lamont,CA,35.2651,-118.9159
+Lemon Hill,Lemon Hill,CA,38.5172,-121.4573
+North Fair Oaks,North Fair Oaks,CA,37.4754,-122.2035
+North Auburn,North Auburn,CA,38.9306,-121.0821
+Mill Valley,Mill Valley,CA,37.9085,-122.5421
+Salida,Salida,CA,37.7145,-121.087
+California City,California City,CA,35.1578,-117.8721
+Hawaiian Gardens,Hawaiian Gardens,CA,33.8303,-118.0728
+El Sobrante,El Sobrante,CA,33.8724,-117.4625
+Oak Park,Oak Park,CA,34.1849,-118.7669
+Sun Village,Sun Village,CA,34.5596,-117.9559
+Avenal,Avenal,CA,36.0311,-120.1162
+Olivehurst,Olivehurst,CA,39.0817,-121.5549
+Big Bear City,Big Bear City,CA,34.2536,-116.7903
+Grover Beach,Grover Beach,CA,35.1204,-120.6199
+Fortuna,Fortuna,CA,40.5862,-124.1419
+Carpinteria,Carpinteria,CA,34.3962,-119.5118
+Solana Beach,Solana Beach,CA,32.9942,-117.2575
+Palos Verdes Estates,Palos Verdes Estates,CA,33.7871,-118.3976
+San Marino,San Marino,CA,34.1224,-118.1132
+Lakeland Village,Lakeland Village,CA,33.648,-117.3706
+Bonita,Bonita,CA,32.6652,-117.0295
+Commerce,Commerce,CA,33.9963,-118.1519
+Grand Terrace,Grand Terrace,CA,34.0312,-117.3132
+Muscoy,Muscoy,CA,34.155,-117.3477
+San Anselmo,San Anselmo,CA,37.9821,-122.5699
+Marysville,Marysville,CA,39.1518,-121.5835
+Delhi,Delhi,CA,37.4306,-120.7759
+Clayton,Clayton,CA,37.9403,-121.9301
+Larkspur,Larkspur,CA,37.9393,-122.5313
+Home Gardens,Home Gardens,CA,33.8784,-117.5116
+Kingsburg,Kingsburg,CA,36.5245,-119.5602
+Emeryville,Emeryville,CA,37.8382,-122.2932
+Camp Pendleton South,Camp Pendleton South,CA,33.2284,-117.3791
+Healdsburg,Healdsburg,CA,38.6229,-122.8651
+Malibu,Malibu,CA,34.0368,-118.7845
+Newman,Newman,CA,37.3157,-121.0211
+Scotts Valley,Scotts Valley,CA,37.0555,-122.0118
+View Park-Windsor Hills,View Park-Windsor Hills,CA,33.9955,-118.3484
+Lake Los Angeles,Lake Los Angeles,CA,34.6097,-117.8339
+Diamond Springs,Diamond Springs,CA,38.692,-120.8391
+Mendota,Mendota,CA,36.7555,-120.3776
+Tamalpais-Homestead Valley,Tamalpais-Homestead Valley,CA,37.8793,-122.5382
+Alum Rock,Alum Rock,CA,37.3695,-121.8241
+Magalia,Magalia,CA,39.8228,-121.6078
+Signal Hill,Signal Hill,CA,33.8029,-118.1681
+Los Alamitos,Los Alamitos,CA,33.7972,-118.0594
+Hillsborough,Hillsborough,CA,37.5573,-122.3587
+Winton,Winton,CA,37.3854,-120.6173
+Canyon Lake,Canyon Lake,CA,33.6885,-117.2621
+Piedmont,Piedmont,CA,37.8226,-122.23
+Rossmoor,Rossmoor,CA,33.7886,-118.0803
+Valley Center,Valley Center,CA,33.233,-117.0157
+Orange Cove,Orange Cove,CA,36.6211,-119.3188
+Soquel,Soquel,CA,36.9978,-121.9482
+La Riviera,La Riviera,CA,38.5683,-121.3544
+Sierra Madre,Sierra Madre,CA,34.1687,-118.0504
+Farmersville,Farmersville,CA,36.3053,-119.2083
+Anderson,Anderson,CA,40.4497,-122.295
+Morro Bay,Morro Bay,CA,35.3681,-120.8481
+Fairview,Fairview,CA,37.676,-122.048
+San Diego Country Estates,San Diego Country Estates,CA,33.0093,-116.7874
+Exeter,Exeter,CA,36.294,-119.1459
+Oak Hills,Oak Hills,CA,34.3912,-117.4125
+Shasta Lake,Shasta Lake,CA,40.679,-122.3775
+Rodeo,Rodeo,CA,38.0368,-122.2526
+Fort Bragg,Fort Bragg,CA,39.4399,-123.8013
+East Whittier,East Whittier,CA,33.9244,-117.9887
+Citrus,Citrus,CA,34.1161,-117.889
+Charter Oak,Charter Oak,CA,34.1025,-117.8564
+Capitola,Capitola,CA,36.9772,-121.9538
+Quartz Hill,Quartz Hill,CA,34.6527,-118.2163
+Del Aire,Del Aire,CA,33.9168,-118.3693
+Country Club,Country Club,CA,37.9687,-121.3408
+Garden Acres,Garden Acres,CA,37.9637,-121.2296
+Orland,Orland,CA,39.7461,-122.1856
+Fort Irwin,Fort Irwin,CA,35.2476,-116.6834
+Madera Acres,Madera Acres,CA,37.0123,-120.0799
+Marina del Rey,Marina del Rey,CA,33.9765,-118.4486
+Mentone,Mentone,CA,34.0609,-117.1108
+Corte Madera,Corte Madera,CA,37.9238,-122.5129
+Rio Vista,Rio Vista,CA,38.1763,-121.7025
+West Athens,West Athens,CA,33.9235,-118.3033
+Rio del Mar,Rio del Mar,CA,36.9607,-121.8807
+Waterford,Waterford,CA,37.6429,-120.7553
+Blackhawk,Blackhawk,CA,37.816,-121.9071
+Bishop,Bishop,CA,37.3665,-118.3958
+Golden Hills,Golden Hills,CA,35.1512,-118.5024
+Gridley,Gridley,CA,39.3622,-121.6971
+Cloverdale,Cloverdale,CA,38.7961,-123.0151
+Good Hope,Good Hope,CA,33.7706,-117.2772
+Calimesa,Calimesa,CA,33.9874,-117.0542
+Tiburon,Tiburon,CA,37.8854,-122.4637
+Lake Arrowhead,Lake Arrowhead,CA,34.2531,-117.1945
+Needles,Needles,CA,34.8164,-114.6189
+Crestline,Crestline,CA,34.2486,-117.289
+Earlimart,Earlimart,CA,35.8824,-119.2715
+Corning,Corning,CA,39.9282,-122.182
+Ione,Ione,CA,38.3613,-120.9422
+Los Altos Hills,Los Altos Hills,CA,37.3671,-122.139
+August,August,CA,37.9797,-121.2625
+Spring Valley Lake,Spring Valley Lake,CA,34.4987,-117.2683
+Midway City,Midway City,CA,33.7451,-117.9849
+Larkfield-Wikiup,Larkfield-Wikiup,CA,38.513,-122.7536
+Gonzales,Gonzales,CA,36.506,-121.4429
+Orosi,Orosi,CA,36.5434,-119.2903
+Firebaugh,Firebaugh,CA,36.8534,-120.4536
+Alondra Park,Alondra Park,CA,33.8885,-118.335
+Montecito,Montecito,CA,34.4382,-119.6286
+Mammoth Lakes,Mammoth Lakes,CA,37.6273,-118.99
+Westlake Village,Westlake Village,CA,34.1369,-118.822
+Pismo Beach,Pismo Beach,CA,35.1484,-120.6492
+South San Gabriel,South San Gabriel,CA,34.0489,-118.0961
+Cherry Valley,Cherry Valley,CA,33.9797,-116.9694
+Vandenberg Village,Vandenberg Village,CA,34.7111,-120.4623
+Rolling Hills Estates,Rolling Hills Estates,CA,33.7783,-118.3509
+Willits,Willits,CA,39.4047,-123.3494
+Topanga,Topanga,CA,34.0964,-118.6053
+Woodlake,Woodlake,CA,36.4124,-119.0999
+Templeton,Templeton,CA,35.556,-120.7182
+Winters,Winters,CA,38.532,-121.9781
+Interlaken,Interlaken,CA,36.9505,-121.7363
+Guadalupe,Guadalupe,CA,34.9608,-120.5735
+Oroville East,Oroville East,CA,39.4947,-121.4866
+Boyes Hot Springs,Boyes Hot Springs,CA,38.3126,-122.4888
+Sebastopol,Sebastopol,CA,38.4001,-122.8276
+Holtville,Holtville,CA,32.813,-115.378
+PiÃ±on Hills,Pinon Hills,CA,34.4438,-117.6214
+Escalon,Escalon,CA,37.7912,-120.9982
+Joshua Tree,Joshua Tree,CA,34.1236,-116.3128
+Plumas Lake,Plumas Lake,CA,38.9924,-121.558
+Hughson,Hughson,CA,37.602,-120.866
+Jackson,Jackson,CA,38.3485,-120.7728
+Gold River,Gold River,CA,38.6268,-121.2488
+Fairfax,Fairfax,CA,37.9886,-122.5952
+Yreka,Yreka,CA,41.7292,-122.6312
+Dos Palos,Dos Palos,CA,36.9854,-120.6336
+Oceano,Oceano,CA,35.1019,-120.609
+Mount Shasta,Mount Shasta,CA,41.3206,-122.315
+Ojai,Ojai,CA,34.4487,-119.2469
+Cotati,Cotati,CA,38.3279,-122.7092
+Camp Pendleton North,Camp Pendleton North,CA,33.3148,-117.3162
+University of California-Davis,University of California-Davis,CA,38.5374,-121.7576
+Huron,Huron,CA,36.2041,-120.0961
+Alta Sierra,Alta Sierra,CA,39.1237,-121.0523
+Willows,Willows,CA,39.5149,-122.1995
+Acton,Acton,CA,34.4956,-118.1857
+Nuevo,Nuevo,CA,33.8011,-117.1415
+Pollock Pines,Pollock Pines,CA,38.7564,-120.5904
+Atherton,Atherton,CA,37.4539,-122.2032
+Calipatria,Calipatria,CA,33.1493,-115.5056
+Homeland,Homeland,CA,33.7459,-117.1132
+Sausalito,Sausalito,CA,37.858,-122.4932
+St. Helena,St. Helena,CA,38.5063,-122.4682
+Rancho Calaveras,Rancho Calaveras,CA,38.1248,-120.857
+Kentfield,Kentfield,CA,37.9481,-122.5496
+Franklin,Franklin,CA,37.3277,-120.5321
+Thermalito,Thermalito,CA,39.4909,-121.615
+Colusa,Colusa,CA,39.2059,-122.0125
+Ben Lomond,Ben Lomond,CA,37.0782,-122.0882
+Loomis,Loomis,CA,38.8093,-121.1955
+Lemoore Station,Lemoore Station,CA,36.2633,-119.9049
+San Martin,San Martin,CA,37.0829,-121.5963
+Thousand Palms,Thousand Palms,CA,33.815,-116.3545
+Lake Mathews,Lake Mathews,CA,33.825,-117.3683
+Fowler,Fowler,CA,36.6243,-119.6737
+Desert Palms,Desert Palms,CA,33.779,-116.293
+Bermuda Dunes,Bermuda Dunes,CA,33.7434,-116.2874
+Lucas Valley-Marinwood,Lucas Valley-Marinwood,CA,38.0405,-122.5765
+Mecca,Mecca,CA,33.5767,-116.0645
+Mira Monte,Mira Monte,CA,34.4284,-119.2853
+Ladera Heights,Ladera Heights,CA,33.9972,-118.374
+South Monrovia Island,South Monrovia Island,CA,34.1234,-117.9958
+Contra Costa Centre,Contra Costa Centre,CA,37.9261,-122.054
+Keyes,Keyes,CA,37.5618,-120.9088
+Castroville,Castroville,CA,36.765,-121.7535
+La Habra Heights,La Habra Heights,CA,33.9602,-117.951
+Aptos,Aptos,CA,36.9912,-121.8934
+El Rio,El Rio,CA,34.2452,-119.1568
+East Porterville,East Porterville,CA,36.0573,-118.9713
+Salton City,Salton City,CA,33.2994,-115.9609
+East Foothills,East Foothills,CA,37.3827,-121.8138
+Saranap,Saranap,CA,37.8878,-122.076
+East Pasadena,East Pasadena,CA,34.1377,-118.0776
+Eucalyptus Hills,Eucalyptus Hills,CA,32.885,-116.9453
+Fruitridge Pocket,Fruitridge Pocket,CA,38.5326,-121.4558
+El Granada,El Granada,CA,37.5134,-122.466
+Pleasure Point,Pleasure Point,CA,36.9618,-121.9715
+Durham,Durham,CA,39.6232,-121.7875
+Lucerne Valley,Lucerne Valley,CA,34.4427,-116.9021
+Paradise,Paradise,CA,39.7558,-121.6063
+Greenacres,Greenacres,CA,35.3831,-119.1184
+Gustine,Gustine,CA,37.2545,-120.9949
+Mayflower Village,Mayflower Village,CA,34.116,-118.0096
+Las Flores,Las Flores,CA,33.5838,-117.6235
+Old Fig Garden,Old Fig Garden,CA,36.7989,-119.8051
+Silver Lakes,Silver Lakes,CA,34.7519,-117.3431
+Villa Park,Villa Park,CA,33.818,-117.8104
+Highgrove,Highgrove,CA,34.0106,-117.3098
+West Modesto,West Modesto,CA,37.618,-121.0343
+Hilmar-Irwin,Hilmar-Irwin,CA,37.4045,-120.8504
+Rancho Murieta,Rancho Murieta,CA,38.5085,-121.0716
+Wilton,Wilton,CA,38.413,-121.2127
+Cambria,Cambria,CA,35.5523,-121.0847
+Elverta,Elverta,CA,38.7185,-121.4455
+Hidden Valley Lake,Hidden Valley Lake,CA,38.8003,-122.5505
+Strawberry,Strawberry,CA,37.8925,-122.5078
+Yosemite Lakes,Yosemite Lakes,CA,37.1885,-119.7723
+Indian Wells,Indian Wells,CA,33.7036,-116.3396
+Williams,Williams,CA,39.1498,-122.1389
+Woodside,Woodside,CA,37.4222,-122.2591
+Jamul,Jamul,CA,32.7184,-116.8709
+Palermo,Palermo,CA,39.4313,-121.5225
+Kensington,Kensington,CA,37.9084,-122.2805
+Bear Valley Springs,Bear Valley Springs,CA,35.1775,-118.646
+Garnet,Garnet,CA,33.9179,-116.4796
+Big Bear Lake,Big Bear Lake,CA,34.2429,-116.8951
+Calistoga,Calistoga,CA,38.5818,-122.5824
+Lake Wildwood,Lake Wildwood,CA,39.235,-121.2003
+Myrtletown,Myrtletown,CA,40.7888,-124.1286
+Cutler,Cutler,CA,36.5263,-119.2884
+Twin Lakes,Twin Lakes,CA,36.9646,-121.9896
+Boulder Creek,Boulder Creek,CA,37.1341,-122.1271
+Broadmoor,Broadmoor,CA,37.6914,-122.4811
+Bret Harte,Bret Harte,CA,37.6021,-121.0045
+Tara Hills,Tara Hills,CA,37.9939,-122.3188
+Buellton,Buellton,CA,34.6152,-120.1943
+Denair,Denair,CA,37.5262,-120.7994
+Guerneville,Guerneville,CA,38.5137,-122.9894
+Mayfair,Mayfair,CA,36.7693,-119.7612
+Lincoln Village,Lincoln Village,CA,38.0054,-121.3339
+Ford City,Ford City,CA,35.1647,-119.4584
+Camino Tassajara,Camino Tassajara,CA,37.7909,-121.885
+Emerald Lake Hills,Emerald Lake Hills,CA,37.4662,-122.2675
+Lake San Marcos,Lake San Marcos,CA,33.1196,-117.2088
+Brisbane,Brisbane,CA,37.6898,-122.402
+Oak View,Oak View,CA,34.399,-119.2976
+Portola Valley,Portola Valley,CA,37.3713,-122.2203
+Santa Ynez,Santa Ynez,CA,34.6151,-120.0944
+Phoenix Lake,Phoenix Lake,CA,38.0075,-120.3089
+Santa Venetia,Santa Venetia,CA,38.0055,-122.5032
+Sunnyside,Sunnyside,CA,36.7294,-119.6945
+Bonsall,Bonsall,CA,33.2761,-117.1942
+Mountain View Acres,Mountain View Acres,CA,34.4976,-117.3472
+Planada,Planada,CA,37.2892,-120.3207
+Armona,Armona,CA,36.3179,-119.7054
+McSwain,McSwain,CA,37.3146,-120.5867
+Fetters Hot Springs-Agua Caliente,Fetters Hot Springs-Agua Caliente,CA,38.3274,-122.4871
+Pacheco,Pacheco,CA,37.9878,-122.07
+Copperopolis,Copperopolis,CA,37.9365,-120.6277
+Del Mar,Del Mar,CA,32.9633,-117.2627
+Humboldt Hill,Humboldt Hill,CA,40.7219,-124.1987
+Mather,Mather,CA,38.5489,-121.2832
+Ivanhoe,Ivanhoe,CA,36.3886,-119.2202
+West Menlo Park,West Menlo Park,CA,37.4338,-122.2034
+Harbison Canyon,Harbison Canyon,CA,32.8273,-116.8381
+Carmel Valley Village,Carmel Valley Village,CA,36.4824,-121.7198
+Lenwood,Lenwood,CA,34.8861,-117.1078
+Del Monte Forest,Del Monte Forest,CA,36.5857,-121.9439
+North Richmond,North Richmond,CA,37.9642,-122.3711
+Running Springs,Running Springs,CA,34.2104,-117.1147
+Rio Dell,Rio Dell,CA,40.5022,-124.1103
+Empire,Empire,CA,37.6432,-120.9045
+San Joaquin,San Joaquin,CA,36.6057,-120.1897
+Wrightwood,Wrightwood,CA,34.3495,-117.6299
+Burney,Burney,CA,40.8846,-121.6691
+Angels,Angels,CA,38.0707,-120.5501
+North El Monte,North El Monte,CA,34.103,-118.0238
+Clearlake Riviera,Clearlake Riviera,CA,38.9512,-122.7207
+Vine Hill,Vine Hill,CA,38.0071,-122.0873
+Wheatland,Wheatland,CA,39.0287,-121.39
+Mojave,Mojave,CA,35.0139,-118.1895
+Shingle Springs,Shingle Springs,CA,38.6665,-120.937
+Mission Hills,Mission Hills,CA,34.6861,-120.4404
+French Camp,French Camp,CA,37.8802,-121.2803
+Carmel-by-the-Sea,Carmel-by-the-Sea,CA,36.5528,-121.9222
+Arbuckle,Arbuckle,CA,39.0141,-122.061
+Brooktrails,Brooktrails,CA,39.4429,-123.3963
+Freedom,Freedom,CA,36.9402,-121.7953
+Forestville,Forestville,CA,38.4825,-122.8899
+Bystrom,Bystrom,CA,37.6199,-120.9827
+Agua Dulce,Agua Dulce,CA,34.5044,-118.316
+Avalon,Avalon,CA,33.3342,-118.3315
+Meadow Vista,Meadow Vista,CA,39.003,-121.0304
+Auburn Lake Trails,Auburn Lake Trails,CA,38.8917,-120.9849
+Squaw Valley,Squaw Valley,CA,36.6944,-119.2
+Felton,Felton,CA,37.0392,-122.0804
+Pajaro,Pajaro,CA,36.9016,-121.7417
+Tarpey Village,Tarpey Village,CA,36.7941,-119.7012
+Heber,Heber,CA,32.7318,-115.5204
+Moss Beach,Moss Beach,CA,37.5184,-122.5036
+Lake of the Pines,Lake of the Pines,CA,39.0378,-121.0642
+Woodbridge,Woodbridge,CA,38.1692,-121.3113
+Stallion Springs,Stallion Springs,CA,35.0935,-118.6477
+Meiners Oaks,Meiners Oaks,CA,34.4505,-119.2731
+Kelseyville,Kelseyville,CA,38.9704,-122.8327
+Lockeford,Lockeford,CA,38.1509,-121.1554
+Reliez Valley,Reliez Valley,CA,37.9399,-122.1027
+Valley Springs,Valley Springs,CA,38.1837,-120.815
+Granite Hills,Granite Hills,CA,32.8033,-116.9056
+Lake Isabella,Lake Isabella,CA,35.6378,-118.4819
+Hidden Meadows,Hidden Meadows,CA,33.2236,-117.1198
+Rollingwood,Rollingwood,CA,37.9655,-122.3305
+Oakhurst,Oakhurst,CA,37.3342,-119.6483
+Mono Vista,Mono Vista,CA,38.0124,-120.2697
+Riverdale,Riverdale,CA,36.4304,-119.8671
+San Miguel,San Miguel,CA,37.8867,-122.0368
+Monte Sereno,Monte Sereno,CA,37.2404,-121.9882
+Meadowbrook,Meadowbrook,CA,33.7253,-117.2851
+Campo,Campo,CA,32.6394,-116.4745
+Vandenberg AFB,Vandenberg AFB,CA,34.7483,-120.5182
+Coronita,Coronita,CA,33.876,-117.6109
+Pine Hills,Pine Hills,CA,40.7313,-124.1551
+Casa Conejo,Casa Conejo,CA,34.1847,-118.9445
+Loyola,Loyola,CA,37.3502,-122.098
+Kennedy,Kennedy,CA,37.929,-121.2457
+North Lakeport,North Lakeport,CA,39.0883,-122.9054
+Pixley,Pixley,CA,35.9769,-119.2889
+Lake California,Lake California,CA,40.3608,-122.2102
+Winchester,Winchester,CA,33.7146,-117.0775
+Desert Edge,Desert Edge,CA,33.9223,-116.4401
+Goshen,Goshen,CA,36.3518,-119.421
+El Verano,El Verano,CA,38.2975,-122.4915
+Seacliff,Seacliff,CA,36.977,-121.9176
+Esparto,Esparto,CA,38.6934,-122.0241
+Crockett,Crockett,CA,38.0519,-122.2201
+Cambrian Park,Cambrian Park,CA,37.2563,-121.9287
+Cottonwood,Cottonwood,CA,40.3904,-122.2861
+Tipton,Tipton,CA,36.0585,-119.313
+Colfax,Colfax,CA,39.0938,-120.9533
+Hoopa,Hoopa,CA,41.0802,-123.6972
+San Antonio Heights,San Antonio Heights,CA,34.1571,-117.6592
+Terra Bella,Terra Bella,CA,35.9567,-119.0328
+Angwin,Angwin,CA,38.5776,-122.4513
+Loma Rica,Loma Rica,CA,39.3204,-121.4038
+Morada,Morada,CA,38.0386,-121.2456
+Amesti,Amesti,CA,36.9583,-121.7805
+East Richmond Heights,East Richmond Heights,CA,37.945,-122.314
+Weaverville,Weaverville,CA,40.7488,-122.9274
+Nevada City,Nevada City,CA,39.2607,-121.0231
+Marin City,Marin City,CA,37.8711,-122.5137
+San Andreas,San Andreas,CA,38.1911,-120.6763
+Jamestown,Jamestown,CA,37.9574,-120.411
+Bonny Doon,Bonny Doon,CA,37.0435,-122.1369
+Morongo Valley,Morongo Valley,CA,34.0724,-116.5627
+Anza,Anza,CA,33.5679,-116.6967
+Kings Beach,Kings Beach,CA,39.249,-120.0201
+Day Valley,Day Valley,CA,37.0255,-121.8559
+Strathmore,Strathmore,CA,36.1438,-119.0611
+Santa Rosa Valley,Santa Rosa Valley,CA,34.2453,-118.9023
+Sutter,Sutter,CA,39.1556,-121.7492
+Lake Nacimiento,Lake Nacimiento,CA,35.7309,-120.8702
+Yountville,Yountville,CA,38.3963,-122.3671
+Hartley,Hartley,CA,38.4203,-121.9521
+Las Lomas,Las Lomas,CA,36.8689,-121.7317
+Cutten,Cutten,CA,40.7657,-124.1446
+South Oroville,South Oroville,CA,39.4767,-121.5439
+Channel Islands Beach,Channel Islands Beach,CA,34.1586,-119.2231
+Lucerne,Lucerne,CA,39.0697,-122.776
+Ridgemark,Ridgemark,CA,36.8082,-121.3623
+Homestead Valley,Homestead Valley,CA,34.273,-116.4145
+Oasis,Oasis,CA,33.5275,-116.1261
+Montalvin Manor,Montalvin Manor,CA,37.9977,-122.33
+Kelly Ridge,Kelly Ridge,CA,39.5289,-121.4662
+East Oakdale,East Oakdale,CA,37.7854,-120.8007
+Bayview,Bayview,CA,40.7654,-124.1787
+Penngrove,Penngrove,CA,38.3005,-122.6707
+Pine Mountain Lake,Pine Mountain Lake,CA,37.8599,-120.1843
+Rose Hills,Rose Hills,CA,34.009,-118.0419
+Crest,Crest,CA,32.8,-116.8671
+North Shore,North Shore,CA,33.5157,-115.9092
+Vista Santa Rosa,Vista Santa Rosa,CA,33.6227,-116.2126
+Val Verde,Val Verde,CA,34.4504,-118.6717
+West Bishop,West Bishop,CA,37.3571,-118.4542
+Weed,Weed,CA,41.4128,-122.3816
+Hayfork,Hayfork,CA,40.561,-123.1299
+Collierville,Collierville,CA,38.2141,-121.2675
+Lexington Hills,Lexington Hills,CA,37.1616,-121.9879
+La Selva Beach,La Selva Beach,CA,36.9276,-121.8445
+Desert View Highlands,Desert View Highlands,CA,34.5901,-118.1535
+Dixon Lane-Meadow Creek,Dixon Lane-Meadow Creek,CA,37.3864,-118.4152
+Dogtown,Dogtown,CA,38.2096,-121.1551
+Lakeview,Lakeview,CA,33.8285,-117.1233
+Alturas,Alturas,CA,41.4898,-120.5516
+Cayucos,Cayucos,CA,35.4375,-120.8847
+Sutter Creek,Sutter Creek,CA,38.3827,-120.8107
+Cabazon,Cabazon,CA,33.9127,-116.7828
+Frazier Park,Frazier Park,CA,34.8123,-118.9542
+Georgetown,Georgetown,CA,38.9112,-120.8356
+Caruthers,Caruthers,CA,36.5399,-119.845
+Edwards AFB,Edwards AFB,CA,34.9045,-117.9295
+Nice,Nice,CA,39.1266,-122.8526
+Ahwahnee,Ahwahnee,CA,37.3652,-119.7194
+Idyllwild-Pine Cove,Idyllwild-Pine Cove,CA,33.7443,-116.7257
+Rancho Santa Fe,Rancho Santa Fe,CA,33.024,-117.1992
+Mission Canyon,Mission Canyon,CA,34.4534,-119.7125
+Montara,Montara,CA,37.5482,-122.4924
+Aromas,Aromas,CA,36.8771,-121.6404
+Ross,Ross,CA,37.9638,-122.5615
+Parksdale,Parksdale,CA,36.9465,-120.0212
+Bella Vista,Bella Vista,CA,40.6502,-122.245
+Three Rivers,Three Rivers,CA,36.4319,-118.8806
+Buckhorn,Buckhorn,CA,38.4532,-120.5354
+Pine Canyon,Pine Canyon,CA,36.1757,-121.1498
+Rainbow,Rainbow,CA,33.4098,-117.1395
+Wofford Heights,Wofford Heights,CA,35.7127,-118.4732
+Weldon,Weldon,CA,35.6431,-118.3103
+Richgrove,Richgrove,CA,35.7966,-119.1069
+Portola,Portola,CA,39.8241,-120.4733
+Twain Harte,Twain Harte,CA,38.0384,-120.234
+Romoland,Romoland,CA,33.7648,-117.1572
+Arnold,Arnold,CA,38.2423,-120.3547
+Weedpatch,Weedpatch,CA,35.2369,-118.9123
+East Sonora,East Sonora,CA,37.9777,-120.341
+Sleepy Hollow,Sleepy Hollow,CA,38.012,-122.5877
+Clearlake Oaks,Clearlake Oaks,CA,39.0218,-122.6593
+Poplar-Cotton Center,Poplar-Cotton Center,CA,36.0564,-119.1493
+Westmorland,Westmorland,CA,33.0389,-115.6223
+Aptos Hills-Larkin Valley,Aptos Hills-Larkin Valley,CA,36.9606,-121.8341
+Shingletown,Shingletown,CA,40.5035,-121.86
+Sky Valley,Sky Valley,CA,33.8912,-116.3551
+Columbia,Columbia,CA,38.0333,-120.4097
+Boron,Boron,CA,35.0164,-117.6659
+Soulsbyville,Soulsbyville,CA,37.9917,-120.2617
+East Quincy,East Quincy,CA,39.9165,-120.9189
+Murphys,Murphys,CA,38.1447,-120.4348
+Parkwood,Parkwood,CA,36.9293,-120.0482
+Bethel Island,Bethel Island,CA,38.0288,-121.6404
+Corralitos,Corralitos,CA,36.9941,-121.7892
+Chester,Chester,CA,40.3017,-121.2339
+Borrego Springs,Borrego Springs,CA,33.241,-116.3571
+China Lake Acres,China Lake Acres,CA,35.6387,-117.7667
+Santa Nella,Santa Nella,CA,37.1014,-121.0153
+Hamilton City,Hamilton City,CA,39.7422,-122.0125
+Bell Canyon,Bell Canyon,CA,34.2081,-118.6876
+Belvedere,Belvedere,CA,37.8735,-122.4662
+San Juan Bautista,San Juan Bautista,CA,36.8455,-121.538
+Calwa,Calwa,CA,36.7136,-119.7607
+Patterson Tract,Patterson Tract,CA,36.3795,-119.2956
+Fairbanks Ranch,Fairbanks Ranch,CA,32.9919,-117.1859
+Rouse,Rouse,CA,37.6196,-121.0084
+Bodfish,Bodfish,CA,35.5765,-118.4764
+Woodlands,Woodlands,CA,35.0289,-120.5524
+Easton,Easton,CA,36.6524,-119.7908
+Seeley,Seeley,CA,32.7899,-115.6842
+Auberry,Auberry,CA,37.0755,-119.4901
+Laton,Laton,CA,36.4338,-119.6916
+Taft Heights,Taft Heights,CA,35.1337,-119.4711
+Bertsch-Oceanview,Bertsch-Oceanview,CA,41.7524,-124.1594
+San Pasqual,San Pasqual,CA,34.1393,-118.1027
+Quincy,Quincy,CA,39.931,-120.9548
+Brookdale,Brookdale,CA,37.1058,-122.1106
+Camino,Camino,CA,38.7412,-120.6815
+Hidden Hills,Hidden Hills,CA,34.1637,-118.6612
+Graton,Graton,CA,38.4376,-122.866
+Biggs,Biggs,CA,39.4102,-121.7133
+Warm Springs,Warm Springs,CA,33.7067,-117.3344
+Foresthill,Foresthill,CA,39.0053,-120.8314
+Rolling Hills,Rolling Hills,CA,33.76,-118.3471
+Lone Pine,Lone Pine,CA,36.5774,-118.0777
+Piru,Piru,CA,34.4075,-118.7999
+Red Corral,Red Corral,CA,38.4116,-120.6056
+Lagunitas-Forest Knolls,Lagunitas-Forest Knolls,CA,38.018,-122.6914
+South Taft,South Taft,CA,35.1293,-119.4575
+Woodville,Woodville,CA,36.0898,-119.205
+Boronda,Boronda,CA,36.6947,-121.6745
+Pine Grove,Pine Grove,CA,38.4074,-120.6606
+South Dos Palos,South Dos Palos,CA,36.9707,-120.6467
+Pine Mountain Club,Pine Mountain Club,CA,34.8446,-119.1669
+Los Molinos,Los Molinos,CA,40.027,-122.0981
+Elizabeth Lake,Elizabeth Lake,CA,34.659,-118.3783
+Le Grand,Le Grand,CA,37.2288,-120.254
+Toro Canyon,Toro Canyon,CA,34.4235,-119.5568
+Lost Hills,Lost Hills,CA,35.6254,-119.6789
+Redwood Valley,Redwood Valley,CA,39.269,-123.2023
+Biola,Biola,CA,36.8006,-120.0199
+London,London,CA,36.481,-119.444
+Searles Valley,Searles Valley,CA,35.7701,-117.3967
+Rancho Tehama Reserve,Rancho Tehama Reserve,CA,40.001,-122.4418
+Lake Sherwood,Lake Sherwood,CA,34.1339,-118.8804
+Del Rey Oaks,Del Rey Oaks,CA,36.5929,-121.8381
+Westwood,Westwood,CA,40.3049,-121.0045
+Los Ranchos,Los Ranchos,CA,35.2102,-120.6291
+Los Alamos,Los Alamos,CA,34.7375,-120.2783
+Black Point-Green Point,Black Point-Green Point,CA,38.112,-122.5191
+Temelec,Temelec,CA,38.2577,-122.4982
+Ladera,Ladera,CA,37.3996,-122.199
+Del Rio,Del Rio,CA,37.7432,-121.0091
+Coarsegold,Coarsegold,CA,37.2526,-119.7
+Tuolumne City,Tuolumne City,CA,37.9615,-120.2428
+Shasta,Shasta,CA,40.591,-122.4797
+Leona Valley,Leona Valley,CA,34.6147,-118.299
+Descanso,Descanso,CA,32.8696,-116.6279
+Dunsmuir,Dunsmuir,CA,41.2318,-122.2714
+Linden,Linden,CA,38.0186,-121.0994
+Big Pine,Big Pine,CA,37.1655,-118.2952
+Home Garden,Home Garden,CA,36.3025,-119.6362
+Willow Creek,Willow Creek,CA,40.9385,-123.6412
+Chualar,Chualar,CA,36.5711,-121.5103
+Colma,Colma,CA,37.6767,-122.4526
+Airport,Airport,CA,37.6324,-120.9774
+Pine Valley,Pine Valley,CA,32.8415,-116.5107
+Green Valley,Green Valley,CA,38.2607,-122.1622
+Lebec,Lebec,CA,34.845,-118.8992
+Monument Hills,Monument Hills,CA,38.6641,-121.8756
+Dunnigan,Dunnigan,CA,38.8926,-121.9741
+Irwindale,Irwindale,CA,34.1121,-117.9636
+Buttonwillow,Buttonwillow,CA,35.4092,-119.4406
+Midpines,Midpines,CA,37.5531,-119.9485
+Castle Hill,Castle Hill,CA,37.8729,-122.0573
+Eldridge,Eldridge,CA,38.3339,-122.5065
+Janesville,Janesville,CA,40.2809,-120.5335
+Montague,Montague,CA,41.7276,-122.5304
+Mountain Mesa,Mountain Mesa,CA,35.6411,-118.4047
+Allendale,Allendale,CA,38.4426,-121.9814
+Pioneer,Pioneer,CA,38.4354,-120.5848
+Lewiston,Lewiston,CA,40.6969,-122.8225
+Walnut Grove,Walnut Grove,CA,38.2478,-121.528
+Grayson,Grayson,CA,37.565,-121.1794
+Redway,Redway,CA,40.1209,-123.822
+Sheridan,Sheridan,CA,38.969,-121.3559
+Lower Lake,Lower Lake,CA,38.9119,-122.6085
+Lake Riverside,Lake Riverside,CA,33.5173,-116.8107
+Ferndale,Ferndale,CA,40.5799,-124.2619
+Shell Ridge,Shell Ridge,CA,37.906,-122.0345
+Penn Valley,Penn Valley,CA,39.1954,-121.1942
+Thermal,Thermal,CA,33.6262,-116.1308
+Forest Meadows,Forest Meadows,CA,38.1664,-120.4052
+Berry Creek,Berry Creek,CA,39.6314,-121.4052
+Avila Beach,Avila Beach,CA,35.1969,-120.7191
+Byron,Byron,CA,37.8756,-121.642
+Herlong,Herlong,CA,40.1419,-120.1399
+Del Rey,Del Rey,CA,36.6562,-119.5993
+Mount Hermon,Mount Hermon,CA,37.0511,-122.0533
+Blue Lake,Blue Lake,CA,40.8813,-123.9931
+Saticoy,Saticoy,CA,34.2819,-119.1452
+Callender,Callender,CA,35.048,-120.5759
+Newcastle,Newcastle,CA,38.8677,-121.1318
+Pasatiempo,Pasatiempo,CA,37.0035,-122.0265
+Laytonville,Laytonville,CA,39.6715,-123.4945
+Grizzly Flats,Grizzly Flats,CA,38.6357,-120.5355
+Maricopa,Maricopa,CA,35.0516,-119.4054
+Clay,Clay,CA,38.314,-121.1596
+Malaga,Malaga,CA,36.6816,-119.7318
+Mariposa,Mariposa,CA,37.4873,-119.9682
+Knightsen,Knightsen,CA,37.9633,-121.6511
+Woodacre,Woodacre,CA,38.0052,-122.6384
+Yosemite Valley,Yosemite Valley,CA,37.7407,-119.5779
+Sunnyside-Tahoe City,Sunnyside-Tahoe City,CA,39.1504,-120.1613
+Tahoe Vista,Tahoe Vista,CA,39.2483,-120.0535
+Elkhorn,Elkhorn,CA,36.8103,-121.7212
+Big River,Big River,CA,34.1393,-114.3604
+Alpaugh,Alpaugh,CA,35.8876,-119.4873
+Hasley Canyon,Hasley Canyon,CA,34.4817,-118.6665
+Palo Cedro,Palo Cedro,CA,40.5511,-122.2363
+Mountain Ranch,Mountain Ranch,CA,38.2509,-120.5119
+Gerber,Gerber,CA,40.0614,-122.1482
+Covelo,Covelo,CA,39.8025,-123.2499
+Camanche North Shore,Camanche North Shore,CA,38.2442,-120.9538
+Matheny,Matheny,CA,36.1707,-119.3516
+Kettleman City,Kettleman City,CA,36.009,-119.9627
+Sea Ranch,Sea Ranch,CA,38.7165,-123.4527
+Acalanes Ridge,Acalanes Ridge,CA,37.9046,-122.0786
+Johnstonville,Johnstonville,CA,40.3789,-120.5846
+Santa Margarita,Santa Margarita,CA,35.3893,-120.6084
+Westhaven-Moonstone,Westhaven-Moonstone,CA,41.0447,-124.1023
+Fairmead,Fairmead,CA,37.0775,-120.1937
+Taft Mosswood,Taft Mosswood,CA,37.9139,-121.2831
+Fort Dick,Fort Dick,CA,41.8663,-124.1526
+Inverness,Inverness,CA,38.082,-122.8471
+Shandon,Shandon,CA,35.6536,-120.3831
+Crowley Lake,Crowley Lake,CA,37.5692,-118.7465
+Plymouth,Plymouth,CA,38.4776,-120.8584
+Maxwell,Maxwell,CA,39.2771,-122.1946
+Bolinas,Bolinas,CA,37.9177,-122.7095
+West Park,West Park,CA,36.7055,-119.8516
+Bradbury,Bradbury,CA,34.1536,-117.9684
+Hydesville,Hydesville,CA,40.5579,-124.0822
+McClellan Park,McClellan Park,CA,38.6631,-121.4015
+Parklawn,Parklawn,CA,37.6069,-120.9793
+Knights Landing,Knights Landing,CA,38.7979,-121.7175
+Lompico,Lompico,CA,37.1101,-122.0523
+Riverdale Park,Riverdale Park,CA,37.6028,-121.0425
+Thornton,Thornton,CA,38.231,-121.425
+Beale AFB,Beale AFB,CA,39.1095,-121.3543
+McCloud,McCloud,CA,41.254,-122.136
+Julian,Julian,CA,33.0735,-116.5889
+Silverado Resort,Silverado Resort,CA,38.3536,-122.2556
+Cedar Ridge,Cedar Ridge,CA,38.0661,-120.2737
+Cobb,Cobb,CA,38.8356,-122.723
+Pala,Pala,CA,33.3617,-117.0696
+Chalfant,Chalfant,CA,37.5105,-118.375
+Talmage,Talmage,CA,39.1314,-123.1648
+Tuttletown,Tuttletown,CA,38.0003,-120.4503
+Sultana,Sultana,CA,36.5464,-119.3359
+March ARB,March ARB,CA,33.8888,-117.2776
+Squirrel Mountain Valley,Squirrel Mountain Valley,CA,35.6176,-118.4046
+Tulelake,Tulelake,CA,41.9534,-121.4752
+Monte Rio,Monte Rio,CA,38.4683,-123.0147
+Tahoma,Tahoma,CA,39.0633,-120.1438
+Cleone,Cleone,CA,39.4927,-123.7812
+Westley,Westley,CA,37.5444,-121.2035
+Herald,Herald,CA,38.2913,-121.2318
+Springville,Springville,CA,36.1168,-118.8345
+Fruitdale,Fruitdale,CA,37.3116,-121.9357
+La Honda,La Honda,CA,37.3182,-122.2651
+Butte Creek Canyon,Butte Creek Canyon,CA,39.749,-121.6968
+Minkler,Minkler,CA,36.7277,-119.4587
+Mountain Gate,Mountain Gate,CA,40.7184,-122.3262
+Boonville,Boonville,CA,39.0115,-123.374
+Wallace,Wallace,CA,38.1978,-120.9586
+Santa Susana,Santa Susana,CA,34.258,-118.6662
+Lake of the Woods,Lake of the Woods,CA,34.8226,-119.0027
+Linnell Camp,Linnell Camp,CA,36.3089,-119.2225
+Hopland,Hopland,CA,38.9691,-123.1173
+Garberville,Garberville,CA,40.1003,-123.7948
+Mesa Verde,Mesa Verde,CA,33.5957,-114.7317
+Camanche Village,Camanche Village,CA,38.2662,-120.9866
+Lake Don Pedro,Lake Don Pedro,CA,37.6461,-120.3367
+Stratford,Stratford,CA,36.1884,-119.8224
+Norris Canyon,Norris Canyon,CA,37.7454,-121.9878
+Dorris,Dorris,CA,41.9644,-121.9205
+Upper Lake,Upper Lake,CA,39.1653,-122.9052
+Bodega,Bodega,CA,38.3488,-122.9712
+Whitewater,Whitewater,CA,33.9356,-116.6873
+Diablo Grande,Diablo Grande,CA,37.4006,-121.2699
+Plainview,Plainview,CA,36.1423,-119.1375
+Fuller Acres,Fuller Acres,CA,35.3023,-118.9143
+Teviston,Teviston,CA,35.929,-119.2783
+Fieldbrook,Fieldbrook,CA,40.9722,-124.025
+North Edwards,North Edwards,CA,35.0474,-117.8093
+Mi-Wuk Village,Mi-Wuk Village,CA,38.057,-120.179
+Soda Bay,Soda Bay,CA,39.0024,-122.7794
+Deer Park,Deer Park,CA,38.536,-122.4679
+Walker,Walker,CA,38.5341,-119.4582
+Mendocino,Mendocino,CA,39.311,-123.7908
+East Tulare Villa,East Tulare Villa,CA,36.2035,-119.2821
+Blacklake,Blacklake,CA,35.0497,-120.5387
+Sunol,Sunol,CA,37.5894,-121.8854
+Summerland,Summerland,CA,34.4255,-119.5893
+Isleton,Isleton,CA,38.1617,-121.6051
+Happy Camp,Happy Camp,CA,41.8104,-123.3892
+Potrero,Potrero,CA,32.6131,-116.6068
+Occidental,Occidental,CA,38.4004,-122.9349
+Penryn,Penryn,CA,38.8478,-121.1699
+Greenville,Greenville,CA,40.1336,-120.9454
+Tranquillity,Tranquillity,CA,36.648,-120.2525
+Aguanga,Aguanga,CA,33.4522,-116.8555
+Dollar Point,Dollar Point,CA,39.1905,-120.1089
+East Orosi,East Orosi,CA,36.5481,-119.2599
+Zayante,Zayante,CA,37.0889,-122.0414
+Manila,Manila,CA,40.8513,-124.1631
+Clyde,Clyde,CA,38.0253,-122.0278
+Los Olivos,Los Olivos,CA,34.6647,-120.118
+Littlerock,Littlerock,CA,34.5232,-117.9809
+Alhambra Valley,Alhambra Valley,CA,37.9665,-122.132
+Indio Hills,Indio Hills,CA,33.8411,-116.2484
+Forest Ranch,Forest Ranch,CA,39.8952,-121.6705
+Geyserville,Geyserville,CA,38.7173,-122.9034
+Traver,Traver,CA,36.4526,-119.4824
+Greeley Hill,Greeley Hill,CA,37.7569,-120.1291
+Bootjack,Bootjack,CA,37.4672,-119.8887
+Middletown,Middletown,CA,38.7518,-122.6221
+Indianola,Indianola,CA,40.8133,-124.0808
+Butte Valley,Butte Valley,CA,39.6571,-121.6363
+Glen Ellen,Glen Ellen,CA,38.3564,-122.5412
+Challenge-Brownsville,Challenge-Brownsville,CA,39.4646,-121.2632
+Etna,Etna,CA,41.4582,-122.8946
+Kenwood,Kenwood,CA,38.4153,-122.5387
+Delft Colony,Delft Colony,CA,36.512,-119.4465
+Hickman,Hickman,CA,37.6228,-120.7532
+Loyalton,Loyalton,CA,39.6768,-120.2448
+Inyokern,Inyokern,CA,35.6546,-117.8212
+Fort Jones,Fort Jones,CA,41.6085,-122.8411
+Mokelumne Hill,Mokelumne Hill,CA,38.3057,-120.7061
+North Gate,North Gate,CA,37.9062,-121.9981
+Gasquet,Gasquet,CA,41.8429,-123.9733
+Tres Pinos,Tres Pinos,CA,36.7904,-121.3105
+Calpella,Calpella,CA,39.2322,-123.197
+Junction City,Junction City,CA,40.7274,-123.0615
+Millville,Millville,CA,40.5576,-122.1696
+Lytle Creek,Lytle Creek,CA,34.2499,-117.5044
+Lakehead,Lakehead,CA,40.9007,-122.3924
+Waterloo,Waterloo,CA,38.0365,-121.1846
+Bodega Bay,Bodega Bay,CA,38.325,-123.0308
+Kernville,Kernville,CA,35.7531,-118.4321
+New Cuyama,New Cuyama,CA,34.9421,-119.6808
+San Simeon,San Simeon,CA,35.6182,-121.1375
+Valley Acres,Valley Acres,CA,35.2087,-119.4106
+Fulton,Fulton,CA,38.4937,-122.7734
+Dustin Acres,Dustin Acres,CA,35.2159,-119.375
+Ducor,Ducor,CA,35.8943,-119.0456
+Klamath,Klamath,CA,41.5322,-124.0063
+Loleta,Loleta,CA,40.6409,-124.2225
+Niland,Niland,CA,33.2387,-115.5146
+Cohasset,Cohasset,CA,39.9022,-121.7453
+Patton Village,Patton Village,CA,40.1401,-120.1778
+Douglas City,Douglas City,CA,40.6636,-122.9261
+Peters,Peters,CA,37.9763,-121.044
+Doyle,Doyle,CA,40.0275,-120.1172
+Seville,Seville,CA,36.4856,-119.2247
+Alto,Alto,CA,37.9056,-122.5186
+Caspar,Caspar,CA,39.3631,-123.8044
+Cedarville,Cedarville,CA,41.528,-120.1748
+Miranda,Miranda,CA,40.2289,-123.8173
+Catheys Valley,Catheys Valley,CA,37.4371,-120.0936
+Friant,Friant,CA,36.9848,-119.713
+Independence,Independence,CA,36.8274,-118.2132
+Stinson Beach,Stinson Beach,CA,37.9051,-122.6456
+Buena Vista,Buena Vista,CA,38.2974,-120.9179
+Cold Springs,Cold Springs,CA,38.7468,-120.8761
+Madison,Madison,CA,38.675,-121.9702
+Shelter Cove,Shelter Cove,CA,40.0389,-124.0558
+Allensworth,Allensworth,CA,35.8498,-119.3893
+Desert Shores,Desert Shores,CA,33.4041,-116.0394
+Alta,Alta,CA,39.2138,-120.8033
+River Pines,River Pines,CA,38.5454,-120.7475
+Newell,Newell,CA,41.8897,-121.3675
+Avery,Avery,CA,38.1939,-120.379
+Concow,Concow,CA,39.7733,-121.5196
+Paradise Park,Paradise Park,CA,37.0063,-122.0425
+Scotia,Scotia,CA,40.4774,-124.1032
+San Lucas,San Lucas,CA,36.1283,-121.0217
+San Ardo,San Ardo,CA,36.0237,-120.9074
+Bridgeport,Bridgeport,CA,38.2562,-119.2123
+Baker,Baker,CA,35.2769,-116.0718
+Fort Washington,Fort Washington,CA,36.8793,-119.7613
+Ballico,Ballico,CA,37.4519,-120.7037
+Graeagle,Graeagle,CA,39.7572,-120.6486
+Ballard,Ballard,CA,34.634,-120.1156
+Los Berros,Los Berros,CA,35.0809,-120.545
+Lake Hughes,Lake Hughes,CA,34.6833,-118.4588
+Wilkerson,Wilkerson,CA,37.2794,-118.3877
+Lockwood,Lockwood,CA,35.9412,-121.0802
+Yettem,Yettem,CA,36.4866,-119.2549
+Round Valley,Round Valley,CA,37.4067,-118.5819
+Rough and Ready,Rough and Ready,CA,39.234,-121.1381
+Bend,Bend,CA,40.2561,-122.2095
+Cowan,Cowan,CA,37.5601,-120.9888
+Smith River,Smith River,CA,41.9249,-124.1494
+Potter Valley,Potter Valley,CA,39.319,-123.1123
+Hamilton Branch,Hamilton Branch,CA,40.2772,-121.0961
+Smith Corner,Smith Corner,CA,35.4788,-119.2771
+Onyx,Onyx,CA,35.6839,-118.2102
+Delleker,Delleker,CA,39.8101,-120.4969
+Shaver Lake,Shaver Lake,CA,37.0971,-119.3245
+Coleville,Coleville,CA,38.5834,-119.516
+Mad River,Mad River,CA,40.4325,-123.4917
+Clarksburg,Clarksburg,CA,38.4193,-121.5416
+West Point,West Point,CA,38.4043,-120.5374
+Carnelian Bay,Carnelian Bay,CA,39.2346,-120.0767
+Point Arena,Point Arena,CA,38.9123,-123.6955
+Bass Lake,Bass Lake,CA,37.328,-119.5668
+Diablo,Diablo,CA,37.8408,-121.9565
+Terminous,Terminous,CA,38.1154,-121.4896
+McArthur,McArthur,CA,41.0415,-121.4068
+Ripley,Ripley,CA,33.5238,-114.6531
+French Gulch,French Gulch,CA,40.7166,-122.6312
+California Pines,California Pines,CA,41.4117,-120.6605
+Oak Glen,Oak Glen,CA,34.0448,-116.9497
+Bangor,Bangor,CA,39.3761,-121.4117
+West Goshen,West Goshen,CA,36.349,-119.4516
+Coloma,Coloma,CA,38.8026,-120.8946
+Mexican Colony,Mexican Colony,CA,35.4689,-119.2687
+Chilcoot-Vinton,Chilcoot-Vinton,CA,39.8067,-120.1388
+Robbins,Robbins,CA,38.8672,-121.7055
+Meadow Valley,Meadow Valley,CA,39.9322,-121.0831
+Spreckels,Spreckels,CA,36.6247,-121.6465
+Beckwourth,Beckwourth,CA,39.8485,-120.4111
+Raisin City,Raisin City,CA,36.6033,-119.9092
+Forbestown,Forbestown,CA,39.53,-121.2689
+Lake Almanor Country Club,Lake Almanor Country Club,CA,40.2578,-121.147
+Boulevard,Boulevard,CA,32.664,-116.2896
+Garden Farms,Garden Farms,CA,35.4158,-120.614
+Martell,Martell,CA,38.3623,-120.8039
+Sand City,Sand City,CA,36.6189,-121.8478
+San Geronimo,San Geronimo,CA,38.0068,-122.6634
+Grenada,Grenada,CA,41.6406,-122.526
+June Lake,June Lake,CA,37.7677,-119.1022
+Orick,Orick,CA,41.2909,-124.0692
+Tonyville,Tonyville,CA,36.2474,-119.0903
+Derby Acres,Derby Acres,CA,35.2439,-119.6039
+Princeton,Princeton,CA,39.4029,-122.0212
+Centerville,Centerville,CA,36.7361,-119.4961
+Cantua Creek,Cantua Creek,CA,36.5001,-120.3164
+Stirling City,Stirling City,CA,39.9065,-121.5361
+Tehama,Tehama,CA,40.0218,-122.1269
+Meridian,Meridian,CA,39.1404,-121.9079
+Davenport,Davenport,CA,37.0176,-122.1882
+Lake Almanor Peninsula,Lake Almanor Peninsula,CA,40.2812,-121.1345
+Plumas Eureka,Plumas Eureka,CA,39.7982,-120.6645
+Mineral,Mineral,CA,40.3755,-121.5694
+Edmundson Acres,Edmundson Acres,CA,35.2273,-118.8233
+Trinidad,Trinidad,CA,41.0589,-124.1434
+Anchor Bay,Anchor Bay,CA,38.8126,-123.5704
+Manton,Manton,CA,40.4202,-121.854
+Rio Oso,Rio Oso,CA,38.9518,-121.531
+Nipinnawasee,Nipinnawasee,CA,37.4031,-119.7293
+Mesa,Mesa,CA,37.4189,-118.5424
+Oak Shores,Oak Shores,CA,35.7624,-120.9817
+Dobbins,Dobbins,CA,39.3657,-121.2127
+Grangeville,Grangeville,CA,36.3439,-119.7075
+Cazadero,Cazadero,CA,38.5265,-123.0978
+Cressey,Cressey,CA,37.421,-120.6556
+Camptonville,Camptonville,CA,39.4521,-121.0488
+El Nido,El Nido,CA,37.1324,-120.4985
+Muir Beach,Muir Beach,CA,37.8654,-122.5858
+Clipper Mills,Clipper Mills,CA,39.5324,-121.1666
+Benton,Benton,CA,37.8189,-118.4844
+Twain,Twain,CA,40.0355,-121.0404
+Fiddletown,Fiddletown,CA,38.5091,-120.7605
+Cromberg,Cromberg,CA,39.8684,-120.6904
+Hood,Hood,CA,38.3693,-121.5155
+Nord,Nord,CA,39.774,-121.9549
+Artois,Artois,CA,39.6332,-122.1898
+Jacumba,Jacumba,CA,32.6278,-116.1826
+Grimes,Grimes,CA,39.0742,-121.8988
+Crows Landing,Crows Landing,CA,37.3947,-121.0843
+Weott,Weott,CA,40.3226,-123.9209
+Richfield,Richfield,CA,39.9738,-122.1732
+Burnt Ranch,Burnt Ranch,CA,40.811,-123.5082
+Bombay Beach,Bombay Beach,CA,33.3548,-115.7307
+Sierra Brooks,Sierra Brooks,CA,39.6426,-120.2153
+Bloomfield,Bloomfield,CA,38.3183,-122.8502
+Keswick,Keswick,CA,40.6135,-122.4606
+Point Reyes Station,Point Reyes Station,CA,38.0847,-122.8093
+Lindcove,Lindcove,CA,36.3595,-119.0721
+Pajaro Dunes,Pajaro Dunes,CA,36.8722,-121.8101
+Monson,Monson,CA,36.4927,-119.3358
+Canby,Canby,CA,41.4477,-120.8843
+Yankee Hill,Yankee Hill,CA,39.7007,-121.5147
+Dorrington,Dorrington,CA,38.2949,-120.2706
+Fall River Mills,Fall River Mills,CA,41.0069,-121.4401
+East Nicolaus,East Nicolaus,CA,38.91,-121.5443
+Bowles,Bowles,CA,36.6089,-119.7526
+Monterey Park Tract,Monterey Park Tract,CA,37.5268,-121.0115
+Smartsville,Smartsville,CA,39.2053,-121.2928
+Salton Sea Beach,Salton Sea Beach,CA,33.3759,-116.0115
+Greenhorn,Greenhorn,CA,39.903,-120.759
+Albion,Albion,CA,39.2256,-123.7564
+Trowbridge,Trowbridge,CA,38.9264,-121.5148
+Dillon Beach,Dillon Beach,CA,38.2436,-122.956
+Trinity Village,Trinity Village,CA,40.8789,-123.5133
+Fields Landing,Fields Landing,CA,40.7249,-124.2176
+Swall Meadows,Swall Meadows,CA,37.5061,-118.6426
+Three Rocks,Three Rocks,CA,36.5051,-120.3936
+Cassel,Cassel,CA,40.9213,-121.5514
+Groveland,Groveland,CA,37.8325,-120.2394
+Elmira,Elmira,CA,38.3523,-121.9077
+Hiouchi,Hiouchi,CA,41.7936,-124.0662
+Guinda,Guinda,CA,38.8275,-122.1985
+Vallecito,Vallecito,CA,38.074,-120.4564
+Lemon Cove,Lemon Cove,CA,36.379,-119.0312
+Vina,Vina,CA,39.9343,-122.0518
+Greenview,Greenview,CA,41.5471,-122.9185
+Dos Palos Y,Dos Palos Y,CA,37.0466,-120.6394
+Olancha,Olancha,CA,36.2704,-118.0015
+Mesa Vista,Mesa Vista,CA,38.8103,-119.8033
+Keene,Keene,CA,35.233,-118.6103
+Lanare,Lanare,CA,36.4377,-119.9322
+Lake Almanor West,Lake Almanor West,CA,40.2336,-121.2021
+Whitley Gardens,Whitley Gardens,CA,35.6571,-120.5068
+El Portal,El Portal,CA,37.6736,-119.799
+Pescadero,Pescadero,CA,37.2507,-122.3725
+Manchester,Manchester,CA,38.9744,-123.6909
+Desert Center,Desert Center,CA,33.7378,-115.3666
+Victor,Victor,CA,38.1385,-121.1987
+Cherokee Strip,Cherokee Strip,CA,35.4698,-119.2617
+Samoa,Samoa,CA,40.8146,-124.1893
+Little River,Little River,CA,39.2703,-123.7817
+La Vina,La Vina,CA,36.8799,-120.1147
+Hornbrook,Hornbrook,CA,41.9079,-122.5596
+Clear Creek,Clear Creek,CA,40.3023,-121.0531
+Richvale,Richvale,CA,39.4937,-121.7507
+Daphnedale Park,Daphnedale Park,CA,41.5089,-120.5507
+Rackerby,Rackerby,CA,39.4261,-121.3542
+Milford,Milford,CA,40.1634,-120.3686
+Litchfield,Litchfield,CA,40.3877,-120.3809
+Acampo,Acampo,CA,38.1735,-121.2798
+Industry,Industry,CA,34.0175,-117.9267
+Big Creek,Big Creek,CA,37.2036,-119.2486
+Taylorsville,Taylorsville,CA,40.0586,-120.8387
+Coffee Creek,Coffee Creek,CA,41.0802,-122.7136
+Bear Valley,Bear Valley,CA,37.5671,-120.1229
+Yolo,Yolo,CA,38.7405,-121.8093
+Fort Bidwell,Fort Bidwell,CA,41.8629,-120.1589
+Winterhaven,Winterhaven,CA,32.7372,-114.6378
+Tomales,Tomales,CA,38.247,-122.9054
+Garey,Garey,CA,34.8869,-120.3141
+Iron Horse,Iron Horse,CA,39.7805,-120.4823
+Rail Road Flat,Rail Road Flat,CA,38.3168,-120.491
+Amador City,Amador City,CA,38.419,-120.8232
+Wawona,Wawona,CA,37.5482,-119.6395
+Verdi,Verdi,CA,39.5237,-120.0164
+Valley Home,Valley Home,CA,37.8272,-120.9144
+Elk Creek,Elk Creek,CA,39.6002,-122.5376
+Calpine,Calpine,CA,39.6633,-120.4436
+Proberta,Proberta,CA,40.0762,-122.1776
+Port Costa,Port Costa,CA,38.0446,-122.185
+Courtland,Courtland,CA,38.3329,-121.557
+Dutch Flat,Dutch Flat,CA,39.208,-120.8345
+North San Juan,North San Juan,CA,39.3719,-121.106
+Fairhaven,Fairhaven,CA,40.7885,-124.2013
+Stevinson,Stevinson,CA,37.3247,-120.8497
+Philo,Philo,CA,39.0657,-123.4452
+Chinese Camp,Chinese Camp,CA,37.8703,-120.4443
+Edna,Edna,CA,35.2108,-120.606
+Loma Mar,Loma Mar,CA,37.2658,-122.3007
+Farmington,Farmington,CA,37.9299,-121.0043
+Adin,Adin,CA,41.1964,-120.9494
+College City,College City,CA,39.0063,-122.0068
+Ruth,Ruth,CA,40.2943,-123.3483
+Sierra Village,Sierra Village,CA,38.0768,-120.1624
+Sisquoc,Sisquoc,CA,34.8622,-120.2943
+Lodoga,Lodoga,CA,39.3041,-122.5058
+Tecopa,Tecopa,CA,35.835,-116.2074
+Tooleville,Tooleville,CA,36.2878,-119.1154
+Bluewater,Bluewater,CA,34.176,-114.264
+Pike,Pike,CA,39.4278,-120.9996
+Downieville,Downieville,CA,39.5701,-120.8213
+Mettler,Mettler,CA,35.0635,-118.9729
+Bieber,Bieber,CA,41.1251,-121.1336
+Alderpoint,Alderpoint,CA,40.1614,-123.6157
+Flournoy,Flournoy,CA,39.9284,-122.4461
+Trinity Center,Trinity Center,CA,40.9841,-122.7083
+Waukena,Waukena,CA,36.1361,-119.511
+Nicolaus,Nicolaus,CA,38.8981,-121.5729
+Bear Creek,Bear Creek,CA,37.2966,-120.4177
+Pine Flat,Pine Flat,CA,35.8737,-118.6427
+Montgomery Creek,Montgomery Creek,CA,40.8415,-121.9215
+Casmalia,Casmalia,CA,34.8376,-120.5311
+Tupman,Tupman,CA,35.2987,-119.3575
+Timber Cove,Timber Cove,CA,38.541,-123.259
+C-Road,C-Road,CA,39.7628,-120.577
+Hardwick,Hardwick,CA,36.4026,-119.7208
+Cherokee,Cherokee,CA,39.6514,-121.5344
+Big Bend,Big Bend,CA,41.0109,-121.924
+Myers Flat,Myers Flat,CA,40.2666,-123.8737
+Markleeville,Markleeville,CA,38.6841,-119.8225
+Hat Creek,Hat Creek,CA,40.8101,-121.4809
+Volta,Volta,CA,37.0875,-120.9235
+East Shore,East Shore,CA,40.2451,-121.0768
+Sierra City,Sierra City,CA,39.574,-120.6297
+Topaz,Topaz,CA,38.6587,-119.5274
+Randsburg,Randsburg,CA,35.368,-117.6607
+Moskowite Corner,Moskowite Corner,CA,38.4464,-122.1945
+Snelling,Snelling,CA,37.5216,-120.4387
+Johannesburg,Johannesburg,CA,35.3718,-117.642
+Benbow,Benbow,CA,40.0603,-123.7654
+Mount Laguna,Mount Laguna,CA,32.8711,-116.4247
+McKittrick,McKittrick,CA,35.2981,-119.6249
+Honcut,Honcut,CA,39.3326,-121.5388
+Hyampom,Hyampom,CA,40.6262,-123.4689
+Bradley,Bradley,CA,35.8628,-120.8042
+Monmouth,Monmouth,CA,36.5656,-119.7405
+Vernon,Vernon,CA,34.0019,-118.2106
+Spaulding,Spaulding,CA,40.6557,-120.7863
+Furnace Creek,Furnace Creek,CA,36.4277,-116.8747
+Paskenta,Paskenta,CA,39.8833,-122.5458
+Long Barn,Long Barn,CA,38.0957,-120.1285
+Alpine Village,Alpine Village,CA,38.7856,-119.8009
+Rodriguez Camp,Rodriguez Camp,CA,35.809,-119.1388
+Darwin,Darwin,CA,36.2689,-117.589
+Big Lagoon,Big Lagoon,CA,41.1592,-124.1303
+Comptche,Comptche,CA,39.2651,-123.5896
+Lee Vining,Lee Vining,CA,37.9547,-119.1221
+Mono City,Mono City,CA,38.0412,-119.1467
+Tuttle,Tuttle,CA,37.2965,-120.3789
+Crescent Mills,Crescent Mills,CA,40.1008,-120.9217
+Fish Camp,Fish Camp,CA,37.4797,-119.6373
+Carrick,Carrick,CA,41.4467,-122.3635
+Stonyford,Stonyford,CA,39.3703,-122.5445
+Oakville,Oakville,CA,38.4384,-122.4067
+Round Mountain,Round Mountain,CA,40.8005,-121.9376
+Ocotillo,Ocotillo,CA,32.7431,-116.002
+New Pine Creek,New Pine Creek,CA,41.9872,-120.3009
+Rutherford,Rutherford,CA,38.4568,-122.4231
+Sattley,Sattley,CA,39.6265,-120.4357
+Sierraville,Sierraville,CA,39.575,-120.3637
+Leggett,Leggett,CA,39.8635,-123.7253
+Westside,Westside,CA,36.4042,-120.1341
+Kirkwood,Kirkwood,CA,38.693,-120.064
+Sereno del Mar,Sereno del Mar,CA,38.3836,-123.0732
+Paynes Creek,Paynes Creek,CA,40.3409,-121.9174
+Alleghany,Alleghany,CA,39.4666,-120.841
+Keddie,Keddie,CA,40.0059,-120.9525
+Mount Hebron,Mount Hebron,CA,41.7855,-122.0083
+Nicasio,Nicasio,CA,38.0605,-122.7008
+Kingvale,Kingvale,CA,39.3203,-120.4387
+Freeport,Freeport,CA,38.4636,-121.5022
+Phillipsville,Phillipsville,CA,40.2117,-123.7844
+Homewood Canyon,Homewood Canyon,CA,35.89,-117.3863
+Sunny Slopes,Sunny Slopes,CA,37.5694,-118.6759
+Hornitos,Hornitos,CA,37.5034,-120.242
+Palo Verde,Palo Verde,CA,33.4279,-114.7273
+Coulterville,Coulterville,CA,37.7105,-120.1992
+El Rancho,El Rancho,CA,36.2207,-119.069
+Clio,Clio,CA,39.7487,-120.5725
+Lake City,Lake City,CA,41.646,-120.2255
+Washington,Washington,CA,39.3591,-120.7906
+Gazelle,Gazelle,CA,41.5137,-122.5215
+Macdoel,Macdoel,CA,41.8258,-122.0058
+Mohawk Vista,Mohawk Vista,CA,39.8048,-120.5883
+Moss Landing,Moss Landing,CA,36.8019,-121.7872
+Robinson Mill,Robinson Mill,CA,39.4857,-121.3202
+Indian Falls,Indian Falls,CA,40.0587,-120.9803
+Lake Davis,Lake Davis,CA,39.8564,-120.463
+Eagleville,Eagleville,CA,41.3191,-120.1147
+Fellows,Fellows,CA,35.1779,-119.5472
+Whitehawk,Whitehawk,CA,39.7206,-120.5536
+Panorama Heights,Panorama Heights,CA,35.8068,-118.627
+McClenney Tract,McClenney Tract,CA,35.822,-118.6478
+California Hot Springs,California Hot Springs,CA,35.8863,-118.6561
+Soda Springs,Soda Springs,CA,39.3248,-120.3784
+Lookout,Lookout,CA,41.21,-121.1545
+Butte Meadows,Butte Meadows,CA,40.0871,-121.537
+Volcano,Volcano,CA,38.4456,-120.6306
+Trona,Trona,CA,35.815,-117.3449
+Pierpoint,Pierpoint,CA,36.1405,-118.6296
+Sequoia Crest,Sequoia Crest,CA,36.1858,-118.6256
+Edgewood,Edgewood,CA,41.462,-122.426
+Nubieber,Nubieber,CA,41.0967,-121.1816
+Valley Ford,Valley Ford,CA,38.3246,-122.9148
+Creston,Creston,CA,35.5173,-120.5211
+Old Station,Old Station,CA,40.6722,-121.4228
+Jenner,Jenner,CA,38.4511,-123.1203
+Prattville,Prattville,CA,40.206,-121.1575
+Goodyears Bar,Goodyears Bar,CA,39.5458,-120.8881
+Tennant,Tennant,CA,41.5815,-121.9151
+Little Valley,Little Valley,CA,40.893,-121.1781
+Mabie,Mabie,CA,39.7771,-120.5447
+Redcrest,Redcrest,CA,40.3987,-123.9474
+Aspen Springs,Aspen Springs,CA,37.55,-118.7087
+Drytown,Drytown,CA,38.4382,-120.8565
+Spring Garden,Spring Garden,CA,39.9012,-120.7935
+Salmon Creek,Salmon Creek,CA,38.3463,-123.0595
+Ponderosa,Ponderosa,CA,36.105,-118.5293
+Blairsden,Blairsden,CA,39.7752,-120.6109
+Cuyama,Cuyama,CA,34.9312,-119.6148
+Shoshone,Shoshone,CA,35.951,-116.3055
+Graniteville,Graniteville,CA,39.4443,-120.736
+Buck Meadows,Buck Meadows,CA,37.8127,-120.0653
+Keeler,Keeler,CA,36.4846,-117.872
+Sugarloaf Village,Sugarloaf Village,CA,35.8269,-118.6354
+Pearsonville,Pearsonville,CA,35.8188,-117.8755
+Cartago,Cartago,CA,36.3123,-118.0261
+Poso Park,Poso Park,CA,35.8114,-118.6364
