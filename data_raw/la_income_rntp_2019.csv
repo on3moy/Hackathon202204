@@ -1,0 +1,74 @@
+﻿Source: ACS 1-Year Estimates Public Use Microdata Sample 2019,,,,,,,,,,
+Weight used: WGTP,,,,,,,,,,
+"Universe: selected geographies: Los Angeles County (North/U..., Los Angeles County (Northwe..., Los Angeles County (North C..., Los Angeles County (North C..., Los Angeles County (North)-..., Los Angeles County (North)-..., Los Angeles County--LA (Nor..., Los Angeles County (North)-..., Los Angeles County (Central..., Los Angeles County--Baldwin..., Los Angeles County (East Ce..., Los Angeles County (East Ce..., Los Angeles County (East Ce..., Los Angeles County--Diamond..., Los Angeles County (East Ce..., Los Angeles County (East Ce..., Los Angeles County (East Ce..., Los Angeles County (Central..., Los Angeles County (Central..., Los Angeles County (Central..., Los Angeles County (North)-..., Los Angeles County (Northwe..., Los Angeles County (North)-..., Los Angeles County (Northwe..., Los Angeles County--LA City..., Los Angeles County--Calabas..., Los Angeles County (Central..., Los Angeles County (Southwe..., Los Angeles County (West Ce..., Los Angeles County (West Ce..., Los Angeles County (Central..., Los Angeles County (Central..., Los Angeles County (Central..., Los Angeles County--LA City..., Los Angeles County--LA City..., Los Angeles County (Central..., Los Angeles County (Central..., Los Angeles County (Central..., Los Angeles County (Southea..., Los Angeles County (Central..., Los Angeles County (Central..., Los Angeles County (Central..., Los Angeles County (Central..., Los Angeles County (Central..., Los Angeles County (Central..., Los Angeles County--LA City..., Los Angeles County (Central..., Los Angeles County--LA (Sou..., Los Angeles County (Central..., Los Angeles County (South C..., Los Angeles County (South C..., Los Angeles County (South)-..., Los Angeles County (South)-..., Los Angeles County (Southea..., Los Angeles County (Southea..., Los Angeles County (Southea..., Los Angeles County (South C..., Los Angeles County (South C..., Los Angeles County (South C..., Los Angeles County--Redondo..., Los Angeles County (South C..., Los Angeles County (South C..., Los Angeles County (South C..., Los Angeles County (South)-..., Los Angeles County (Southea..., Los Angeles County (South)-..., Los Angeles County (South)-..., Los Angeles County (Southwe..., Los Angeles County (Southea...",,,,,,,,,,
+,"Household income (past 12 months, use ADJINC to adjust HINCP to constant dollars) recode (HINCP_RC1)",,,,,,,,,
+Selected Geographies,200000-Max,Negative Income,No Income,20001-40000,60001-80000,80001-120000,120001-160000,160001-200000,1-20000,400001-60000
+"Los Angeles County (North/Unincorporated)--Castaic PUMA, California",60,561,687,544,304,287,89,536,150,348
+"Los Angeles County (Northwest)--Santa Clarita City PUMA, California",179,605,329,826,589,681,478,156,1061,595
+"Los Angeles County (North Central)--Lancaster City PUMA, California",595,295,395,681,437,519,348,121,569,505
+"Los Angeles County (North Central)--Palmdale City PUMA, California",319,839,492,496,334,244,458,389,527,575
+"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch) PUMA, California",192,813,1763,1094,728,762,333,734,661,760
+"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar) PUMA, California",144,529,362,684,984,501,422,267,715,841
+"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities PUMA, California",122,404,929,772,422,443,352,148,621,470
+"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga) PUMA; California",228,201,114,798,583,474,417,560,668,489
+"Los Angeles County (Central)--San Gabriel Valley Region (North) PUMA, California",239,0,1975,755,1009,656,384,526,901,498
+"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities PUMA; California",339,763,622,636,568,487,249,279,561,695
+"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities PUMA; California",126,294,937,616,777,759,391,203,336,700
+"Los Angeles County (East Central)--Pomona City PUMA, California",534,527,996,743,565,519,789,262,803,659
+"Los Angeles County (East Central)--Covina & Walnut Cities PUMA, California",20,915,1578,668,433,551,860,0,553,649
+"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights PUMA; California",81,784,1107,528,683,582,381,457,476,523
+"Los Angeles County (East Central)--West Covina City PUMA, California",290,339,35,678,776,498,389,607,725,595
+"Los Angeles County (East Central)--La Puente & Industry Cities PUMA, California",171,631,,500,272,498,440,647,360,774
+"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities PUMA; California",372,827,1541,806,912,755,565,595,564,794
+"Los Angeles County (Central)--Pasadena City PUMA, California",620,332,1422,946,1008,1522,1151,1123,800,1229
+"Los Angeles County (Central)--Glendale City PUMA, California",481,689,1515,1175,1290,1409,876,683,1097,1010
+"Los Angeles County (Central)--Burbank City PUMA, California",451,918,773,1081,1123,1293,881,810,974,1010
+"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village) PUMA, California",515,1119,690,1115,1491,1202,1148,1562,960,1209
+"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks) PUMA, California",579,534,1162,1078,1275,1052,905,704,1010,1016
+"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City) PUMA, California",291,753,802,925,685,669,645,312,909,1022
+"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana) PUMA, California",179,867,1450,1003,682,709,540,542,900,857
+"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills) PUMA; California",608,753,151,1145,929,743,610,819,924,1038
+"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities PUMA; California",538,709,1823,736,609,606,108,96,493,607
+"Los Angeles County (Central)--LA City (Central/Pacific Palisades) PUMA, California",415,397,1465,1405,1000,1260,1251,755,920,1382
+"Los Angeles County (Southwest)--Santa Monica City PUMA, California",1237,950,1293,1256,1216,1752,1477,1697,1037,1088
+"Los Angeles County (West Central)--LA City (West Central/Westwood & West Los Angeles) PUMA, California",940,1087,1546,1424,1251,1440,1626,1698,1276,1499
+"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire) PUMA, California",1090,966,1596,1310,1371,1545,1644,1220,1077,1495
+"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities PUMA, California",913,796,1026,1163,1372,1589,1906,1650,907,1651
+"Los Angeles County (Central)--LA City (East Central/Hollywood) PUMA, California",737,622,1205,1132,1486,1439,1609,1086,952,1404
+"Los Angeles County (Central)--LA City (Central/Koreatown) PUMA, California",1605,768,1576,1212,1420,1595,1454,1346,983,1245
+"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake) PUMA; California",696,505,1143,871,1110,1353,1220,1194,774,1166
+"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park) PUMA; California",545,309,523,680,774,937,753,504,626,942
+"Los Angeles County (Central)--Alhambra & South Pasadena Cities PUMA, California",634,524,753,1072,1059,1039,717,1157,686,962
+"Los Angeles County (Central)--Monterey Park & Rosemead Cities PUMA, California",550,244,899,893,776,540,650,211,350,840
+"Los Angeles County (Central)--El Monte & South El Monte Cities PUMA, California",0,481,1600,917,687,716,698,498,626,817
+"Los Angeles County (Southeast)--Whittier City & Hacienda Heights PUMA, California",94,703,307,688,563,516,281,100,740,588
+"Los Angeles County (Central)--Pico Rivera & Montebello Cities PUMA, California",434,403,617,809,498,270,503,0,482,715
+"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities PUMA; California",989,0,1064,938,800,923,570,619,872,984
+"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park PUMA; California",211,255,975,788,820,504,574,637,865,959
+"Los Angeles County (Central)--East Los Angeles PUMA, California",0,440,850,784,733,596,435,662,682,803
+"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights) PUMA, California",1832,1157,1805,1158,1007,1416,1952,1660,688,1063
+"Los Angeles County (Central)--LA City (Southeast/East Vernon) PUMA, California",876,351,694,941,1040,750,388,517,746,866
+"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park) PUMA, California",130,648,1653,763,1058,1017,882,658,840,1097
+"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills) PUMA, California",209,670,810,986,900,603,691,599,668,1025
+"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities PUMA, California",1060,888,2122,1049,970,1616,1309,1186,1002,1556
+"Los Angeles County (Central)--Inglewood City PUMA, California",282,309,1158,1023,905,1125,804,574,979,784
+"Los Angeles County (South Central)--LA City (South Central/Westmont) PUMA, California",468,402,720,665,643,599,324,338,664,633
+"Los Angeles County (South Central)--LA City (South Central/Watts) PUMA, California",595,519,848,608,828,739,515,101,703,711
+"Los Angeles County (South)--South Gate & Lynwood Cities PUMA, California",229,301,672,796,660,471,428,0,655,800
+"Los Angeles County (South)--Downey City PUMA, California",0,1020,,1007,965,1042,258,469,793,956
+"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities PUMA, California",94,1180,1500,657,708,363,202,306,546,625
+"Los Angeles County (Southeast)--Norwalk City PUMA, California",0,465,1123,485,805,479,487,119,771,587
+"Los Angeles County (Southeast)--Bellflower & Paramount Cities PUMA, California",324,473,982,939,1018,987,289,792,917,916
+"Los Angeles County (South Central)--Compton City & West Rancho Dominguez PUMA, California",10,386,305,624,307,241,171,486,520,476
+"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens PUMA; California",470,1220,1424,902,754,713,583,524,759,863
+"Los Angeles County (South Central)--Hawthorne City PUMA, California",353,657,1100,1108,1008,802,808,1155,1005,1066
+"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities PUMA; California",454,854,0,1019,1235,1692,1159,1341,965,1010
+"Los Angeles County (South Central)--Torrance City PUMA, California",624,261,1592,756,895,712,1021,684,874,1189
+"Los Angeles County (South Central)--Carson City PUMA, California",261,382,532,673,496,473,67,553,583,311
+"Los Angeles County (South Central)--Long Beach City (North) PUMA, California",125,226,1537,778,698,406,540,745,585,1035
+"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities PUMA; California",124,554,203,799,782,613,576,498,709,554
+"Los Angeles County (Southeast)--Long Beach City (East) PUMA, California",501,1406,2068,726,1049,1021,862,533,803,785
+"Los Angeles County (South)--Long Beach City (Southwest & Port) PUMA, California",808,414,1134,1055,1184,943,669,751,857,1207
+"Los Angeles County (South)--LA City (South/San Pedro) PUMA, California",446,587,551,893,953,774,448,606,647,968
+"Los Angeles County (Southwest)--Palos Verdes Peninsula PUMA, California",220,320,2132,775,1137,849,617,421,521,461
+"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities PUMA, California",428,996,1245,1208,1059,1140,608,824,1060,1078
